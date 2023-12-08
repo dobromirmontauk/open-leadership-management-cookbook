@@ -5,5 +5,6 @@ Equity is a very complex topic, too much to handle here. A great place to start 
 # Recipes
 
 ## Value-based Equity Philosophy
+A value-based equity philosophy is when a company uses some type of current valuation (preferred, 409(a), or public) to assign a value to its equity. While these methods theoretically allow for some apples-to-apples comparison, company valuations are about as reliable as horoscopes so your mileage may vary. 
 
-Doxel example is [here](doxel_equity_value_philosophy.md)
+* [Series B Equity Valuation Philosophy Recipe](doxel_equity_value_philosophy.md)
