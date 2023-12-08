@@ -6,4 +6,4 @@ Equity is a very complex topic, too much to handle here. A great place to start 
 
 ## Value-based Equity Philosophy
 
-Doxel example is [here](doxel_equity_value_philosophy)
+Doxel example is [here](doxel_equity_value_philosophy.md)
