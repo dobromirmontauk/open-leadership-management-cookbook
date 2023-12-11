@@ -22,10 +22,10 @@ TODO
 I always felt a little uncomfortable with the 'market-based valuation' recipes, even though I understand they are probably the correct way to grant equity for early startups. Still, it would be nice to know that startups are giving the right proportion of their equity to employees so that, risk-adjusted, we aren't asking the entire population of startup employees to accept *worse outcomes* than if they went to Big Tech. So this is the recipe I came up with to understand what % is 'reasonable' and what % is 'unreasonable'. 
 
 Ingredients:
-1. (Employee market value)[TODO]: some fresh data around how much equity this employee could get at a Big Tech company (or whatever their best alternative might be).
-2. (Current startup valuation)[TODO]: while this should be easy to get from the company (just ask for their last preferred valuation), valuations have their own recipes -- so make sure you use the one that tastes right for you!
-3. (Expected growth rate)[TODO]: this is mostly guesswork (black magic). Put together some numbers by year using the recipes specified here.
-4. (Risk premium)[TODO]: there is some data at the population level of startups. But each startup is different. Salt to taste.
+1. [Employee market value](TODO): some fresh data around how much equity this employee could get at a Big Tech company (or whatever their best alternative might be).
+2. [Current startup valuation](TODO): while this should be easy to get from the company (just ask for their last preferred valuation), valuations have their own recipes -- so make sure you use the one that tastes right for you!
+3. [Expected growth rate](TODO): this is mostly guesswork (black magic). Put together some numbers by year using the recipes specified here.
+4. [Risk premium](TODO): there is some data at the population level of startups. But each startup is different. Salt to taste.
 
 Now that we have these ingredients ready, we can figure out the appropriate amount of equity ignoring risk. Let’s define these terms:
 1. Market value (MV): total $ employee would make on market.
