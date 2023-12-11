@@ -1,8 +1,8 @@
 # Overview
 Ah, equity. That delicious little number on your offer that looks like a $1M for some reason. But what is it, really? How does it work? And, most importantly, as a new Head of Engineering, how the hell do I figure out how much to give it, when to give it, and how to feel confident I'm giving the right amount?
 
-Equity is a very complex topic, way too deep to handle here. A great place to start if you are new to thinking about equity is (The Open Guide to Equity Compensation
-)[https://github.com/jlevy/og-equity-compensation?tab=readme-ov-file#typical-employee-equity-levels]. 
+Equity is a very complex topic, way too deep to handle here. A great place to start if you are new to thinking about equity is [The Open Guide to Equity Compensation
+](https://github.com/jlevy/og-equity-compensation?tab=readme-ov-file#typical-employee-equity-levels). 
 
 The recipes below will assume that you understand a lot of the technical terms around equity. We'll attempt to give you some approaches to quicky build a great equity program for your engineers, and pointers to example artifacts.
 
