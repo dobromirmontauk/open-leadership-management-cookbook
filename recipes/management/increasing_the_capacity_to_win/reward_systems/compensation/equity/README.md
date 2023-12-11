@@ -46,9 +46,21 @@ In [spreadsheet format](https://docs.google.com/spreadsheets/d/18ohkLSS3MMsgmS6p
 **How do you factor in risk?** The equity numbers above assume zero risk in the company hitting those growth targets. I don’t know of any hard & fast rule on how to factor in risk. You could build a “probability distribution” model, or you could negotiate the “growth factor” multiplier (e.g. company says “we are going for 8x growth”, and you can ask for a “6x multiplier since 8x is risky because…”). Risk tends to decrease as the company gets bigger, and you have other benefits on top that might make up for it... To keep things simple, we just apply a risk factor to the final equity BPS.
 
 (My original post on the subject is [here](https://the-edge-of-experience.ghost.io/ghost/#/editor/post/6577762f4d71370001a35478))
+(TODO: we are not including dilution in the above math and really we should!)
 
 
 ## New Offer Recipes
 TODO 
 ## Refresher Grant Recipes
 TODO
+
+# For Employees
+**I thought I’d get rich by joining a Unicorn??**
+So… it depends on (a) your value on the market, (b) the stage of the company, and (c) what you consider “rich”. Remember that there is a wide talent pool out there so companies are aiming to get “close” to your market value and not overpay for talent - they wouldn’t be great companies if they couldn’t figure out how to control their largest costs - people!! If you join a very early stage company (pre-seed or just post-seed) and can get a sizable 0.3-0.5% grant, then you’re likely to end up with ~$1M-$3M (post-dilution) when the company hits $1B. Note that could be >6 years after you join so you better have planned to exercise those options if you leave, or be stuck at the company until they are liquid!
+
+If you join a mid-stage company (>$100M in valuation) some of the risk is behind the company and a lot of growth is still ahead of the company - while your value on the market is the same! Since the startup is now likely to generate many $100Ms in value over the next few years your slice of the pie - to get to your market value - shrinks rapidly. Hitting “unicorn status” of $1B will no longer make you rich, and it shouldn’t since that is a “pretty normal outcome” for the startup! Instead, you should be thinking “what is much better than normal growth?” and make sure your equity package looks good if the startup hits those numbers - then maybe the $1M-$3M is back in play.
+
+Most of the stories out of Silicon Valley come when startups do WAY better than $1B - e.g. Snowflake or Airbnb at $100B, very recently. In those cases, people would have done alright at $1B-$10B values, and instead they got 10x better. Our $100K/year Sr. Engineer is suddenly making $1M-$2M/year at Snowflake. 
+
+## Sweat Equity Venture Capital
+The one other benefit not discussed above is the upside you have after you stop working there. The model assumes that you can sell your shares after 4 years, and that is all your equity is worth. However, if you have the good fortune of being able to exercise and hold your options, then suddenly you can grab all the growth for the next N years, even if you leave. This is a rare opportunity since otherwise only VCs can benefit from these early, pre-IPO years of startup growth. So if you are patient, and you believe in the company, instead of settling for 4x or 8x increases you can look at 16x or 32x. The risk, of course, increases. Choose your own adventure. 
