@@ -23,7 +23,7 @@ I always felt a little uncomfortable with the 'market-based valuation' recipes, 
 
 Ingredients:
 1. [Employee market value](TODO): some fresh data around how much equity this employee could get at a Big Tech company (or whatever their best alternative might be).
-2. [Current startup valuation](TODO): while this should be easy to get from the company (just ask for their last preferred valuation), valuations have their own recipes -- so make sure you use the one that tastes right for you!
+2. [Current startup valuation](https://github.com/dobromirmontauk/llm-recipes/blob/main/recipes/management/increasing_the_capacity_to_win/reward_systems/compensation/company_valuation_recipes.md): while this should be easy to get from the company (just ask for their last preferred valuation), valuations have their own recipes -- so make sure you use the one that tastes right for you!
 3. [Expected growth rate](TODO): this is mostly guesswork (black magic). Put together some numbers by year using the recipes specified here.
 4. [Risk premium](TODO): there is some data at the population level of startups. But each startup is different. Salt to taste.
 
