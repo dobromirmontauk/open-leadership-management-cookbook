@@ -20,6 +20,10 @@ Both Leadership & Management are fundamentally about changing how people think. 
 ## Audience: Engineering
 All of the recipes in this cookbook are built assuming that the cook is a _software engineering_ leader & manager. That doesn't mean that the recipes can't be altered to fit a different palate; like a type of cuisine, many of them can be adopted whole-sale, while others might be usable with minor modifications. Some may not work at all. 
 
+
+## Section Health
+There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we are using color-codes per section.
+
 # Table of Contents
 
   1. [Definitions](definitions/README.md)
