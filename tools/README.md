@@ -16,7 +16,7 @@
         * Equation
 * Feedback
 * Nudges
-* Compensation
+
 * Encouragement
 * Vacuum 
 * Broadcast dynamics
@@ -32,4 +32,24 @@
     * Book list
 * Asking questions
     * Open vs Leading
+* Asking for feedback
+    * Pros + cons
+* Asking for help
+    * 
+* FYIs
+* Decision Vector * Weights
+    * Used in scorecards, OKRs, decision making
+* Mindmaps
+* Writing things down
+* ORG CHARTS
+    * Forcing function for lots of things!
+    * Reporting structure tells people what is important to you + the company.
+    * Conway's law
+    * RECIPE: Flat vs Deep. Embedding decisions IN the org charge. Ossification. 
+    
+* Compensation
+  * Forcing function for lots of things
+  * Comp tells everyone what you really value.
+* Stories!
+    * humans love stories
     
