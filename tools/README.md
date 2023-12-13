@@ -17,3 +17,5 @@ Misc
 * What you say
 * What you do
 * What you're aware of
+Negotiation?
+* Book list

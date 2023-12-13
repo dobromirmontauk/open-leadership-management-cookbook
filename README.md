@@ -17,12 +17,24 @@ Both Leadership & Management are fundamentally about changing how people think. 
 
 *Leadership* and *Management* are not opposites, they are two ends of a spectrum of work that we do to change how people think. On the Leadership side of the spectrum, we are focused on _direction_: how do we need to change how people think so we end up at the best possible outcome? On the Management side of the spectrum, we are focused on _efficiency_: how do we need to change how people think so we get there with the least possible effort (money, time, resources)? Great leaders find inspirational, yet attainable, outcomes for the team. Great managers make getting there look easy. Those that can do both create a dynamic organization that fluidly navigates the unexpected challenges every ambitious team encounters.
 
+## The Skill Stack: Choose Wisely!
+TODO: explain what the skill stack is & how to build it.  
+Skill: Combination of knowledge + practice. 
+
 ## Audience: Engineering
 All of the recipes in this cookbook are built assuming that the cook is a _software engineering_ leader & manager. That doesn't mean that the recipes can't be altered to fit a different palate; like a type of cuisine, many of them can be adopted whole-sale, while others might be usable with minor modifications. Some may not work at all. 
 
 
 ## Section Health
-There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we are using color-codes per section.
+There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we use the following badges:
+
+1. 📄 Placeholder. This means the page exists purely as an empty canvas for future work.
+2. 📋 Raw notes. This means the page has notes being stored to convert into an actual document. The notes might be useful, but they probably aren't.
+3. 🌪 In progress. This means I'm actively working on the page and it will be changing in the near future. It probably shouldn't be read yet.
+4. 🚧 Draft. This means the page has some useful content is probably worth reading, but shouldn't be considered complete yet.
+5. ✅ Published. This means the page is likely useful.
+6. 👥✅ Core Team Contributions. This means the page has had other people contributing to it and is now a "group-owned" page.
+7. 🌐✅ Public Contributions. This means the page is now generally useful to the public since we've had non core-team members contributing to it.
 
 # Table of Contents
 
