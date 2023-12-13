@@ -49,3 +49,6 @@ Repeat once a year to keep things tasting fresh.
 1. Your CEO very likely won't care about your ranges -- until it's the worst possible time to care about them. Usually this is when you are about to close a candidate, or put together the 2024 budget off these numbers. 🤷‍♂️ You may need to find a decision pressure like that in order to get the ranges approved.
 2. Your entire company should ideally use a common approach, but they won't. You most often end up with very different equity numbers between departments. Keep an eye out for this -- a good way is to ask for advice from your sales/product/operations counterpart on "how are you doing equity grants?" If you notice something VERY off, bring it up with the CFO/CEO/HR team gently.
 3. Ranges & Calculators are just a tool. The REAL decision makers are the "cash in the bank" and "equity in the option pool". Make sure you have enough there before you waste time on calculating how many $M that 10-person Bay Area A-team will cost you. If you aren't sure, go hire the penguins.
+
+### Pave Tools
+You can save yourself a lot of time by spending a lot money and just using [Pave](https://www.pave.com/compensation-planning). It's basically a spreadsheet that costs you $10K a year (I'm guessing that number, I like making spreadsheets myself...)
