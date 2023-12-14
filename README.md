@@ -54,12 +54,13 @@ There are a LOT of sections in this cookbook. Since we are actively working on i
 	1. Software tracking?
 	1. Managing a budget monthly.
 1. Layoff risk recipe.
-1. Red/Yellow/Green tracking recipe.
+1. Execution recipes
+    1. Red/Yellow/Green tracking
+    2. Cycles recipe
 1. Hiring recipes
 	1. Before you start... 
 		1. What are the core ingredients? Psychology... What else?
 		1. What are the core tools? 
-		
 	1. Topgrading recipe. 
 	1. Training meal. How do you up-level your team's ability to hire?
 	1. Training feast. How do you up-level your org/company's ability to hire?
