@@ -59,6 +59,7 @@ There are a LOT of sections in this cookbook. Since we are actively working on i
 	1. Before you start... 
 		1. What are the core ingredients? Psychology... What else?
 		1. What are the core tools? 
+		
 	1. Topgrading recipe. 
 	1. Training meal. How do you up-level your team's ability to hire?
 	1. Training feast. How do you up-level your org/company's ability to hire?

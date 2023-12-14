@@ -6,6 +6,8 @@
 	* Emotional control
 * Meetings
 	* Working 1:1 
+        * 1:1 doc recipe
+        
 	* Small group dynamics
 	* Large group dynamics
 	* Culture
@@ -52,4 +54,7 @@
   * Comp tells everyone what you really value.
 * Stories!
     * humans love stories
+* Notetaker
+    * Lots of power in owning the narrative!!
+    * Live note taking --> you can define the direction the team is going in by 'summarizing' what people are saying
     
