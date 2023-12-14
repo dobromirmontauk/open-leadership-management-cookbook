@@ -2,7 +2,7 @@
 
 From: &lt;PM>
 
-To: [eng-all@doxel.ai](mailto:eng-all@doxel.ai), [product-all@doxel.ai](mailto:product-all@doxel.ai), [schedule-vertical-team@doxel.ai](mailto:schedule-vertical-team@doxel.ai)
+To: REDACTED
 
 Subject: [PRODUCT LOOKAHEAD] Schedule Team 9/18
 
@@ -12,7 +12,7 @@ The Schedule Team just started the 9/18 Sprint. Our goals for the Sprint are ava
 
 
 
-1. Ship the Critical Path changes per this [PRD](https://docs.google.com/document/d/1RnfpEY5tq-kuYPg7qY9sRagKA1F8TVDSEQlGeUkBUTE/edit) and [TDD](https://docs.google.com/document/d/1I4jWpaNpmstJz2FDqO0Bn7xMaa5w_4203rp3afqp35Y/edit#heading=h.d614f6ugzt4a).
+1. Ship the Critical Path changes per this [PRD](example) and [TDD](example).
 2. Fix all the issues identified in the Schedule Review tool that prevented launch, documented here. 
 3. Put together a PRD and TDD for the XYZ feature to be ready for the 10/3 Sprint.
 
@@ -25,11 +25,11 @@ Our Schedule Product Roadmap has been updated and can be seen here.
 
 From: &lt;Vertical Tech Lead>
 
-To: [eng-all@doxel.ai](mailto:eng-all@doxel.ai), [product-all@doxel.ai](mailto:product-all@doxel.ai) , [schedule-vertical-team@doxel.ai](mailto:schedule-vertical-team@doxel.ai) 
+To: REDACTED
 
 Subject: [SPRINT REPORT] Schedule Team 9/18
 
-The Schedule Team just completed the 9/18 Sprint. Our Sprint Retro is available [here for discussion](https://docs.google.com/document/d/13KzkffMrPCUaj0_fcPOSmv-GeHe-MKiXLTQg1fYnsIQ/edit), or below for your convenience:
+The Schedule Team just completed the 9/18 Sprint. Our Sprint Retro is available [here for discussion](example), or below for your convenience:
 
 **Goals**
 
