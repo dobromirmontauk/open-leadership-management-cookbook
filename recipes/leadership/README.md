@@ -12,7 +12,14 @@ Systems Thinking
 Asking for help!
 Always come with 3 options
 Sharing your thought process, as you think. Taking people along the journey with you
+Winning Hearts & Minds
 
 Engineering Strategy
 Product Roadmap
 Engineering Roadmap
+
+
+# Hierarchy 
+What is leadership & what is management??
+Strategy ("where are we going?")
+Planning ("how are we getting there?")
