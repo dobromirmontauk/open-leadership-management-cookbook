@@ -18,6 +18,7 @@ Engineering Strategy
 Product Roadmap
 Engineering Roadmap
 
+"convey a can do and don’t worry attitude" --> positivity is infectious. Force multiplier.
 
 # Hierarchy 
 What is leadership & what is management??

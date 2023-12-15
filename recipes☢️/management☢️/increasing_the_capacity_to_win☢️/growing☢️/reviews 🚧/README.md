@@ -71,10 +71,60 @@ I make the Virtues a required part of the self-review -- that way they have 'tee
 
 
 ## Peer Feedback
+Peer feedback, also called 360 degree feedback, is a process where peers get to give each other feedback. In this case 'peers' are usually anyone in the company other than the direct manager; it can include other teams, other departments, or even skip-level managers. This process is often run as part of the Review/Compensation cycle, but sometimes you'll see it run completely independently, to make it clearer that is feedback for growth and does not impact the employee's compensation. Use your judgement.
+
+A peer feedback process isn't always the right thing to implement. Here's a short list of pros/cons. Feel free to add more :)
+
+Pros:
+
+* Helps avoid politics by limiting manager power in the review process.
+* Helps team dynamics by making it clear you need to support your peers.
+* Helps managers understand their employees better.
+* Makes peers more involved in the growth of team mates.
+
+Cons: 
+
+* Expensive! It takes a lot of time; imagine each peer is asked to rate 4-6 others, and it takes 2-3 hours. You could be spending almost 2 entire business days *across everyone* 
+* It can increase politics if peers tribelize and have an 'us-vs-them' attitude.
+* Insensitive peer reviews can inflame tensions across a team.
+
+
+### Ingredients
+* [Self-review](#Self-Reviews): this is optional but recommended. Share the self-reviews with everyone doing a peer review so they have a chance to refresh their memories.
+* Peer choosing algorithm: there are 3 main ways of doing this, you can mix & match if you'd like. 
+    * Let folks choose their own reviewers. 
+    * Have managers choose the reviewers.
+    * Automatically choose reviewers based on code interactions, team structure, email exchanges, etc.
+
+### Dobromir's Written Peer Feedback Recipe
+I used to request written feedback during peer reviews, using the script below, which basically follows the [Self Review](#Self-Review) script.
+
+```
+1. Project Section (repeated for every project in Self Review):
+    1. What was impressive about the employee’s contributions to this project?
+    2. How could the employee have contributed even more to this project?
+2. Strengths Section (repeated for every strength in Self Review):
+    3. Do you agree with this strength? Give examples of yes/no.
+3. AFI Section (repeated for every AFI in Self Review):
+    4. Do you agree with this AFI? Give examples of yes/no.
+4. One more thing…
+    5. If you could magically change one thing about your peer, what would it be?
+```
+
+The challenge with this recipe is that if you have ~5 reports and each has ~5 peer reviews, you need to manage 25 responses. Invariably, the responses end up being vague, or you have some questions you'd like to follow up on, or you have a pattern you noticed from a couple of reviewers and you'd like one more data point... And so you end up spending a lot of time going back to reviewers. 
+
+### Dobromir's Interview Peer Feedback Recipe
+I use this recipe more than the one above now. Kudos go out to [Joseph Unruh](https://www.linkedin.com/in/josephunruh/) for teaching me how to do this.
+
+Instead of asking for written feedback, I basically do the above but in an interview setting. 15 minutes is often enough to get 80% of the value; 30 minutes is almost always enough for any level of seniority. I take live notes during the conversation. Reviewers really appreciate not having to spend hours wordsmithing a document; they save time and I save time as well. 
+
+Follow-up questions are key here. Learning to be a good [Interviewer](/tools/interviewing.md) is really important. 
 
 
 ## Manager Review
 One Growth Area
+
+### Dobromir's Manager Review Recipe
 
 ## Calibration
 Curve?
