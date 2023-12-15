@@ -11,8 +11,6 @@
 # Philosophy
 Our Performance Review approach is intended to reinforce some core pieces of our [company virtues]():
 
-
-
 * **Ownership**: we expect our employees to be _owners_, which includes ownership over their growth, career, and personal performance. Our employees should be striving to improve themselves with the support of their colleagues and manager.
 * **Decisiveness:**  we expect our employees to act quickly, with conviction. Our employees can make the judgement call of “good” versus “great” for quality of work when it comes to “fast” versus “slow” pace of completion.
 * **Intellectual Honesty**: we expect our empoyees to challenge peers so we can win as a company, faster. For Performance Reviews this means providing direct, actionable feedback backed by examples. 
@@ -33,8 +31,6 @@ They may also be done for other employees, at the discretion of their manager.
 
 In order to implement our Performance Review philosophy we are implementing the following process:
 
-
-
 1. **Self Review**: each employee will write a _self-review_ that is shared with their peers (chosen by the Manager/Employee).
 2. **Manager Review**: each employee will have a verbal Manager review provided based on the self-review and Manager feedback. Whenever possible, the Manager will include peer feedback from interviews or written feedback. Optionally, the Manager can provide a written Manager review (this is generally encouraged, especially for remote employees, but it is not required).
 3. **Peer Review (optional)**: each employee will be reviewed by their peers across the company.
@@ -52,15 +48,12 @@ In order to implement our Performance Review philosophy we are implementing the 
 
 The Self Review is the anchor of the company’s Performance Review systems. It serves two main purposes:
 
-
-
 1. Ensures that the employee is thinking about their own performance, both strengths and areas for improvement, so that they can consciously think about the next few years of their career.
 2. Provides peers with a “refresher” that will help them target their feedback to maximize the usefulness to the employee. Everyone is busy and may not remember the details of what others have worked on; the Self Review provides that context.
 
-The Self Review takes work. It should be about 2 pages long (no more than 3, no less than 1!) and take ~hours to write (2 hours is a good median; 1 hour means you’re not thinking enough). It should cover **the last 12 months at the company, with more focus on the last 6 months.** 
+The Self Review takes work. It should be about 2 pages long (no more than 3, no less than 1!) and take ~hours to write (4 hours is a good median; 2 hours means you’re not thinking enough). It should cover **the last 12 months at the company, with more focus on the last 6 months.** 
 
 **Self Reviews should strictly follow this format -[ use this template]()**:
-
 
 
 1. **Responsibilities & Projects section** (repeat 3-5 times):
