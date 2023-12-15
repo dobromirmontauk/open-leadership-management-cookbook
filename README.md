@@ -35,13 +35,13 @@ All of the recipes in this cookbook are built assuming that the cook is a _softw
 ## Section Health
 There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we use the following badges:
 
-1. 📄 Placeholder. This means the page/tree exists purely as an empty canvas for future work.
-2. 📋 Raw notes. This means the page/tree has notes being stored to convert into an actual document. The notes might be useful, but they probably aren't.
-3. 🌪 In progress. This means I'm actively working on the page/tree and it will be changing in the near future. It probably shouldn't be read yet.
+1. 🚫 Placeholder. This means the page/tree exists purely as an empty canvas for future work.
+2. ⚠️ Raw notes. This means the page/tree has notes being stored to convert into an actual document. The notes might be useful, but they probably aren't.
+3. ☢️ In progress. This means I'm actively working on the page/tree and it will be changing in the near future. It probably shouldn't be read yet.
 4. 🚧 Draft. This means the page/tree has some useful content is probably worth reading, but shouldn't be considered complete yet.
 5. ✅ Published. This means the page/tree is likely useful.
-6. 👥✅ Core Team Contributions. This means the page/tree has had other people contributing to it and is now a "group-owned" page.
-7. 🌐✅ Public Contributions. This means the page/tree is now generally useful to the public since we've had non core-team members contributing to it.
+6. ❇️ Core Team Contributions. This means the page/tree has had other people contributing to it and is now a "group-owned" page.
+7. ✳️ Public Contributions. This means the page/tree is now generally useful to the public since we've had non core-team members contributing to it.
 
 # Table of Contents
 
