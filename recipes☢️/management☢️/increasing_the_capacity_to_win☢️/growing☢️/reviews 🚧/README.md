@@ -203,23 +203,37 @@ I love the challenge of unlocking people's potential by truly understanding them
 That concludes the manager review. Of course, it would be a waste to put all that time into a review and then ignore it for the next 12 months, until the next Review Period. Read our other Growth recipes about how to use this Manager Review throughout the year. 
 
 #### Examples
-[Sr. Ops Manager](examples/manager_review_sr_ops_em.md)
-[Engineering Manager](examples/manager_review_em.md)
-[Sr. TL/M](examples/manager_review_sr_eng.md)
-
+* [Sr. Ops Manager](examples/manager_review_sr_ops_em.md)
+* [Engineering Manager](examples/manager_review_em.md)
+* [Sr. TL/M](examples/manager_review_sr_eng.md)
+* Lots more examples in the [firing](/recipes/management/increasing_the_capacity_to_win/firing/examples) directory... 
+    * TODO(dmontauk): move those here and link the other way?
 
 ## Calibration
-Curve?
-Usually not discussed!
+Calibration is the process of normalizing performance scores to avoid the [Lake Wobegon effect](https://psychology.fandom.com/wiki/Lake_Wobegon_effect) where "all the children are above average". Calibration is really unavoidable; even it happens implicitly (managers talk to each other in private to cross-reference their people) or explicitly (you set up a process to cross-reference people). Like most things in management, being explicit has advantages -- even you explicitly tell your managers to talk privately :)
 
-"Everyone is exceeding expectations..."
+Note that the _curve_ is up to you: perhaps you do believe most of your people are 'above average' because you hire that way. Or perhaps you subscribe to the [Vitality Curve](https://en.wikipedia.org/wiki/Vitality_curve) approach. If you'd like to contribute some recipes around how to decide on curves we'd love input!
 
-### Dobromir's Calibration Recipe
-Kudos to Wade Chambers for this recipe. He introduced me to it at TellApart in 2015. It was fascinating to see how calibration could be MORE than a 
+### Another Challenge!
+While the main purpose of calibration is indeed to ensure some amount of fairness across an organization, as managers we can use it for a much more powerful purpose: improving our own management skills. Calibration is a unique moment where _managers come together to discuss their people_. It's the best time to encourage a specific _management_ culture, since you have all your managers in the room. The questions you ask, the focus you have, will reveal your hidden preferences to all YOUR managers. So think carefully about what you want to accomplish in calibration, other than just setting the curve.
+
+### Google (2013) Calibration Recipe 
+TODO
+
+### Dobromir's Calibration Recipe (TellApart/Doxel)
+Kudos to [Wade Chambers](https://www.linkedin.com/in/wadechambers/) for this recipe. He introduced me to it at TellApart in 2015. I was part of a few calibration meetings at Google the years before and this was the first time I saw that calibration could be used to think about _growth_ instead of _horse trading_. The magic came from three things:
+
+1. Visualize your entire team on one board with _forward progress for each individual_ [clearly shown? potential? expected?]
+2. Spend most of your time asking "how do we move this individual into the next box?"
+3. Get your engineering managers & senior ICs to collaborate on answering the question.
+
+It was fascinating to see how calibration could be MORE than a 
 
 Main question: "how do we help this individual move to the next box"?
 The UI makes it more obvious this is the question!!
 
+### Twitter (2018) Calibration Recipe
+TODO
 ## Performance Score
 
 # Putting It Together
