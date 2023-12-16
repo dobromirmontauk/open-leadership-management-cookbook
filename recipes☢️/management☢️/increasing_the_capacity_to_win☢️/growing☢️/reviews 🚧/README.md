@@ -1,7 +1,9 @@
 # Performance Reviews ✅
-Ah, performance reviews! Every manager's favorite time of year... not. So many employees and managers alike fear this process. Sometimes its the tedium, paper-pushing feeling. Sometimes it's the nauseating self-agrandizement and politicking encouraged by the approach. And, often, it's the realization that you would need a hundred hours to provide really meaningful feedback to your entire team and you just don't have that kind of time.
+Ah, performance reviews! Every engineers's favorite time of year... not. So many employees and managers alike fear this season. Sometimes its the tedium, paper-pushing feeling. Sometimes it's the nauseating self-agrandizement and politicking encouraged by the process. And, often, it's the realization that you would need a hundred hours to provide really meaningful feedback to your entire team and you just don't have that kind of time.
 
-But... how you review and compensate your people is the "sharp end" of your culture. In the end, all the words you use to describe yourselves are empty if they aren't backed up by praises & raises during a Review Cycle. There is _no way_ to avoid having a Performance Review Process, because even if you have no process -- that _is_ your process. Employees know that you are judging their performance against others. They expect occasional increases in compensation, usually yearly, sometimes more frequently. While there is no "right way" to do performance reviews, and no "right time" to implement a process, no review cycles mean you are OK with your employees being stressed out because they don't know if they are meeting expectation. It means you are OK rewarding the squeakiest wheel that comes complaining to you about comp, rather than your top performer who is silently shipping features left and right. Perhaps that's OK for the stage of your team/company. We would venture, though, that even a VERY lightweight process is better than no process. 
+But... how you review and compensate your people is the "sharp end" of your culture. In the end, all the words you use to describe yourselves are empty if they aren't backed up by **praises & raises** during a Review Cycle. There is _no way_ to avoid having a Performance Review Process, because even if you have no process -- that _is_ your process. Employees know that you are judging their performance against others. They know you will fire people who don't meet expectations, even if those have never been vergalized. They expect occasional increases in compensation, usually yearly, sometimes more frequently. While there is no "right way" to do performance reviews, and no "right time" to implement a process, not having a review process means you are OK with your employees being stressed out because they don't know how they are **officially** performing. It means you are OK rewarding the squeakiest wheel that comes complaining to you about comp, rather than your top performer who is silently shipping features left and right. Perhaps that's OK for the stage of your team/company. We would venture, though, that even a VERY lightweight process is better than no process. Find the right recipe below.
+
+## A Challenge to All Us Managers
 
 But why can't we managers do much, much better? What's preventing us from turning performance reviews into the most rewarding time of the year? If feedback is a gift then why aren't we treating it like Christmas?? Aren't we incredibly lucky to have such talented people working for us? Let's have fun celebrating their accomplishments! Aren't we incredibly lucky to be surrounded by such motivated individuals? Let's hold up a mirror to help them see what they need to grow even further! We are blessed with the opportunity to change people's lives for the better. Let's embrace this moment and give it everything we have.
 
@@ -12,7 +14,7 @@ So before you try any of these recipes, work on yourself.
 # Major Components
 Every performance review system we've seen or heard of is made up of the parts below. Each is done differently in different places; some are skipped entirely. We'll explain the purposes of each below, and walk through specific recipes to give you a feeling of some things you could try. 
 
-Jump to # Putting It Together if you want to see some examples of end-to-end process documentation.
+Jump to #Putting It Together if you want to see some examples of end-to-end process documentation.
 
 ## Self-Reviews
 These are reviews written by the employee themselves. They may or may not be shared with other employees; they are always shared with the Engineering Manager + HR. They can be completely open-ended or strictly adhere to some template per process. There are several reasons why we'd recommend having self-reviews:
@@ -69,6 +71,8 @@ Feel free to refer to the expectations again for this section. The more you do t
 #### Demonstration of Company Virtues
 I make the Virtues a required part of the self-review -- that way they have 'teeth'. Each employee must rank themselves 1-5 on each Virtue and provide a bullet point on what they need to get to the next level. If they are a 5 (you should have quite a few!) then they need to include one bullet on how they can help _someone else_ improve -- since that's what 5s are supposed to do...
 
+#### Examples
+I have my self-reviews going back almost 15 years now. I'm happy to share examples of how I do this for myself if you reach out to ask.
 
 ## Peer Feedback
 Peer feedback, also called 360 degree feedback, is a process where peers get to give each other feedback. In this case 'peers' are usually anyone in the company other than the direct manager; it can include other teams, other departments, or even skip-level managers. This process is often run as part of the Review/Compensation cycle, but sometimes you'll see it run completely independently, to make it clearer that is feedback for growth and does not impact the employee's compensation. Use your judgement.
@@ -122,9 +126,87 @@ Follow-up questions are key here. Learning to be a good [Interviewer](/tools/int
 
 
 ## Manager Review
-One Growth Area
+This is the Main Dish. You can skip pretty much every other part of a review process, but you can't skip this one. If the employee doesn't get a review from their manager then you can't call it a 'review process'.
+
+The purpose of a Manager Review is to motivate the employee so you get higher performance from them going forward ('increase capacity to win'). That's the only purpose from the business's perspective. You might have additional reasons (good!) but don't accidentally confuse them with this one. You should choose the review process that maximizes future 'capacity to win' (while balancing this with current 'winning', of course). That might mean, in some organizations, spending more time on certain manager reviews and less on others; or even using different recipes for different individuals. You might want to be 'fair' and treat everyone 'equally' but remember that [fairness]() and [equality]() are just other spectrums that you should land on wisely, depending on what your team/company needs at this point.
+
+So how do you motivate an employee in a manager review? There are generally 3 approaches we've seen:
+
+1. Call out what they are doing well. [Positive reinforcement](tools/positive_reinforcement.md) tool!
+2. Create a desire for self-improvement. [Carrot](tools/carrot.md) tool!
+3. Create a fear of the consequences. [Stick](tools/stick.md) tool!
+
+
+### Ingredients
+* Self-review [optional]
+* Peer-reviews [optional]
+
+Note that if you have these ingredients, or the other ingredients earlier, and you _don't use them_, you'll create a ton of confusion. Your manager reviews absolutely must take any self-review, peer feedback, and standards into account. The only thing worse than spending a ton of time writing reviews is then finding out that the manager ignored that input...
+
+### Lighweight Manager Review Recipe
+This is the *lightest* review process we can recommend. Do this if you have serious burning business priorities preempting you and "increasing the capacity to win" is basically irrelevant.
+
+1. Choose one of the following ratings for each of your employees:
+    1. Does Not Meet Expectations.
+    1. Meets Expectations.
+    1. Sometimes Exceeds Expectations.
+    1. Exceeds Expectations.
+    1. Strongly Exceeds Expectations.
+1. Shoot an email to your employee as follows:
+    1. Subject: Your Rating For QX20XX
+    1. Body: "Hi Jane, your rating for QX20XX is '[rating]. Let's discuss your performance in our next 1:1."
+    1. **It has to be an email**. Slack is rude. Verbal-only communication does NOT count as an official rating. 
+1. In your next 1:1, give a brief explanation why you gave them that rating, and what they can do to improve it next time. Ask if they have any questions.
+
+Note that in this approach you are going in unprepared and with an employee who doesn't quite understand why you gave them the rating you did. The in-person conversation may be heated. The employee might quit. Or perhaps they'll shrug and say 'ok' and keep doing their thing. Use your judgement in this approach; often it's _less_ work to do more of the prep (other recipes) then it is to go hire & train a whole new engineer.
+
 
 ### Dobromir's Manager Review Recipe
+I love the challenge of unlocking people's potential by truly understanding them at a deeper level. I'm not incredibly good at it though so I use my manager reviews as a forcing function to both contemplate this question and to experiment with different feedback techniques. That means I'll often gather a ton of 360 feedback, collate it, and add my own thoughts into documents that end up 4-8 pages in length. It's time consuming and I don't recommend that everyone do this. For me, though, it's very meaningful and I've almost never regretted doing it. 
+
+1. Create a working doc for the manager review with a Strengths and an Area for Improvement sections. 
+    1. You don't know what these are yet so keep them empty. We'll be using them as a 'staging area' for our thought process.
+1. Read the employee's self-review. For each strength/AFI that you agree with, create a new bullet in the staging area for it, and add supporting evidence that the employee called out. For example:
+        1. Strengths
+            1. Execution
+                1. Jane Doe: "I tracked every bug in Project X and how it was doing in QA so I could update our PM on how close we were to release in daily standup."
+            1. Python coding
+                1. Jane Doe: "I reviewed 50 PRs in the last year, some of which were quite complex, and I left tons of useful comments. See for example <here> and <here>"
+1. Read every peer review. For every quote you find insightful, add it as supporting evidence to the appropriate section.
+    1. Ideally, you should start seeing 3-5 quotes (sometimes a lot more!) starting to support a strength or AFI.
+1. Clean up the strengths/AFIs as follows.
+    1. Some might to too big, with too many quotes that feel disjointed. Split these into more granular groupings. 
+        1. For example, 'Execution' might have 8 quotes in it, and you notice it's really 2 categories, one around 'Releasing a high-quality product' and the other around 'Communicating clearly with product'
+    1. Some might be too small, with only 1-2 quotes. Cut them.
+    1. This is the hard part: pick 1-3 strengths and 1-2 AFIs. Cut the rest. Even if the feedback feels SUPER relevant. 
+        1. If you don't feel bad deleting some of the feedback, you're doing it wrong :) 
+1. Now pull these out into their own sections. You will write your own manager review perspective for each strength/AFI on top of the peer feedback.
+    1. Your perspective should be **independent** of what others wrote, although obviously it's influenced by them. 
+    1. Try to pull out wisdom from the quotes. Paint the picture to the individual about why this strength is so important, or how they can grow in that AFI.
+    1. Keep it to 1-3 paragraphs. The quotes should do most of the work once you've set up the context.
+1. Now finish the document with a Summary that starts the document.
+    1. In your Summary start with their performance rating. Compare it to previous ratings, if they have any, and explain what's changed.
+    1. Focus most of the summary about **what the employee needs to do in the next year**. You should be painting one or more paths for them that would increase their Winning. The more concrete you make it the more likely they will understand your feedback and what they can do about it. 
+    1. If you gave them more than one Area for Improvement, only focus on *one* in the Summary. I.e. what is the ONE THING, that if they improved on in the next year, would significantly make them more valuable to the company?
+    1. The summary should be about .5 - 1 page in length. It can repeat the parts below and tie them together with more storytelling.
+1. Schedule a 1-hour 1:1 at least 1-2 days ahead of time with the employee called "Manager Review".
+    1. Tell them they will get the written review one day before the meeting.
+    1. Alternatively, you can tell them they will be getting the review at the beginning of the meeting. This sometimes works better with more junior employees, or with very hard to digest reviews.
+1. Send the review ahead of time if you said you would.
+1. In the review meeting, I like to start as follows:
+     1. First, I reiterate the rating. "Hi Jane, thank you for meeting today. You are meeting my expectations as a Sr. SWE, and I was really impressed by XYZ. I think you can exceed my expectations in the next rating cycle if you do XYZ." Keep this short - a couple of sentences.
+     1. Then, I like to let the employee choose where to take the conversation. I say something like: "this is your time and I'm here to help you understand the rating and feedback you received. Do you have any questions or topics you'd like to start with?"
+         1. **THIS IS KEY**. The only way to know what feedback they've absorbed is to listen to them talk about the review. Are they pensive? Are they defensive? Are they curious? Do they seek to understand or seek to reject? 
+     1. If the employee is having a lot of trouble digesting the feedback sometimes I pause the meeting and ask them to sleep on it. This should be rare though. 
+     1. If the employee starts pushing back hard, saying "this is not true" or "I don't agree with this feedback", then you need to pull out some of the [advanced techniques](/tools/feedback.md/#Advanced-Techniques)
+
+That concludes the manager review. Of course, it would be a waste to put all that time into a review and then ignore it for the next 12 months, until the next Review Period. Read our other Growth recipes about how to use this Manager Review throughout the year. 
+
+#### Examples
+[Sr. Ops Manager](examples/manager_review_sr_ops_em.md)
+[Engineering Manager](examples/manager_review_em.md)
+[Sr. TL/M](examples/manager_review_sr_eng.md)
+
 
 ## Calibration
 Curve?
@@ -132,9 +214,19 @@ Usually not discussed!
 
 "Everyone is exceeding expectations..."
 
+### Dobromir's Calibration Recipe
+Kudos to Wade Chambers for this recipe. He introduced me to it at TellApart in 2015. It was fascinating to see how calibration could be MORE than a 
+
+Main question: "how do we help this individual move to the next box"?
+The UI makes it more obvious this is the question!!
+
 ## Performance Score
 
 # Putting It Together
+Usually the various recipes above are not done in isolation, and some communication/training with the entire organization about the process needs to occur. Here are some final recipes to do so.
+
+## Dobromir's Performance Review Recipe
+[2021 Process document](dobromir_2021_review_process.md)
 
 # Scratch
 You claim to be a "growth factory" --> prove it.

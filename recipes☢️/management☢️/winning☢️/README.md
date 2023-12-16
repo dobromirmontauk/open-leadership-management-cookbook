@@ -10,6 +10,12 @@
 * Big Decision meetings?
 * 
 
+## What is winning??
+* Building the *control loop* -- constantly readjusting the machinery to be moving in the right direction.
+* Hitting goals.
+    * Planning: setting the *right* goals
+    * Execution: making expected progress to the goals
+
 ## Delegation
 * What is delegation? 
     * Definition
