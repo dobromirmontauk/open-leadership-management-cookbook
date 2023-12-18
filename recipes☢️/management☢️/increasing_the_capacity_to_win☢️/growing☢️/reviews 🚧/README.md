@@ -236,7 +236,8 @@ Ingredients:
 
 Here is my rough recipe:
 
-1. Put together a [board](https://docs.google.com/spreadsheets/d/1OtBALpgeAzee6MaC5L4QJNrWsFHlHqxlo47V34DM70I/edit#gid=0) like the following. 
+1. Put together a [board](https://docs.google.com/spreadsheets/d/1OtBALpgeAzee6MaC5L4QJNrWsFHlHqxlo47V34DM70I/edit#gid=0) like the following.
+    1. <img width="1005" alt="image" src="https://github.com/dobromirmontauk/llm-recipes/assets/50121200/aafa9699-5a36-428f-b8bf-62fe10cf0fc2">
     1. This works pretty well in a spreadsheet/remote format. In-person do basically the same thing with sticky notes. 
 1. Have your managers place all of their individuals on the board before the meeting.
     1. Do NOT include anyone who will be in the meeting! Their performance should not be public information (unless that's your culture).
