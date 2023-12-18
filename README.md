@@ -43,6 +43,16 @@ There are a LOT of sections in this cookbook. Since we are actively working on i
 6. ❇️ Core Team Contributions. This means the page/tree has had other people contributing to it and is now a "group-owned" page.
 7. ✳️ Public Contributions. This means the page/tree is now generally useful to the public since we've had non core-team members contributing to it.
 
+## Editorial Policy
+Need to expand this, but roughly something like this:
+
+1. Recipes belong to the contributor. They can use "I", "my team", "our company", etc. They should be personal, real-world examples.
+1. Pointing to third-party content/recipes is encouraged. A summary should be included so readers can decide if they want to go deeper. 
+1. Credit to inspirations/examples/etc is encouraged. We all stand on shoulders of giants. Link to other material if possible and call out what you've done differently/how you improved on the recipe or made it your own.
+1. Copying third-party recipes **without their approval** is forbidden. You can link to their "recipes" (books, blog posts, etc) but don't verbatim copy/paste anything anyone else has written. If they give you approval encourage them to add a commit themselves instead, that way credit is clearly seen in the commit history. If that's not possible then you should have a link back to their public profile (LinkedIn/blog/etc).
+1. Non-recipes should use the plural 'we' and represent the voice of the Editorial Committee (TBD what that is!). In rare circumstances, individuals can add their own editorial voices within the common sections by clearly marking them as such [_I think this is a good idea but I'm open to not doing it -- Dobromir_].
+
+
 # Table of Contents
 
   1. [Definitions](definitions/README.md)
@@ -74,3 +84,4 @@ There are a LOT of sections in this cookbook. Since we are actively working on i
 	1. Training meal. How do you up-level your team's ability to hire?
 	1. Training feast. How do you up-level your org/company's ability to hire?
 1. Patent recipes?
+1. Explore turning these into slides! https://marp.app/
