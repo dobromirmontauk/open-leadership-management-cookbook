@@ -27,6 +27,8 @@ Of course, some knowledge ends up being more relevant to Engineering Leadership 
    * Marketing
      * Category Creation
 	 * Funnel Concept
-	 
+* Visual vs non-visual
+    * Tufte
+    * Learning styles? 
 
    

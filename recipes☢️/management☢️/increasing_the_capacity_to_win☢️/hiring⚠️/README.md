@@ -10,4 +10,5 @@
         * Feedback for you: how well did you do? Your 'integration test'
         * Attract: "how YOU will grow HERE"
     * CTO Parag hated my topgrading :)
-    
+* Training
+    * Wade's hiring docs
