@@ -1,3 +1,6 @@
+# How to organize?
+We are going to end up with a LOT of tools/techinques. How do we organize them so people can find them/learn the right ones at the right time?
+
 # Unorganized 📋
 * Working on yourself
 	* Executive skills
