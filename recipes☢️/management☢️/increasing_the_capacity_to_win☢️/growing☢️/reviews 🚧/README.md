@@ -214,27 +214,80 @@ Calibration is the process of normalizing performance scores to avoid the [Lake 
 
 Note that the _curve_ is up to you: perhaps you do believe most of your people are 'above average' because you hire that way. Or perhaps you subscribe to the [Vitality Curve](https://en.wikipedia.org/wiki/Vitality_curve) approach. If you'd like to contribute some recipes around how to decide on curves we'd love input!
 
+You probably don't need to calibrate if you have a small team. It starts coming in handy around 10 engineers or so. You might still want to, though, because of the other benefits of calibration...
+
 ### Another Challenge!
 While the main purpose of calibration is indeed to ensure some amount of fairness across an organization, as managers we can use it for a much more powerful purpose: improving our own management skills. Calibration is a unique moment where _managers come together to discuss their people_. It's the best time to encourage a specific _management_ culture, since you have all your managers in the room. The questions you ask, the focus you have, will reveal your hidden preferences to all YOUR managers. So think carefully about what you want to accomplish in calibration, other than just setting the curve.
 
 ### Google (2013) Calibration Recipe 
-TODO
+TODO(dmontauk)
 
-### Dobromir's Calibration Recipe (TellApart/Doxel)
-Kudos to [Wade Chambers](https://www.linkedin.com/in/wadechambers/) for this recipe. He introduced me to it at TellApart in 2015. I was part of a few calibration meetings at Google the years before and this was the first time I saw that calibration could be used to think about _growth_ instead of _horse trading_. The magic came from three things:
+### Dobromir's Calibration Recipe
+Kudos to [Wade Chambers](https://www.linkedin.com/in/wadechambers/) for this recipe. He introduced me to it at TellApart in 2015. I was part of a few calibration meetings at Google the years before and this was the first time I saw that calibration could be used to think about _growth_ instead of _just_ setting the curve. The magic mostly comes from three tools:
 
-1. Visualize your entire team on one board with _forward progress for each individual_ [clearly shown? potential? expected?]
-2. Spend most of your time asking "how do we move this individual into the next box?"
-3. Get your engineering managers & senior ICs to collaborate on answering the question.
+1. [Visual Management](/tools/visual_management.md): The right _visual_ representation of the entire team, on one board. It's one of those situations where the right UI completely changes the process.
+1. [Right Question](/tools/right_question.md): The department leader mostly asks one question: "what can we do to move this individual into the next box?"
+1. [First Team](/tools/first_team.md): managers should _help each other_ grow every individual. Make this everyone's problem.
 
-It was fascinating to see how calibration could be MORE than a 
+Ingredients:
 
-Main question: "how do we help this individual move to the next box"?
-The UI makes it more obvious this is the question!!
+1. [Level Expectations📄](): these are necessary to have the team align on how different individuals are performing. Note that calibration is an excellent recipe to run if you want to improve your level expectations as well. Use the questions & debate that happen to clarify the level expectations.
+1. [Self-reviews](), [Manager reviews](): these are optional but should help a LOT in the discussion if you've done them.
+
+Here is my rough recipe:
+
+1. Put together a [board](https://docs.google.com/spreadsheets/d/1OtBALpgeAzee6MaC5L4QJNrWsFHlHqxlo47V34DM70I/edit#gid=0) like the following. 
+    1. This works pretty well in a spreadsheet/remote format. In-person do basically the same thing with sticky notes. 
+1. Have your managers place all of their individuals on the board before the meeting.
+    1. Do NOT include anyone who will be in the meeting! Their performance should not be public information (unless that's your culture).
+    1. Use colors (red/green) to show individuals who have moved down/up from the last calibration.
+    1. Use stickers or "tags" to denote a few important characteristics to discuss:
+        1. [Rockstars](https://www.radicalcandor.com/blog/team-growth-and-stability/): individuals that currently 'anchor' the team and who may not be looking to grow into a new role/level.
+        1. [Superstars](https://www.radicalcandor.com/blog/team-growth-and-stability/): individuals that currently thrive on challenge and may need more such opportunities soon. I label these 'high potential'.
+        1. Single Points of Failure (SPOF): individuals with unique knowledge that would cause business disruptions if they won the lottery.
+1. Schedule a meeting to discuss all the individuals. 
+    1. I won't usually schedule more than 2 hours even with a bigger team because it's good to run out of time and see that everyone wants to have another follow-up session, rather than hoist a 4-hour session on folks out-of-the-gate :)
+    1. Budget about 15 min/person, or roughly 2.5 hours for every 10 people. Some reports will be quick, some might take 30 minutes to discuss. 
+    1. Invite all your engineering managers. Optionally, invite your Staff engineers and maybe even some Sr-level folks that you think would benefit from the conversation.
+    1. I sometimes invite folks outside my team as well:
+        1. At Doxel, I would invite Erik, our technical recruiter. He had a very sharp nose for management/growth and would often sharpen everyone's thinking. It's very motivating for an engineering manager to see a non-manager have better people intuition than they do ;) This also helps engineering/recruiting stay aligned on talent and future hiring needs.
+        1. At Doxel, I would sometimes invite Reid, our Head of Product. Product is often in the dark on how engineering managers keep their teams accountable and what challenges they are facing. Inviting them to calibration is [opening the kimono](/tools/opening_the_kimono.md) and can help build trust across departments. At larger organizations you can invite peers/other engineering managers for the same reason. 
+1. [Note taker](/tools/note_taker.md): I take copious notes, shared privately with attendees.
+    1. People are more accountable when what they say is recorded. Grab the most important information, **especially** any actions your managers claim they will take.
+    1. These notes can be excellent ingredients to other recipes:
+        1. [Skip-level 1:1s](): use them to connect with individuals on how they are doing.
+        1. [Information gathering](): use them to uncover departamental issues.
+        1. Future calibration sessions: refer to them before your next calibration so you are refreshed & ready to ask hard questions.
+1. Kick off the meeting with the right tone.
+    1. The point of the meeting is to increase the engineering team's capacity to win. Don't forget that and don't let your team forget that. Otherwise these meetings quickly devolve into 'checking the box': lots of talking without much being said and no action items. 
+    1. That means your team needs to identify individuals that are slowing down engineering. The situation needs to be turned around -- fast -- or they need to be removed from the organization. If you don't do this you are failing as the org leader.
+    1. It also means that your team needs to identify [Leverage Points](/tools/leverage.md) -- individuals who, with a little investment, will produce a lot more ROI. If you don't do this you aren't a very good org leader.
+    1. Note I said *your team*, not you. It's your managers' responsibility to grow their people. It's your responsibility to make sure they do. Don't solve their problems for them, which brings us to...
+1. [Facilitate](tools/facilitation.md) the meeting using all the standard tools. Specifics that will help you here: 
+    1. Spend less time on more junior people and more time as you go down to senior people. Your managers will need a lot more help with the more senior the people get.
+    1. Spend most of your time on low performers + top performers. Feel free to speed things up on your "meets expectation" engineers. Except...
+    1. Spend additional time on any folks that haven't budged in a while (2-3 quarters). Spend additional time on anyone red (they've moved down instead of up).
+    1. Explicitly ask outsiders for their perspective (standard facilitation & it matters even more here since your recruiter or Head of Product may not realize they can contribute, since they aren't part of your 'management team').
+    1. Drive clarity in your managers' minds on how unlock their people by asking questions like:
+        1. "So what are YOU going to do to get Jane into 'Exceeds Expectations' in the next 6 months?"
+        1. "Remind me, what are the action items for Jane? I'll capture them in the notes."
+        1. "Alice was not meeting expectations last time. Why is she in the same box 6 months later?"
+        1. "You have Dakota at Meets Expectations but also HP. What challenges are you giving her next week to prove out that potential?"
+        1. "Jack, what would you do in this situation?"
+        1. "Based on what I'm hearing, Dakota and Jaime are doing about the same, but Jaime is ahead on this board. What am I missing?"
+        1. "Does anyone else have thoughts on this individual before we move on? Speak now or forever hold your peace..."
+1. OPTIONAL: if you have your Staff or Sr eng in the room, you'll need to excuse them once you reach that level. 
+
+That's it! I wish I could share some of the notes we've generated during our calibration sessions but they are quite personal. 
+
+You should run this every ~6 months or so. I'm not particularly good at following up on the action items -- ideally, engineering managers are incentivized already to grow their people (after all, it's their own success on the line...) so babysitting them on each AI feels heavy-handed to me. Every 6 months checking-in feels about right. If I notice an engineering manager isn't following up on the AIs after 1-2 calibration sessions then that's a HUGE red flag about their motivation as an EM...
+
 
 ### Twitter (2018) Calibration Recipe
-TODO
+TODO(dmontauk)
+
 ## Performance Score
+
 
 # Putting It Together
 Usually the various recipes above are not done in isolation, and some communication/training with the entire organization about the process needs to occur. Here are some final recipes to do so.
