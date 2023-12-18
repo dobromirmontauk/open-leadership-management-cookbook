@@ -277,6 +277,7 @@ Here is my rough recipe:
         1. "Based on what I'm hearing, Dakota and Jaime are doing about the same, but Jaime is ahead on this board. What am I missing?"
         1. "Does anyone else have thoughts on this individual before we move on? Speak now or forever hold your peace..."
 1. OPTIONAL: if you have your Staff or Sr eng in the room, you'll need to excuse them once you reach that level. 
+1. OPTIONAL: if you have company virtues, do the same exercise on the virtues and not just the levels!
 
 That's it! I wish I could share some of the notes we've generated during our calibration sessions but they are quite personal. 
 
@@ -287,6 +288,36 @@ You should run this every ~6 months or so. I'm not particularly good at followin
 TODO(dmontauk)
 
 ## Performance Score
+This is it. The final number. The input that (in employee's heads) goes straight into their salary raise / bonus / new stock grant. If only they knew... (oh wait, they can just read [this](recipes/management/increasing_the_capacity_to_win/reward_systems))
+
+Actual scores may not be necessary: "meets expectations" kind of says it all. But, we are managing engineers. They want numbers. We want them to want numbers. We ask them to quantify their work. It's kind of hypocritical of us if we don't do the same, right?
+
+The challenge with providing a number is it opens up the management process to more criticism. That could be a distraction (does it really matter that Jane got a 3.4 and Jack a 3.5?), or it could be very healthy (oh wait, every woman seems to be slightly lower than her closest-performing male colleague -- interesting...). So, like all process, what you decide to do is the culture rubber hitting the road. You should pick the right tradeoff for the business.
+
+### Lightest weight score
+The easiest approach is to just have every manager assign a number. 1-5 is a good scale; 1-10 seems like too much. You can translate these into:
+
+1. The individual should already have been fired. Why are we talking about them?
+2. This individual is not meeting expectations. There is a chance to turn them around, but they should be gone or a 3 soon.
+3. This individual is meeting expectations.
+4. This individual sometimes exceeds expectations. 
+5. This individual is consistently beating expectations. Usually a sign they are close to being promoted / should be at the next level.
+
+### Dobromir's Performance score
+I like to break down my performance score into a few component parts to clarify to my employees what is important to the business. Ideally, the component parts are _independent_ so the employee is getting maximum signal on where they need to improve to drive up their overall score.
+
+The component parts I'll use:
+
+1. **Impact**: this is subjective, up to the manager.
+    1. I try to tie this as much as possible to *business impact* and metrics. Having impact as part of the score allows you to reward people who had huge impact due to luck, or hard work, even though they aren't doing super-sell in other dimensions. It also allows people to see that they are having low impact, even if they are great engineers, because perhaps they are working on the wrong things. That encourages individuals to select more impactful problems to solve.
+1. **Contribution to Team**: this should be decided based on team feedback.
+    1. Helping the team is usually at-odds with Impact (increasing the capacity to win vs winning), so it needs its own score weight so people aren't too incentivized to just go be cowboys.
+1. **Expectation at Level**: this should be decided based on your level/role scorecard + calibration.
+    1. For each expectation you should give them a score and then average them. That helps folks see where they need to improve.
+1. **Demonstration of Company Virtues**: this should be decided on your virtues scorecard + calibration.
+    1. Don't skip this! Company values/virtues don't matter if they have no teeth. Putting them directly into the performance score gives them a huge bite.
+    
+I weight all of these equally. Theoretically, I could add different weights to different parts, but I think at that point we start losing clarity. Instead, it's better to come up with 3-5 top-level components that all matter exactly the same amount. Feel free to wordsmith or change them completely to get that property!
 
 
 # Putting It Together
@@ -295,7 +326,7 @@ Usually the various recipes above are not done in isolation, and some communicat
 ## Dobromir's Performance Review Recipe
 [2021 Process document](dobromir_2021_review_process.md)
 
-# Scratch
+# Unorganized Thoughts
 You claim to be a "growth factory" --> prove it.
 You claim to reward your top performers --> prove it.
 You claim you don't tolerate poor performers --> but do you have the guts to give them a PIP when the whole team complains? Prove it.
