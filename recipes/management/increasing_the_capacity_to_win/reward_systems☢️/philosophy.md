@@ -7,3 +7,8 @@ Josh McFarland: "My job is to leave $ in your pocket and memories in your head"
 
 My thoughts re: Vic. His best advice to me: “do you remember when you were promoted? Do you remember when we launched Google+?”
 Focus on the 5 year plan and not on short-term goals (e.g. promotion).
+
+TITLES
+-Manara too early
+-One way door
+-Gets people confused.
