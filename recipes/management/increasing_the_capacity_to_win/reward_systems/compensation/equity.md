@@ -14,6 +14,10 @@ We've seen two broad types of recipes for answering the "how much equity should 
 1. Market-based valuation: what are other similar companies giving? Find a set of comparables and baseline off of that.
 2. Value-based valuation: what is the approximate value of the equity (today or on some future date)? Come up with an estimate and baseline off of that.
 
+The former is the right way to grant equity in the beginning. The equity has basically no value and there is NO formula for determining future value (if there was, Venture Capital wouldn't be a thing!). Following the 'market norms' is the only reasonable thing to do here.
+
+Once a company has lots of revenue ($10M+) and is growing predictably (meeting/beating forecats 4-6 quarters in a row), then transitioning to a 'value-based' recipe might make sense.
+
 ### Market-based valuation recipes
 TODO
 
@@ -50,7 +54,9 @@ In [spreadsheet format](https://docs.google.com/spreadsheets/d/18ohkLSS3MMsgmS6p
 
 
 ## New Offer Recipes
-TODO 
+### Dobromir's Equity Calculator Recipe
+See the bundled calculator in my [Planning Calculator](/recipes/management/increasing_the_capacity_to_win/reward_systems/planning.md).
+
 ## Refresher Grant Recipes
 TODO
 

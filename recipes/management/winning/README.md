@@ -8,7 +8,13 @@
 * Progress review meetings
     * Founder Reviews? 
 * Big Decision meetings?
-* 
+* Peer relationships
+    * No matter what level you are, you can't succeed without your peers.
+    * This becomes even more true as you go up the ranks! A VP of engineering is SO dependent on VP of Product, Ops, etc!
+    * Does this go under Increasing Capacity or under Winning? 
+    * Stories
+        * Vic story about my Dir of Eng not getting along with his peers. "Not my job to teach him"
+    
 
 ## What is winning??
 * Building the *control loop* -- constantly readjusting the machinery to be moving in the right direction.

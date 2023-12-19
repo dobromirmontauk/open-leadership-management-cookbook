@@ -24,3 +24,5 @@ Engineering Roadmap
 What is leadership & what is management??
 Strategy ("where are we going?")
 Planning ("how are we getting there?")
+
+# Unorganized
