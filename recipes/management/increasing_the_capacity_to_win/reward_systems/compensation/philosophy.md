@@ -1,9 +1,17 @@
 # Compensation Philosophy
  There might be a small gap between your philosphy and your CEO's, so it's worth investigating this. You probably want to pay top 90% of the market in cash & equity while she was thinking some occasional launch swag and a monthly motivating All Hands speech might be enough. I'm sure you can resolve this in a 15 minute unprepared 1:1.
  
+ [image of Dumbo eating peanuts. Caption: 'your CEO's compensation philosophy'
+ 
+# Why 'Philosophy'? 
+Religion or magic might be just as accurate. Doesn't really come from first principles. 
+ 
 # What are the questions?
 1. What is the minimum we pay employees? 50% of market? 25%?
 1. What is the maximum? 50%? 75%? 90%?
+1. BANDS:
+    1. Startups: You want to pay the minimum you can get away with. Extends the runway.
+    
 1. Do we break the bands? If so, when/how?
 1. How do we want bands to overlap across levels?
 1. Do we have levels?
@@ -12,6 +20,12 @@
 1. Unplanned bonuses?
     1. Yearly?
     1. Ad-hoc?
+1. What is the value of the equity?
+    1. Founders are thinking of a $10B company... so the equity is HUGE! They have to think this way.
+1. Vesting schedule
+1. Vacation / PTO / etc
+    1. Startups are doing UNLIMITED because that avoids debt on their books (!!)
+    
 
  
  

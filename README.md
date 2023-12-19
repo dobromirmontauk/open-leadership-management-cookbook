@@ -52,7 +52,9 @@ TODO: explain what the skill stack is & how to build it.
 Skill: Combination of knowledge + practice. 
 
 # Audience: Engineering
-All of the recipes in this cookbook are built assuming that the cook is a _software engineering_ leader & manager. That doesn't mean that the recipes can't be altered to fit a different palate; like a type of cuisine, many of them can be adopted whole-sale, while others might be usable with minor modifications. Some may not work at all. 
+All of the recipes in this cookbook are built assuming that the cook is a _software engineering_ leader or manager. That doesn't mean that the recipes can't be altered to fit a different palate; like a type of cuisine, many of them can be adopted wholesale, while others might be usable with minor modifications. Some may not work at all. 
+
+The general bias of this cookbook is also towards startups. A lot of the recipes apply to any sized organization, and over time, we'd like the recipes to be labeled if they are more effective in smaller vs larger companies. We'll do that once we have a critical mass of recipes. For now, assume the recipes were written by startup leaders/managers, with that bias.
 
 
 # Editorial Policy

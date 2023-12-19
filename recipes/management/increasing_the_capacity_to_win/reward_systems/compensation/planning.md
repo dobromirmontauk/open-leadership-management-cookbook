@@ -8,8 +8,8 @@ So how do you convince your CEO that raises do make sense? Because if you don't,
 ## Preparation
 Many of the recipes around compensation planning depend on the following ingredients. Try to gather them if they are already available. If they are not, it might make sense to start the compensation planning exercise first. When you get stuck on these inputs, point them out to your CEO or HR Partner, so you are aligned on *why they are important*. 
 
-1. [Compensation Philosophy](philosophy.md): How your company chooses to reward its people has a huge effect on the approach to the plan.
 1. [Compensation Benchmarks](benchmarking.md): How much are your 'competitors' going to offer the same engineers you're trying to hire?
+1. [Compensation Philosophy](philosophy.md): How your company chooses to reward its people has a huge effect on the approach to the plan.
 
 You should also have a good understanding of [Equity](equity.md) at startups.
 
@@ -28,20 +28,28 @@ Good reasons:
 
 #### Dobromir's Cash & Equity Calculator Recipe
 1. Start with one of the [Compensation Benchmarks](benchmarking.md) recipes. 
-Build a Comp & Equity Calculator like [this one](https://docs.google.com/spreadsheets/d/1BuM5ar1LTmhLUVN96lVS1vZM3nGbEUKBQhUDyvtuU58/edit#gid=1226519420) that ~I copied from Twitter and my friends at Abnormal~ came up with myself. (see [this Miro version](https://miro.com/app/board/uXjVND-VLJg=/) if you need explanationas about what the various parts of the calculator are doing). 
-![image](https://github.com/dobromirmontauk/llm-recipes/assets/50121200/87a1bcde-37be-4f26-9328-0ec254482fcc)
-
-Set up an hour [controlled meeting](controlled_meeting) with your CEO, HR ally, CFO, and anyone else that can veto this document. This is a rare occasion where sharing the document ahead of time will likely cause more problems than it solves. Control the narrative of how the numbers were researched (I'm innocent, it's the HR guy! Or: it's not us, it's the market...). 
-
-The CEO/CFO will likely look overwhelmed and say they need some time to review the numbers in more detail. Share the spreadsheet with them (and have a backup copy just in case they fiddle with your numbers...).
-
-A week or two later (if you are lucky) they'll get back to you and say their CEO friends think these numbers are crazy. They've been hiring COBOL Senior Engineers for $120K so you should as well. Or they might say it's time to open an office in Antarctica because penguins are cheap. Remind them that Starlink isn't available in Antarctica yet and, anyhow, nobody understands how timezones work at the poles. You should probably agree to hire the COBOL engineer and then immediately show him a back-of-the-envolope calculation that the product roadmap needs to be paused for 1-2 years to rewrite everything into COBOL. When your CEO grimaces, solemnly promise that you'll make all initial offers at the bottom of the range. 
-
-After the first couple of candidates negotiate their way up to the middle or high-end, you'll have your ranges finalized.
-
-Repeat once a year to keep things tasting fresh. 
+1. Build a Comp & Equity Calculator like [this one](https://docs.google.com/spreadsheets/d/1BuM5ar1LTmhLUVN96lVS1vZM3nGbEUKBQhUDyvtuU58/edit#gid=1226519420) that ~I copied from Twitter and my friends at Abnormal~ came up with myself.
+    1. ![image](https://github.com/dobromirmontauk/llm-recipes/assets/50121200/87a1bcde-37be-4f26-9328-0ec254482fcc) (see [this Miro version](https://miro.com/app/board/uXjVND-VLJg=/) if you need explanations about what the various parts of the calculator are doing).
+1. You'll now need a few inputs from you [Compensation Philosophy](philosophy.md):
+    1. The 'low end' of the cash band.
+    1. The 'high end' of the cash band.
+    1. The equity/cash mix target.
+    1. The company valuation used for equity value. 
+    1. The equity vesting schedule. 
+1. Set up an hour [Controlled Meeting](tools/controlled_meeting.md) with your CEO, HR ally, CFO, and anyone else that can veto this document. 
+    1. This is a rare occasion where sharing the document ahead of time will likely cause more problems than it solves. Control the narrative of how the numbers were researched (I'm innocent, it's the HR guy! Or: it's not us, it's the market...). 
+1. The CEO/CFO will likely look overwhelmed and say they need some time to review the numbers in more detail. 
+    1. Share the spreadsheet with them (and have a backup copy just in case they fiddle with your numbers...).
+1. A week or two later (if you are lucky) they'll get back to you and say their CEO friends think these numbers are crazy. 
+    1. They've been hiring COBOL Senior Engineers for $120K so you should as well. 
+    1. Or they might say it's time to open an office in Antarctica because penguins are cheap. Remind them that Starlink isn't available in Antarctica yet and, anyhow, nobody understands how timezones work at the poles. 
+1. You should probably agree to hire the COBOL engineer and then immediately show him a back-of-the-envelope calculation that the product roadmap needs to be paused for 1-2 years to rewrite everything into COBOL. 
+1. When your CEO grimaces, solemnly promise that you'll make all initial offers at the bottom of the range. 
+1. After the first couple of candidates negotiate their way up to the middle or high-end, you'll have your ranges finalized.
+1. Repeat once a year to keep things tasting fresh. 
 
 **Common Pitfalls**
+
 1. Your CEO very likely won't care about your ranges -- until it's the worst possible time to care about them. Usually this is when you are about to close a candidate, or put together the 2024 budget off these numbers. 🤷‍♂️ You may need to find a decision pressure like that in order to get the ranges approved.
 2. Your entire company should ideally use a common approach, but they won't. You most often end up with very different equity numbers between departments. Keep an eye out for this -- a good way is to ask for advice from your sales/product/operations counterpart on "how are you doing equity grants?" If you notice something VERY off, bring it up with the CFO/CEO/HR team gently.
 3. Ranges & Calculators are just a tool. The REAL decision makers are the "cash in the bank" and "equity in the option pool". Make sure you have enough there before you waste time on calculating how many $M that 10-person Bay Area A-team will cost you. If you aren't sure, go hire the penguins.

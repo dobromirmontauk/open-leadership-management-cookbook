@@ -1,6 +1,25 @@
 # Compensation Benchmarking
 
 # Recipes
+
+## Third-Party Recipes
+Here's a list of 3rd party tools to get benchmarks. Sometimes takeout is better than cooking yourself!
+
+* [Pave](https://www.pave.com/benchmarking): they bought Option Impact which was previously our gold-standard, so I guess Pave is it now. You can get free benchmarks if you share your salary info with them in return. 
+* [Connery](https://www.conneryconsulting.com/services/compensation/): we saw this data being used ~5 years ago but not that much anymore. Perhaps they aren't popular in the startup space now?
+* [Carta](https://carta.com/equity-management/compensation/): Carta has grown big in equity management, but we've never used their benchmarking. Would love some opinions on this.
+* [Payscale](https://www.payscale.com/products/data/peer-data/?tk=nav): never used them, would love someone's opinion on this.
+* [Glassdoor](https://www.glassdoor.com/Salaries/): self-reported, we wouldn't really trust this as a primary source. 
+* [Levels.fyi](https://www.levels.fyi/): self-reported, we wouldn't really trust this as a primary source. 
+
+## Partner Recipes
+Several of your partners likely have great salary data and you can ask them for benchmarks directly:
+
+* VCs: they usually have access to the tools above (if you don't) and also know how much their other startups are paying. This is particularly useful for roles that don't have a lot of market data (very senior roles or specialized roles).
+* Recruiting Firms: ditto, they are making offers all the time, and so they'll usually have some data. 
+
+Note that these partners don't have the incentives you have and so they may over-inflate or under-inflate the data. You get what you pay for.
+
 ## Dobromir's Benchmark Recipe
 This is the recipe I used to put together our first set of compensation benchmarks when I joined Doxel in 2019.
 
