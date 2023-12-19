@@ -1,3 +1,7 @@
+# Table of Contents
+1. [Leadership⚠️](leadership/): rough notes, I don't recommend visiting yet.
+1. [Management✅](management/): starting to come together with some useful content. 
+
 # "Leadership" vs "Management"
 Both Leadership & Management are fundamentally about changing how people think. Change how they think, and they'll behave differently. Change how they behave, and they'll reach different outcomes. Like the physics equivalents of acceleration, velocity, and position, to reach a certain (x, y, z, t) one must focus on the correct acceleration. To create the necessary outcomes, we must focus on how people think. But if they are both about changing how people think, why do we have two words for them? What is the difference? Admittedly, this is something we have struggled with throughtout our careers, as have many others. We encounter so much confusion with these words, confusion that causes folks to make bad career choices! Are leaders managers? It's obviously not a hard requirement. Are managers leaders? Sometimes, sometimes not. Can you manage without direct reports? Well, yeah... Look at any Product Manager helping their engineering team deliver. Or even those talented Tech Leads mentoring junior team members via 1:1s. Can you have direct reports and not do 'management'? Unfortunately yes... 
 
@@ -59,3 +63,4 @@ Management is not for the impatient.
 You really need a wallop of each to 'change how people think', which is ultimately the goal. How much of a wallop? That, dear friend, is really up to you. That choice defines your style. We don't have a recipe for it. You get to choose how much you want to grow as a leader, how much you want to grow as a manager, and how you mix & match the two. Don't worry about being perfect, we haven't met anybody who's achieved perfection in either, let alone can flex in both! 
 
 Hopefully, this cookbook will give you recipes where you need them most. 
+

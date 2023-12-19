@@ -12,3 +12,4 @@
     * CTO Parag hated my topgrading :)
 * Training
     * Wade's hiring docs
+* If the decision hinges on the numbers, you've already lost. (Delaney)

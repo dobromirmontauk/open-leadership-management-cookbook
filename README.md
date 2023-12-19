@@ -12,7 +12,7 @@ We'll use a similar structure here. We'll break down our most complex leadership
 
 # Contents
 ## Section Health
-There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we use the following badges:
+There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we use the following badges. Note that badge higher up the tree represents the MAXIMUM badge lower down, which should help with navigation down to the useful parts.
 
 1. 🚫 Placeholder. This means the page/tree exists purely as an empty canvas for future work.
 2. ⚠️ Raw notes. This means the page/tree has notes being stored to convert into an actual document. The notes might be useful, but they probably aren't.
@@ -27,12 +27,12 @@ Since our tree can be quite deep & confusing as it develops here are the main se
   1. [Definitions🚫](definitions): this will eventually contain terms that are used throughout the cookbook and may not be well-understood.
   1. [Ingredients⚠️](ingredients): a discussion of the key ingredients that, if we combine them in the right way, will make people think differently.
   1. [Tools⚠️](tools): a discussion on the various tools that you have to combine those ingredients.
-  1. [Recipes☢️](recipes): this is the current place I'm focusing my attention.
+  1. [Recipes✅](recipes): this is the current place I'm focusing my attention.
       1. [Leadership⚠️](recipes/leadership): not yet started.
-      1. [Management☢️](recipes/management): some progress happening here.
+      1. [Management✅](recipes/management): some progress happening here.
           1. [Winning⚠️](recipes/management/winning): not yet started. 
-          2. [Increasing the Capacity To Win☢️](recipes/management/increasing_the_capacity_to_win)
-              1. [Growing☢️](recipes/management/increasing_the_capacity_to_win/growing)
+          2. [Increasing the Capacity To Win✅](recipes/management/increasing_the_capacity_to_win)
+              1. [Growing✅](recipes/management/increasing_the_capacity_to_win/growing)
                   1. [Expectations☢️](recipes/management/increasing_the_capacity_to_win/growing/expectations): some good rough drafts here but not fully ready for consumption yet. 
                   1. [Reviews✅](recipes/management/increasing_the_capacity_to_win/growing/reviews): this is ready and should be useful! 
               1. [Reward Systems☢️](recipes/management/increasing_the_capacity_to_win/reward_systems)
