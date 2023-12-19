@@ -1,3 +1,6 @@
+# Welcome!
+Welcome to the Open Leadership & Management Cookbook! This 'book' is a work in progress (always, but especially now). We hope you enjoy our recipes and add your own.
+
 # Why Recipes?
 Leadership & Management is like cooking. Everyone has their own style, and there's no "right" or "wrong" way to do it. We all learn by watching others, tasting their delicious (or not so much...) creations, and combining our favorite discoveries into our own unique dishes. So, since it is like cooking, we should have a Leadership & Management Cookbook! This is my attempt to start it.
 
