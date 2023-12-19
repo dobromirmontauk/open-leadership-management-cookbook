@@ -12,19 +12,10 @@ We'll use a similar structure here. We'll break down our most complex leadership
 
 # About this book
 
-## "Leadership" vs "Management"
-Both Leadership & Management are fundamentally about changing how people think. Change how they think, and they'll behave differently. Change how they behave, and they'll reach different outcomes. Like the physics equivalents of acceleration, velocity, and position, to reach a certain (x, y, z, t) one must focus on the correct acceleration. To create the necessary outcomes, we must focus on how people think.
-
-*Leadership* and *Management* are not opposites, they are two ends of a spectrum of work that we do to change how people think. On the Leadership side of the spectrum, we are focused on _direction_: how do we need to change how people think so we end up at the best possible outcome? On the Management side of the spectrum, we are focused on _efficiency_: how do we need to change how people think so we get there with the least possible effort (money, time, resources)? Great leaders find inspirational, yet attainable, outcomes for the team. Great managers make getting there look easy. Those that can do both create a dynamic organization that fluidly navigates the unexpected challenges every ambitious team encounters.
-
-Management: daily activities. Leadership: big swings. 
-The "cut" is not perfect; it's a bit of a choice. 
-One question to check: "do we expect non-people managers to do this work?" If yes, it's probably more management. 
-
 ## How to Use This Book
 Like a cookbook, this "book" is not intended to be read through, cover-to-cover. You _can_, if you're really bored. You probably won't remember very much though. Instead, it's organized in a way that should make it easy for you to quickly find the recipes that you need for the situation you are facing. For example, you might be having a poor performer on your team. You can look in the appendix to find the right section (wait we don't have one yet -- can you contribute it please??). Or you can think, "performance is about management more than leadership, and I'm trying to increase my team's capacity to win... So let's check there."
 
-## The Skill Stack: Choose Wisely!
+### The Skill Stack: Choose Wisely!
 TODO: explain what the skill stack is & how to build it.  
 Skill: Combination of knowledge + practice. 
 
