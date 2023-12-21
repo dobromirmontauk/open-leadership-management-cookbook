@@ -17,7 +17,7 @@
 
     * Read this carefully. Comment on it. A lot should be obvious and in fact already in-effect for a while now. We are writing it down so there aren’t any unwritten norms or expectations that cause confusion for existing or future employees. 
     * Much may applicable to in-office work but matters even more in a remote culture so is called out explicitly. 
-    * Everyone (Saurabh down) will need to explicitly AGREE to the proposals. We can’t have different people operating differently; having rules that are partially-followed is worse than not having rules at all.
+    * Everyone ([CEO] down) will need to explicitly AGREE to the proposals. We can’t have different people operating differently; having rules that are partially-followed is worse than not having rules at all.
     * Some items will be MANDATORY and are called out as such. Other items will be RECOMMENDED. 
     * While different approaches were considered in sections of this RFC I haven’t always called them out in an effort to keep it brief. I’ve left multiple options in sections where none is obviously better and the choice will be better with consensus.
 
@@ -30,7 +30,7 @@ As we transition to a remote-first culture there are numerous challenges/risks t
 
 Trust is a key ingredient for healthy teams/companies. When people trust each other they feel comfortable pointing out possible improvements or straight-up mistakes. When people trust each other they listen more productively to input from others (even if it hurts!) and come to solutions rather than arguments. When trust is missing… even obvious problems go un-solved and the company limps along.
 
-To win Doxel needs to discover our internal mistakes, learn from them, and self-improve faster than the competition does. Having strong trust between individuals/teams so we can do this is especially difficult in a remote-first environment. The “human touch” is missing! We don’t interact as much as “just people” and we risk developing transactional relationships. Those don’t do well under stress and friction.
+To win [COMPANY] needs to discover our internal mistakes, learn from them, and self-improve faster than the competition does. Having strong trust between individuals/teams so we can do this is especially difficult in a remote-first environment. The “human touch” is missing! We don’t interact as much as “just people” and we risk developing transactional relationships. Those don’t do well under stress and friction.
 
 **No information osmosis**
 
@@ -69,7 +69,7 @@ So, to build trust with your manager and teammates: _you need to proactively com
 
 **Execute Efficiently**
 
-Time is one of our greatest assets. Don’t waste it. Don’t slow others down and don’t slow yourself down. Use all the rules and recommendations here with the lens “will this help Doxel move faster?”
+Time is one of our greatest assets. Don’t waste it. Don’t slow others down and don’t slow yourself down. Use all the rules and recommendations here with the lens “will this help [COMPANY] move faster?”
 
 In a remote-first culture efficient execution is done by clear goals (company, team, and individual), clear delegation of responsibility + tasks, “just enough” communication, and a bias to action. A good rule of thumb is &lt;20% of time should be spent on communicating (&lt;8 hours/week, although this depends on role) with >80% of the “needed” information transmitted. Why not 100%? In my experience, most people spend _the ROI curve (value/time) on more information drops quickly after 80%_. E.g. in a meeting about a database design the team could get into details on fields, constraints, etc - but that could take an hour, whereas just putting together a schema would take less time and provide _more information_. 
 
@@ -81,14 +81,14 @@ Instead, individuals should feel very comfortable ending communication with some
 
 Organizations move quickly when individuals assume they have permission to execute (“default answer is YES”) and that other teams are on-track by default. This eliminates entire classes of communication (‘permission/status checks’) that have very low ROI. Note that a culture can only adopt this if they have done the work to execute efficiently above. 
 
-In a YES/ON-TRACK culture, any time something might be a NO or work is OFF-TRACK, **every employee is required to pull the rip cord!** If you know we are not on-track (or you don’t know what the track is!) and you haven’t called it out, you are not living up to your responsibility as a Doxelian. This may feel very uncomfortable - calling out the Head of Eng that they are making a bad decision isn’t easy - but working in a company where your boss is constantly prodding “hey, what’s going on with X…” is even less fun.
+In a YES/ON-TRACK culture, any time something might be a NO or work is OFF-TRACK, **every employee is required to pull the rip cord!** If you know we are not on-track (or you don’t know what the track is!) and you haven’t called it out, you are not living up to your responsibility as a [COMPANY]ian. This may feel very uncomfortable - calling out the Head of Eng that they are making a bad decision isn’t easy - but working in a company where your boss is constantly prodding “hey, what’s going on with X…” is even less fun.
 
 (notes this maps somewhat to the “intellectual honesty” in our [Virtues](REDACTED))
 
 
 # Communication Architecture
 
-In this section we document processes, expectations, and tools for Doxel’s internal communication as a remote-first company.
+In this section we document processes, expectations, and tools for [COMPANY]’s internal communication as a remote-first company.
 
 
 ## Working Hours/Days
@@ -122,14 +122,14 @@ For employees without pre-scheduled meetings in the “sychronous block” we wo
 
 ### Working Hours: set by employee
 
-Outside of required availability, employees are expected to set their own hours in cooperation with their manager and team. While individual constraints will be taking into account please remember that the needs of the team/Doxel do need to come first. 
+Outside of required availability, employees are expected to set their own hours in cooperation with their manager and team. While individual constraints will be taking into account please remember that the needs of the team/[COMPANY] do need to come first. 
 
 Expectations of employees:
 
 
 
 * A normal work week (for full-time, salaried employees) is 40-50 hours. 
-* If you are regularly working &lt;40 hours, **please have a conversation with your manager. **We have a LOT to do at Doxel and can probably get your help on other projects! It’s much better to ask your manager how you can help the team today than to find out months later that your manager is unhappy with your impact/output compared to others on the team.
+* If you are regularly working &lt;40 hours, **please have a conversation with your manager. **We have a LOT to do at [COMPANY] and can probably get your help on other projects! It’s much better to ask your manager how you can help the team today than to find out months later that your manager is unhappy with your impact/output compared to others on the team.
 * If you are regularly working >50 hours, **please have a conversation with your manager. **While there are often ‘crunch periods’ where even 60+ hour weeks may happen we _know this is not sustainable_ and don’t want you to suffer burnout. Remember, in a remote-first culture it is very difficult to see when people are working. Your manager may not even be aware you are pulling late nights and that work needs to be re-balanced or perhaps the team is too small to handle the workload.
 * If your work hours are interfering with your personal life, like picking up kids from school or doctors appoints, please talk to your manager. While we can’t guarantee infinite flexibility a conversation will almost always resolve the issue.
 * Working hours should be **explicitly set in Google Calendar** using the “working hours feature.” This will automatically decline meetings outside your working hours. 
@@ -138,7 +138,7 @@ Expectations of employees:
 
 ### PROPOSAL: Focus Time
 
-A lot of the work at Doxel is quite complex and requires many hours of no interruptions to make real progress. This is true for annotation, engineering, product, etc. In order to balance our _rapid_ _communication _needs with this _high throughput execution _need I propose we implement Focus Time.
+A lot of the work at [COMPANY] is quite complex and requires many hours of no interruptions to make real progress. This is true for annotation, engineering, product, etc. In order to balance our _rapid_ _communication _needs with this _high throughput execution _need I propose we implement Focus Time.
 
 Focus Time is an explicit block on Google Calendar so people don’t schedule meetings, expect you to respond to Slack, or complain that you aren’t doing code reviews. You set these blocks when you need them, ideally as far ahead as possible.
 
@@ -206,7 +206,7 @@ This section is short since the tools we use are pretty obvious to everyone:
 
 ## Medium Bias
 
-Doxel prefers the written medium! At Basecamp they say “speaking only helps those in the room, writing helps everyone” and we agree. Any information shared via VC or phone cannot be shared further (this often holds true for Slack too because of the difficulty of consuming chat messages later in time). In the spirit of _intentional communication_ make sure you _document_ important information shared verbally in the _right_ _medium _afterwards and share it with the right _audience_. Examples:
+[COMPANY] prefers the written medium! At Basecamp they say “speaking only helps those in the room, writing helps everyone” and we agree. Any information shared via VC or phone cannot be shared further (this often holds true for Slack too because of the difficulty of consuming chat messages later in time). In the spirit of _intentional communication_ make sure you _document_ important information shared verbally in the _right_ _medium _afterwards and share it with the right _audience_. Examples:
 
 
 
@@ -287,13 +287,13 @@ Everyone is doing _something important right now!_ Please avoid interrupting peo
 
 ## Meeting Etiquette
 
-A lot has been written around running effective meetings; instead of re-inventing the wheel please read the links below. Here we only document the specifically-important-to-Doxel components:
+A lot has been written around running effective meetings; instead of re-inventing the wheel please read the links below. Here we only document the specifically-important-to-[COMPANY] components:
 
 Links:
 
 TODO
 
-Doxel expectations:
+[COMPANY] expectations:
 
 
 

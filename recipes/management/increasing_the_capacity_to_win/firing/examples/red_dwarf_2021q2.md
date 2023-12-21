@@ -37,7 +37,7 @@ For the Quality project I was also directly involved with his data analysis and 
 Feedback
 
 * Doesn’t provide evidence for the improvements he is making. Has bitten the team in the butt with rollbacks. 
-* Nobie is pushing for a more scientific approach - I’m surprised that Red Dwarf is not super on-board on that. Maybe he doesn’t have a lot of experience with that type of approach? 
+* [PEER] is pushing for a more scientific approach - I’m surprised that Red Dwarf is not super on-board on that. Maybe he doesn’t have a lot of experience with that type of approach? 
 * He’s effectively developed a couple of good things. He’s been successful on his intuition. I would like to see a more data-driven approach. We don’t know when we will make things worse - that’s a particularly a problem to making something running in production. 
 
 

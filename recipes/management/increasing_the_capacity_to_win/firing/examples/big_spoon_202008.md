@@ -2,7 +2,7 @@
 This is an email I sent to Big Spoon before our 1:1
 
 # Email contents
-I recently spent some time reviewing your work from the last six weeks and I’m disappointed about the amount of progress you’ve made. We brought Arun into the team this quarter so you could be less distracted by leadership tasks and focus your computer vision skills on key problems facing the company. To see how you were doing, I analyzed your PRs, recently resolved JIRAs, and your commitments in the OKRs and Q3 MPF milestones.
+I recently spent some time reviewing your work from the last six weeks and I’m disappointed about the amount of progress you’ve made. We brought [PEER] into the team this quarter so you could be less distracted by leadership tasks and focus your computer vision skills on key problems facing the company. To see how you were doing, I analyzed your PRs, recently resolved JIRAs, and your commitments in the OKRs and Q3 MPF milestones.
 
 Some key problems:
 

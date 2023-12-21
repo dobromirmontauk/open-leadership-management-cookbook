@@ -1,9 +1,9 @@
 # Background
-In 2019 when I joined Doxel we did not have any on-call process or culture. Once I felt it was appropriate to improve this part of our organization/process I wrote this doc to align the whole team to the direction I wanted to take us.
+In 2019 when I joined [COMPANY] we did not have any on-call process or culture. Once I felt it was appropriate to improve this part of our organization/process I wrote this doc to align the whole team to the direction I wanted to take us.
 
 ## Overview
 
-This document explains the _purpose_ and _process_ of an **oncall rotation** for Doxel teams. It is intended for engineers not familiar with being oncall and the expectations that come with it. While it borrows heavily from oncall experiences at other internet companies (Google, TellApart, Twitter), Doxel is a unique company due to the heavy exposure to outdoor and indoor physical conditions (through rovers, drones, etc). Discussion is encouraged so that we achieve our objective: frequent, complete reports of construction site progress.
+This document explains the _purpose_ and _process_ of an **oncall rotation** for [COMPANY] teams. It is intended for engineers not familiar with being oncall and the expectations that come with it. While it borrows heavily from oncall experiences at other internet companies (Google, TellApart, Twitter), [COMPANY] is a unique company due to the heavy exposure to outdoor and indoor physical conditions (through rovers, drones, etc). Discussion is encouraged so that we achieve our objective: frequent, complete reports of construction site progress.
 
 
 ## Why On-call?
@@ -26,9 +26,9 @@ Because on-call engineers are only tackling the hardest problems, there is usual
 4. As such, on-call rotations can’t be too small or they can burn-out engineers. 4 people is usually the minimum, with 6-8 being a good size. 10+ starts being too large because engineers forget what they need to do when on-call after 2 months of no practice.
 
 
-## Why Does Doxel Need On-Call?
+## Why Does [COMPANY] Need On-Call?
 
-Doxel has 3 distinct pieces that may need on-call support.
+[COMPANY] has 3 distinct pieces that may need on-call support.
 
 
 ### In-field Data Collection
@@ -37,7 +37,7 @@ Our rover and drone operators in the field have short windows where they can cap
 
 Data collection can fail for multiple reasons: human error, incorrect field set-up (markers, control points, etc), hardware issues, and software failures. We’ll need to build software systems into our data collection platforms (especially rovers) to minimize failures and alert when we might need engineering or central ops support. We’ll also need a team of experts available via phone to debug software and hardware issues remotely.
 
-Today, Eric and Kevin play this part directly. As the team is small, and the number of production sites is small too, we can continue with a single support contact for the time being. As we grow to 10+ sites we’ll likely need 2-3 people and then set up the on-call rotation.
+Today, [EMPLOYEE] and [EMPLOYEE] play this part directly. As the team is small, and the number of production sites is small too, we can continue with a single support contact for the time being. As we grow to 10+ sites we’ll likely need 2-3 people and then set up the on-call rotation.
 
 
 ### Data Pipeline
@@ -49,7 +49,7 @@ As our pipeline replaces our Ops team in production we’ll need to set up on on
 
 ### Customer Interface
 
-Doxel’s customers have access to their data via our Web interface today, and maybe other methods tomorrow. Because our customers are Fortune 500s and paying $M for the product they expect very high levels of service from Doxel. Our customer interfaces need to be and functional a very high percentage of the time. We don’t have millions of billions of users logging in daily so small failures for a few users isn’t acceptable to us.
+[COMPANY]’s customers have access to their data via our Web interface today, and maybe other methods tomorrow. Because our customers are Fortune 500s and paying $M for the product they expect very high levels of service from [COMPANY]. Our customer interfaces need to be and functional a very high percentage of the time. We don’t have millions of billions of users logging in daily so small failures for a few users isn’t acceptable to us.
 
 Most importantly, the data on the dashboard has to _be complete and right_. Customers won’t know why it isn’t and won’t care who’s fault it is. That means the team responsible for all customer outputs needs to _feel responsible_ about the entire stack below - the data pipeline and even data capture - because they are our last folks at the company preventing us from embarrassing ourselves. 
 
@@ -184,7 +184,7 @@ Communication during bugfix:
 
 Communication modes
 
-P0 - #rincon-dev and email to all devs in Doxel. Hourly status update on JIRA.
+P0 - #rincon-dev and email to all devs in [COMPANY]. Hourly status update on JIRA.
 
 P1 - #rincon-dev. Daily status update on JIRA.
 

@@ -56,3 +56,8 @@ Good reasons:
 
 #### Pave Tools
 You can save yourself a lot of time by spending a lot money and just using [Pave](https://www.pave.com/compensation-planning). It's basically a spreadsheet that costs you $10K a year (I'm guessing that number, I like making spreadsheets myself...)
+
+#### GitLab Recipe
+GitLab has a very nice [calculator](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/). 
+
+They also explain their [Annual Process](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/) quite well. 

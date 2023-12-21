@@ -26,7 +26,7 @@ TODO
 I always felt a little uncomfortable with the 'market-based valuation' recipes, even though I understand they are probably the correct way to grant equity for early startups. Still, it would be nice to know that startups are giving the right proportion of their equity to employees so that, risk-adjusted, we aren't asking the entire population of startup employees to accept *worse outcomes* than if they went to Big Tech. So this is the recipe I came up with to understand what % is 'reasonable' and what % is 'unreasonable'. 
 
 Ingredients:
-1. [Employee market value](TODO): some fresh data around how much equity this employee could get at a Big Tech company (or whatever their best alternative might be).
+1. [Employee market value](benchmarking.md): some fresh data around how much equity this employee could get at a Big Tech company (or whatever their best alternative might be).
 2. [Current startup valuation](https://github.com/dobromirmontauk/llm-recipes/blob/main/recipes/management/increasing_the_capacity_to_win/reward_systems/compensation/company_valuation_recipes.md): while this should be easy to get from the company (just ask for their last preferred valuation), valuations have their own recipes -- so make sure you use the one that tastes right for you!
 3. [Expected growth rate](TODO): this is mostly guesswork (black magic). Put together some numbers by year using the recipes specified here.
 4. [Risk premium](TODO): there is some data at the population level of startups. But each startup is different. Salt to taste.
@@ -70,3 +70,13 @@ Most of the stories out of Silicon Valley come when startups do WAY better than 
 
 ## Sweat Equity Venture Capital
 The one other benefit not discussed above is the upside you have after you stop working there. The model assumes that you can sell your shares after 4 years, and that is all your equity is worth. However, if you have the good fortune of being able to exercise and hold your options, then suddenly you can grab all the growth for the next N years, even if you leave. This is a rare opportunity since otherwise only VCs can benefit from these early, pre-IPO years of startup growth. So if you are patient, and you believe in the company, instead of settling for 4x or 8x increases you can look at 16x or 32x. The risk, of course, increases. Choose your own adventure. 
+
+# Background Reading
+https://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/
+https://blog.wealthfront.com/startup-employee-equity-compensation/
+https://blog.wealthfront.com/stock-options-15-crucial-questions/
+https://blog.wealthfront.com/trade-salary-for-equity/
+https://www.quora.com/What-are-the-typical-amounts-of-equity-offered-to-engineers-by-startups-of-different-sizes-Specifically-data-for-startups-with-10-20-30-40-50-100-200-500-and-1-000-employees
+https://www.slideshare.net/wealthfront/wealthfront-equity-plan/30-well_within_acceptable_range_of
+https://www.codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks
+

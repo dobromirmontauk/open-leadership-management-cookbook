@@ -13,3 +13,8 @@
 * Training
     * Wade's hiring docs
 * If the decision hinges on the numbers, you've already lost. (Delaney)
+* Engineering strength
+    * A-players
+    * B-players OK for non-critical systems
+    * C-players pull you backwards (net-negative)
+    * D- and below will get you fired.

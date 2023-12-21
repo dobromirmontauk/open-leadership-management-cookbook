@@ -65,15 +65,23 @@ Need to expand this, but roughly something like this:
 1. Credit to inspirations/examples/etc is encouraged. We all stand on shoulders of giants. Link to other material if possible and call out what you've done differently/how you improved on the recipe or made it your own.
 1. Copying third-party recipes **without their approval** is forbidden. You can link to their "recipes" (books, blog posts, etc) but don't verbatim copy/paste anything anyone else has written. If they give you approval encourage them to add a commit themselves instead, that way credit is clearly seen in the commit history. If that's not possible then you should have a link back to their public profile (LinkedIn/blog/etc).
 1. Non-recipes should use the plural 'we' and represent the voice of the Editorial Committee (TBD what that is!). In rare circumstances, individuals can add their own editorial voices within the common sections by clearly marking them as such [_I think this is a good idea but I'm open to not doing it -- Dobromir_].
+1. Humor is encouraged. Leadership & Management can be a tedious job sometimes. Let's make it more fun by laughing at ourselves & others. All humor in this guide should _not_ be directed at any one individual or class of people in particular. Unless that class of people are Startup CEOs, in which case everything is fair game. They can take it.
 
+# References
+## Sources
+There are a ton of inspirations for all the material here, too many to list. We'll call out the main ones that appear over & over within the cookbook. Whenever possible, we link to the specific recipes within the cookbook as well, in the right location.
 
+* [GitLab's Handbook](https://handbook.gitlab.com/handbook)
+* 
 
+## Thank you!
 
 
 # Working TODO list
 1. ~~Performance review recipes?~~
 1. Finish the compensation sections so they are fully readable end-to-end.
 1. Expectations (scorecards / ladders / etc)
+1. Lessons learned from Doxel (for WT)
 1. Execution recipes
     1. Red/Yellow/Green tracking
     2. Cycles recipe

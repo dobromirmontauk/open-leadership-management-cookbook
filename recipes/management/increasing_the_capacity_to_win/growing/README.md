@@ -20,3 +20,6 @@ Calibration process
 Approaches to career coaching
     
     * Skill stack
+    
+* Get it, Want It, Do It
+* Beliefs, Behaviors, Competencies. Explicitly identify what you are working on!
