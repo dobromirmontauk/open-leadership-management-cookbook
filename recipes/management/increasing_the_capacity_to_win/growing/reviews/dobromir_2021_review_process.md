@@ -90,8 +90,8 @@ company, with more focus on the last 6 months.**
 Examples:
 
 * [Dobromir’s Q4 2019 Self Eval](https://docs.google.com/document/d/1yuMyMNO9XPCRThTOnuILwAbiYjyM8fJjrCCPc8YlAVU/edit#heading=h.in1atr2w7rv0)
-* [Arun’s Q4 2019 Self Eval](https://docs.google.com/document/d/1MhC-sC2R-qGNjCD3ww9vFlZZyKEhC2UAARbZarGCDFs/edit#heading=h.6nvsn7rklsd7)
-* [Justin’s Q4 2019 Self Eval](https://docs.google.com/document/d/1yWD-mF1KhwtpMFoKaAotvTpONnppAaj0DebanpdAZHI/edit)
+* [PEER’s Q4 2019 Self Eval](https://docs.google.com/document/d/1MhC-sC2R-qGNjCD3ww9vFlZZyKEhC2UAARbZarGCDFs/edit#heading=h.6nvsn7rklsd7)
+* [PEER’s Q4 2019 Self Eval](https://docs.google.com/document/d/1yWD-mF1KhwtpMFoKaAotvTpONnppAaj0DebanpdAZHI/edit)
 
 ## Peer Review (optional!)
 
