@@ -165,7 +165,7 @@ Peer Feedback:
   much - he has personal situations, he explained to me - but even when he is here he is on the couch rather than
   sitting with his team.
 * Consequences? I want to be able to turn and just talk to him - and when he’s not here he’s difficult to reach
-  remotely. It would be different if it was like Justin, where if you Slack him or Zoom him he’s right there.
+  remotely. It would be different if it was like [PEER], where if you Slack him or Zoom him he’s right there.
   With [EMPLOYEE] it’s difficult if he’s not physically present. When he is here - super easy to collaborate. Remote -
   very difficult.
 
@@ -233,17 +233,17 @@ Peer Feedback:
   more. **Even a couple days of training up in HQ would help a ton.
 * Would be helpful to have more context on how the rover works and why HQ is fixing it the way they are.
 * Get our perspective on how things can be done down here.
-* E.g. Viraj and the India team can be getting better, learning on new data - he’s not pushing them hard enough.
-* I would expect more. Vince and [EMPLOYEE] have a good relationship going on; but I’m not sure where [[DIRECT-REPORT]
+* E.g. [PEER] and the India team can be getting better, learning on new data - he’s not pushing them hard enough.
+* I would expect more. [PEER] and [EMPLOYEE] have a good relationship going on; but I’m not sure where [[DIRECT-REPORT]
   fits into that piece, not sure if [[DIRECT-REPORT] knows. Does he know what he is responsible for? What he is supposed
   to improve on?
-* Don’t know if this falls under job title or not - but constant communication with Jeff, [EMPLOYEE] has been working on
-  Ops for a while, and I don’t think Jeff has ever talked to him. I don’t know if that’s the plan or not. I would
-  reference [EMPLOYEE] to Jeff and Jeff said “I don’t even know who that is.” I don’t know if that is how it’s supposed
-  to go. Jeff felt disconnected because I was getting information from someone he didn’t have any contact with.
+* Don’t know if this falls under job title or not - but constant communication with [PEER], [EMPLOYEE] has been working on
+  Ops for a while, and I don’t think [PEER] has ever talked to him. I don’t know if that’s the plan or not. I would
+  reference [EMPLOYEE] to [PEER] and [PEER] said “I don’t even know who that is.” I don’t know if that is how it’s supposed
+  to go. [PEER] felt disconnected because I was getting information from someone he didn’t have any contact with.
 * Daily communication - even if it’s a quick 2-3 minute phone call with [EMPLOYEE]. I send him a daily report every day.
   Early on he was doing onboarding, he was sick - daily communication was tough. I want to be in as much of the loop as
-  I can be. Often Jeff comes to me with questions and I would direct him to [PM] or [[DIRECT-REPORT] - but the more I
+  I can be. Often [PEER] comes to me with questions and I would direct him to [PM] or [[DIRECT-REPORT] - but the more I
   know the quicker I can give communication to the client.
 * I think I could be utilized a bit more. I have a diverse skill set - communication, customer service is my background.
   Anything I can do to help with anything there - I’d be willing and happy to do anytime. If you want to put more

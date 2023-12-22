@@ -214,7 +214,7 @@ P1 - #rincon-dev. Daily status update on JIRA.
 
 
 * Handoff process:
-* Engineers: Cent, Abdul, Daniel
+* Engineers: REDACTED, REDACTED, REDACTED
 * Rotation length: 1 week
 * Swapping/exceptions process: 
 * Holiday coverage: 
