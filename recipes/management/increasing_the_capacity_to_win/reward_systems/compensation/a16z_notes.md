@@ -27,7 +27,7 @@ These are rough notes I gathered talking to a16z about Comp in 2019 or so. Not o
     19. Most companies don’t go below 50th - especially with Capital Raise. Fungibility of compensation that is consistent. 
     20. You won’t be able to compete with Goog/FB/etc… 
     21. If you go up for cash - the likelihood you are getting people who are less-and-less risky. 
-    22. Nobie: “cash seems about right, equity seems low.” $160-$170k for 50% range - you might be giving them more cash. 
+    22. REDACTED: “cash seems about right, equity seems low.” $160-$170k for 50% range - you might be giving them more cash. 
     23. “I need people to make independent decisions and be able to prioritize the same way because they have the same incentives - drive shareholder value”
 4. How to set refreshers for internal employees. We have a few who have been here >2 years and have started asking about new grants.
     24. 2.5-3 years 
