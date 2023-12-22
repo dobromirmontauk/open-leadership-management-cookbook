@@ -27,7 +27,7 @@ had good examples of how he spent months really digging into the X world, learni
 his vision and execution for the product (ending up with a 55-page thesis over 80 iterations!).
 
 His EECS background combined with his recent work in ML make him very well suited to building products that depend
-heavily on ML/CV performance. Nobie and Arun believe he will work well with the engineering team in defining the product
+heavily on ML/CV performance. REDACTED and REDACTED believe he will work well with the engineering team in defining the product
 based on engineering limitations. He has several years of experience doing customer development and product research
 which will be helpful to us building a solid QA/QC offering.
 
