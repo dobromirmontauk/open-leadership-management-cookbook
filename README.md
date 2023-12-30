@@ -79,6 +79,7 @@ There are a ton of inspirations for all the material here, too many to list. We'
 
 # Working TODO list
 1. ~~Performance review recipes?~~
+1. ~~Leadership/Management explanation — this will be controversial.~~
 1. Finish the compensation sections so they are fully readable end-to-end.
 1. Expectations (scorecards / ladders / etc)
 1. Lessons learned from Doxel (for WT)

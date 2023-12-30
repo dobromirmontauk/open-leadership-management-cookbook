@@ -4,6 +4,18 @@
 1. [Management✅](management/): starting to come together with some useful content.
 
 # "Leadership" vs "Management"
+'Leadership' and 'management' are hard to define & distinguish. It's almost tempting to throw up our hands, give up, and shove all the recipes together.
+
+But there _is_ a difference, and we believe that not attempting to untangle the best leader patterns from the best manager patterns hurts our ability to grow the next generation of both. An illustration of this confusion comes from [TWIG](need_link_here), the Engineering Leadership class that Dobromir founded at Twitter. This was a course aimed at Individual Contributors, not managers, and yet a frequent question was "should I take this class if I want to become a manager?" One of the few strong, uncompromising positions we'll take in this cookbook is that _leadership is not just for people managers_. We strongly believe that teams cannot become [High Performing](need_link_here) without _every_ member's leadership voice. 
+
+So, as a very rough cut, recipes that mainly apply to people managers will go under the [management](management/) tree, while all other recipes will go under the [leadership](leadership/) tree. When there is ambiguity on where to find a set of recipes we will link them from both sides to make navigation easier.
+
+
+# Explaining the Difference
+
+We've seen the question "what is the difference between Leadership & Management?" come up often enough that it deserves its own set of recipes. Please contribute your own explanation here, or link to really good ones you find online!
+
+## Dobromir's Recipe
 
 Both Leadership & Management are fundamentally about changing how people think. Change how they think, and they'll
 behave differently. Change how they behave, and they'll reach different outcomes. Like the physics equivalents of
@@ -73,7 +85,7 @@ You take a deep breath, fire the recruiter, and take some of your top ICs off th
 Leadership, with a capital L. It also might be plain foolish. Guess what: you won't know until you reach the
 destination, or fail to.
 
-## It Gets Worse
+### It Gets Worse
 
 We said above that "Most team members will agree this makes sense". They unfortunate fact is that it's unlikely that
 everyone in your organization even has the same optimization function in their head (if they do, congrats! You must be
@@ -91,7 +103,7 @@ with which individual. Oyyyyy....
 This is why we can't have a leadership cookbook without a management section, or management recipes without referring to
 leadership ingredients...
 
-## It Gets Even Worse
+### It Gets Even Worse
 
 All this talk of optimization functions, local maximas and global maximas... It makes the situation feel way more
 certain than it really is! Let's try to get an even more accurate drawing:
@@ -108,7 +120,7 @@ bigger win' with 'less effort'.
 
 Leadership is hard because we just don't know, but we have to pretend that we do.
 
-# That's Why We Are Splitting Leadership and Management
+## That's Why I Split Leadership and Management
 
 Leadership is not for the faint of heart.
 
@@ -121,3 +133,9 @@ about being perfect, we haven't met anybody who's achieved perfection in either,
 
 Hopefully, this cookbook will give you recipes where you need them most. 
 
+
+## TODO
+My recipe has a TON of stuff I want to expand on. Notes here:
+
+ 1. My L/M recipe: leadership is about risk to yourself, to your reputation, to your career. If there is no risk, it’s not leadership. 
+2. Small leadership ‘bumps’ for a Sr. EM might be huge leadership moments for more junior employees. That’s why leadership/management is a spectrum. 
