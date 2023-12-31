@@ -17,8 +17,7 @@ We'll use a similar structure here. We'll break down our most complex leadership
 ## Section Health
 There are a LOT of sections in this cookbook. Since we are actively working on it, parts will be unstarted, parts incomplete, parts wrong and not useful yet... So to help folks navigate it while it is 'under construction' we use the following badges. Note that badge higher up the tree represents the MAXIMUM badge lower down, which should help with navigation down to the useful parts.
 
-1. 🚫 Placeholder. This means the page/tree exists purely as an empty canvas for future work.
-2. ⚠️ Raw notes. This means the page/tree has notes being stored to convert into an actual document. The notes might be useful, but they probably aren't.
+1. 🚫 Placeholder. This means the page/tree exists purely as an empty canvas for future work. It might have raw notes being stored to convert into an actual document. Probably not worth exploring these trees/documents.
 3. ☢️ Draft. This means I'm actively working on the page/tree and it will be changing in the near future. It probably shouldn't be read yet, unless you want to torture yourself.
 5. ✅ Published. This means the page/tree is likely useful.
 6. ❇️ Core Team Contributions. This means the page/tree has had other people contributing to it and is now a "group-owned" page.
@@ -27,19 +26,20 @@ There are a LOT of sections in this cookbook. Since we are actively working on i
 ## Current Progress
 Since our tree can be quite deep & confusing as it develops here are the main sections that are ready for consumption. 
 
-  1. [Definitions🚫](definitions): this will eventually contain terms that are used throughout the cookbook and may not be well-understood.
-  1. [Ingredients⚠️](ingredients): a discussion of the key ingredients that, if we combine them in the right way, will make people think differently.
-  1. [Tools⚠️](tools): a discussion on the various tools that you have to combine those ingredients.
+  1. [Definitions 🚫](definitions): this will eventually contain terms that are used throughout the cookbook and may not be well-understood.
+  1. [ingredients 🚫](ingredients): a discussion of the key ingredients that, if we combine them in the right way, will make people think differently.
+  1. [Tools 🚫](tools): a discussion on the various tools that you have to combine those ingredients.
   1. [Recipes✅](recipes): this is the current place I'm focusing my attention.
-      1. [Leadership⚠️](recipes/leadership): not yet started.
+      1. [Leadership 🚫](recipes/leadership): not yet started.
       1. [Management✅](recipes/management): some progress happening here.
-          1. [Winning⚠️](recipes/management/winning): not yet started. 
-          2. [Increasing the Capacity To Win✅](recipes/management/increasing_the_capacity_to_win)
-              1. [Growing✅](recipes/management/increasing_the_capacity_to_win/growing)
+          1. [Winning 🚫](recipes/management/winning): not yet started. 
+          2. [Increasing the Capacity To Win ✅](recipes/management/increasing_the_capacity_to_win)
+              1. [Growing ✅](recipes/management/increasing_the_capacity_to_win/growing)
                   1. [Expectations☢️](recipes/management/increasing_the_capacity_to_win/growing/expectations): some good rough drafts here but not fully ready for consumption yet. 
-                  1. [Reviews✅](recipes/management/increasing_the_capacity_to_win/growing/reviews): this is ready and should be useful! 
-              1. [Reward Systems☢️](recipes/management/increasing_the_capacity_to_win/reward_systems)
-                  1. [Compensation☢️](recipes/management/increasing_the_capacity_to_win/reward_systems/compensation): lots of progress here but need to tie things together. The equity piece is furthest along. 
+                  1. [Reviews ✅](recipes/management/increasing_the_capacity_to_win/growing/reviews): this is ready and should be useful! 
+              1. [Reward Systems☢ ️](recipes/management/increasing_the_capacity_to_win/reward_systems)
+                  1. [Compensation ](recipes/management/increasing_the_capacity_to_win/reward_systems/compensation): lots of progress here but need to tie things together. The equity piece is furthest along. 
+                  1. [Non-Compensation 🚫](recipes/management/increasing_the_capacity_to_win/reward_systems/non_comp/README.md): not yet started
   1. [Meals🚫](meals): 
   1. [Feasts🚫](feasts): 
   1. [Appendix](appendix/README.md): 
@@ -80,7 +80,7 @@ There are a ton of inspirations for all the material here, too many to list. We'
 # Working TODO list
 1. ~~Performance review recipes?~~
 1. ~~Leadership/Management explanation — this will be controversial.~~
-1. Finish the compensation sections so they are fully readable end-to-end.
+1. ~~Finish the compensation sections so they are fully readable end-to-end.~~
 1. Expectations (scorecards / ladders / etc)
 1. Lessons learned from Doxel (for WT)
 1. Execution recipes
@@ -100,4 +100,10 @@ There are a ton of inspirations for all the material here, too many to list. We'
 	1. Training meal. How do you up-level your team's ability to hire?
 	1. Training feast. How do you up-level your org/company's ability to hire?
 1. Patent recipes?
-1. Explore turning these into slides! https://marp.app/
+1. Add automatic checks to this github repo.
+    1. Spelling.
+    1. Broken links.
+    1. Reformatting MD pages.
+    1. Creating slideshows PDFs for certain recipes.
+        1. Explore turning these into slides! https://marp.app/
+    1. PII (names, internal documents, etc) removal.

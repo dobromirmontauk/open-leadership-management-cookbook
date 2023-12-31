@@ -1,9 +1,12 @@
+# Increasing the Capacity To Win
+TODO(dmontauk): explain this term and how we are organizing recipes here.
+
 # Table of Contents
-1. [Budgeting🚫](budgeting/): not started.
-1. [Firing⚠️](firing/): some examples but no recipes yet.
-1. [Growing✅](growing/): some good published stuff here.
-1. [Reward Systems☢️](reward_systems/): may be worth reading if you're comfortable going through draft documents that are not well organized.
-1. [Transitioning🚫](transitioning/): not started.
+1. [Budgeting 🚫](budgeting/): not started.
+1. [Firing ⚠](firing/): some examples but no recipes yet.
+1. [Growing ✅](growing/): some good published stuff here.
+1. [Reward Systems ✅](reward_systems/): compensation sections have been fleshed out and should have some useful recipes. Non-compensation section hasn't been started yet. We could use help here!
+1. [Transitioning 🚫](transitioning/): not started.
 
 # Unorganized
 * Increasing the capacity to win. Should this be split by domain?
