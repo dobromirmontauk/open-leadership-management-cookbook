@@ -52,7 +52,11 @@ much more effort we want to put into sharpening the numbers then."
 
 So don't waste your time, and wait until the right moment...
 
-# Unorganized
+# Resources
+
+* [Drive](need_link!) is a wonderful book explaining where human motivation comes from. Great reading before you embark on revamping your reward systems.
+
+# TODO topics
 
 Drive book.
 
