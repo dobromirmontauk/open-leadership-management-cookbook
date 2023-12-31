@@ -1,10 +1,9 @@
 # Overview
 
-Ah, equity. That delicious little number on your offer that looks like a $1M for some reason. But what is it, really?
-How does it work? And, most importantly, as a new Head of Engineering, how the hell do I figure out how much to give it,
-when to give it, and how to feel confident I'm giving the right amount?
+Ah, equity. That delicious little number on my offer that I naively believe will be worth millions one day... But what is it, really?
+How does it work? And, most importantly, as a new Head of Engineering, how the hell do I figure out how much of it to give and when to give it?
 
-Equity is a very complex topic, way too deep to handle here. A great place to start if you are new to thinking about
+Equity is a very complex topic, way too deep to handle in an overview. A great place to start if you are new to 
 equity is [The Open Guide to Equity Compensation
 ](https://github.com/jlevy/og-equity-compensation?tab=readme-ov-file#typical-employee-equity-levels).
 

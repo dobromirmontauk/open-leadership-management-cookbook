@@ -1,11 +1,11 @@
 # Table of Contents
 
-1. [Planning✅](planning.md): recipes for putting together compensation targets. You should start here and work
+1. [Planning ✅](planning.md): recipes for putting together compensation targets. You should start here and work
    backwards.
-1. [Compensation Philosophy🚫](philosophy.md): how to reason & align with your CEO about compensation in your
+1. [Compensation Philosophy ✅](philosophy.md): how to reason & align with your CEO about compensation in your
    organization.
-1. [Intro to Equity☢️](equity.md): an introduction to equity in startups and how to value it.
-1. [Market Benchmarking🚫](benchmarking.md): how to figure out what is 'normal' compensation so you don't overpay or lose
+1. [Intro to Equity  ✅️](equity.md): an introduction to equity in startups and how to value it.
+1. [Market Benchmarking ✅](benchmarking.md): how to figure out what is 'normal' compensation so you don't overpay or lose
    too many candidates.
 
 # Compensation

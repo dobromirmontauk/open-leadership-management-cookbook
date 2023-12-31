@@ -2,18 +2,31 @@
 
 Compensation 'philosophy' is the misnomer for how your company thinks about paying its employees. Philosophy usually
 refers to the study of truths, the search for right and wrong, or the seeking of the meaning of life. We doubt such deep
-first principles thinking influenced your compensation structure. At best, your
-CEO [cargo-culted](https://en.wikipedia.org/wiki/Cargo_cult) the comp approach from one of his college buddy's startups.
+first principles thinking influenced your compensation structure. Your
+CEO most likely [cargo-culted](https://en.wikipedia.org/wiki/Cargo_cult) the comp approach from one of his college buddy's startups.
 
 [image of Dumbo eating peanuts, caption: 'your CEO's compensation philosophy']
-At worst, he secretely wishes engineers just worked for ~~peanuts~~, I mean stock options.
+At worst, he truly believes engineers just work for ~~peanuts~~, I mean stock options.
 
-Since a slight gap might exist between your recommendations and your boss's desires, you might find yourself needing to
+Since a slight gap might exist between your recommendations and your boss's preference, you might find yourself needing to
 spend some time bridging it so you can get back to the business of hiring engineers and building cooler things than comp
 spreadsheets. Feel free to start with that 5-minute unprepared conversation in your next 1:1 you were planning on
 having. Then, come back here for some recipes that might actually work.
 
 For a more serious take, see [Carta's Comp Philosophy Explanation](https://carta.com/blog/compensation-philosophy/)
+
+# Why Do You Need A Comp Philosophy?
+
+Simply put, you need a comp philosophy because no matter what you do, you have one. People want to know how you will decide how much to pay them, and since you are making those decisions, there is some better-or-worse system you are using to decide... So there you go, that's your 'philosophy'. It might be as simple as "we don't have a comp philosophy"! Or, you might not be _aware_ of your own comp philosophy. Or you may not be comfortable communicating it... 
+
+A perhaps a better question is, "why do you need a _published_ comp philosophy?" You might not (see some of the recipes below). The right way to judge this is: 
+
+    Would publishing a comp philosophy save you time, save you money, or save you both?
+
+How can a comp philosophy do that?? When employees start feeling like compensation isn't fair, that it's _negotiated_ more than _earned_, they will start devoting their energy into increasing their own compensation instead of making the team win. That will suck away your time in negotiations and replacing disgruntled employees, it'll likely cost you more as you'll give in to some of the negotiations, and it will decrease the productivity of your team. 
+
+If you notice this leech starting to suck your blood... put together a comp philosophy and _stick to it_. 
+
 
 # Recipes
 
@@ -34,7 +47,7 @@ of product/market fit risk reduction."
 
 Then, do everything in a case-by-case basis. Take on the [Management Debt](/tools/management_debt.md) for now.
 
-## Dobromir's Comp Philosophy Recipe
+## Dobromir's Series B Comp Philosophy Recipe
 
 Congratulations, you survived to Series A (at least). It might be time to pay off some of that management debt you
 accrued around compensation philosophy. The trick, like in all startup moments, is to do the _least work_ that gives you
@@ -52,7 +65,8 @@ The recipe roughly follows this format. I'll have more details in the sections b
        worth it?
 1. Write up a [Proposal](/tools/written_proposal.md).
     1. Can you express your pros & cons in an unbiased way?
-1. Get buy-in from stakeholdes (CEO)
+1. Get buy-in from keywstakeholders
+    1. 
 1. Roll out to your team.
     1. Otherwise, the philosophy isn't real. This is the hardest part!
 

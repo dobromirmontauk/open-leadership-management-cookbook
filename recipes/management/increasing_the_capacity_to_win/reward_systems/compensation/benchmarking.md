@@ -1,4 +1,5 @@
 # Compensation Benchmarking
+Benchmarking is the process of discovering how insane other companies' pay bands are.
 
 Probably the most important part of benchmarking is choosing the companies in the 'peer group'. If you are comparing
 yourself to Google, Facebook, OpenAI... You will end up with very different numbers then if you choose a bunch of
@@ -82,4 +83,4 @@ This is the recipe I used to put together our first set of compensation benchmar
     1. Expect not to hear anything back until you come up with your engineering budget and he's shocked about the size
        of the number.
 
-# Unorganized
+# Remaining TODO 
