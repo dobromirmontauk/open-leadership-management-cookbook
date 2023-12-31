@@ -123,13 +123,16 @@ you leave. This is a rare opportunity since otherwise only VCs can benefit from 
 growth. So if you are patient, and you believe in the company, instead of settling for 4x or 8x increases you can look
 at 16x or 32x. The risk, of course, increases. Choose your own adventure.
 
-# Background Reading
+# Recommended Resources
 
-https://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/
-https://blog.wealthfront.com/startup-employee-equity-compensation/
-https://blog.wealthfront.com/stock-options-15-crucial-questions/
-https://blog.wealthfront.com/trade-salary-for-equity/
-https://www.quora.com/What-are-the-typical-amounts-of-equity-offered-to-engineers-by-startups-of-different-sizes-Specifically-data-for-startups-with-10-20-30-40-50-100-200-500-and-1-000-employees
-https://www.slideshare.net/wealthfront/wealthfront-equity-plan/30-well_within_acceptable_range_of
-https://www.codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks
+* Holloway Guide to Equity?
+   * [The Open Guide to Equity Compensation
+](https://github.com/jlevy/og-equity-compensation?tab=readme-ov-file#typical-employee-equity-levels) was the precursor to that book. 
+* https://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/
+* https://blog.wealthfront.com/startup-employee-equity-compensation/
+* https://blog.wealthfront.com/stock-options-15-crucial-questions/
+* https://blog.wealthfront.com/trade-salary-for-equity/
+* https://www.quora.com/What-are-the-typical-amounts-of-equity-offered-to-engineers-by-startups-of-different-sizes-Specifically-data-for-startups-with-10-20-30-40-50-100-200-500-and-1-000-employees
+* https://www.slideshare.net/wealthfront/wealthfront-equity-plan/30-well_within_acceptable_range_of
+* https://www.codingvc.com/analyzing-angellist-job-postings-part-2-salary-and-equity-benchmarks
 

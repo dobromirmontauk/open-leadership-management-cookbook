@@ -25,7 +25,9 @@ are [entire Finance departments devoted to figuring this out](https://www.linked
 If you are visiting this page, my guess is you _don't have_ someone responsible for it at your company, and someone
 asked you to drive it. Good luck... We hope some of the recipes here are useful!
 
-## Getting Help
+# Resources
+
+## Getting A Little Help From My Friends...
 
 We've spent more hours creating comp planning tools than we'd care to admit. Fortunately, the industry is maturing here
 and you can just buy tools off-the-shelf in some cases -- we'll link to them. They might be very expensive though, and
@@ -35,3 +37,6 @@ the features you want.
 One #protip: ask your CEO if you can get help from a VC partner. The big firms (_I've checked Greylock/a16z --
 Dobromir_) have in-house compensation experts who can help you navigate the space. Avoid reinventing the wheel. You have
 better things to do.
+
+## Recommended Sources
+
