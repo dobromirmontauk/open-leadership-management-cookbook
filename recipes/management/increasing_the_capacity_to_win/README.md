@@ -11,7 +11,12 @@ TODO(dmontauk): explain this term and how we are organizing recipes here.
 # Unorganized
 * Increasing the capacity to win. Should this be split by domain?
     * People: improving your people.
+        Skill/Will.
     * Process: 
+        * Hiring
+        * Sprint / retros?
+        * Postmortems?
+        * Technical design? Or do those go under winning?
     * culture: 
         * culture is what happens when you are NOT in the room. How do you improve culture then?
         * Or is culture the agreed-upon set of norms and 
