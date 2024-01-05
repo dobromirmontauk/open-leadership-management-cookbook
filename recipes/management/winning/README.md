@@ -7,6 +7,7 @@
 * Staff Meeting
 * Progress review meetings
     * Founder Reviews? 
+* PRDs/TDDs/Sprint process?
 * Big Decision meetings?
 * Peer relationships
     * No matter what level you are, you can't succeed without your peers.
