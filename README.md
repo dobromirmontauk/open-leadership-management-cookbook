@@ -108,3 +108,4 @@ There are a ton of inspirations for all the material here, too many to list. We'
     1. Creating slideshows PDFs for certain recipes.
         1. Explore turning these into slides! https://marp.app/
     1. PII (names, internal documents, etc) removal.
+    1. Recipe 'backlinks' -- if a recipe is used as an ingredient somewhere else, link back to it so it grows in usefulness!

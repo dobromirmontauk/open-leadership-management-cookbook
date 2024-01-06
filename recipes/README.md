@@ -137,5 +137,6 @@ Hopefully, this cookbook will give you recipes where you need them most.
 ## TODO
 My recipe has a TON of stuff I want to expand on. Notes here:
 
- 1. My L/M recipe: leadership is about risk to yourself, to your reputation, to your career. If there is no risk, it’s not leadership. 
+1. My L/M recipe: leadership is about risk to yourself, to your reputation, to your career. If there is no risk, it’s not leadership. 
 2. Small leadership ‘bumps’ for a Sr. EM might be huge leadership moments for more junior employees. That’s why leadership/management is a spectrum. 
+3. See all my notes I wrote up in Google Docs [here](https://docs.google.com/document/d/1LwOIhMI0MsCYePKU7sz2eigs-PcSJ6tuVXIbZGtUJdk/edit#heading=h.gu4ti1e72vvr). Need to integrate that here.
