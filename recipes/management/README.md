@@ -13,13 +13,13 @@ TODO(dmontauk): not something Wade answers in his talk?
 # Balancing Winning vs Increasing
 TODO(dmontauk): This is one of the core tensions of management! Also not something Wade talks about in his talk?
 
-# Unorganized
-Tech Lead meeting
-Postmortem meeting
-TDD meeting?
-Alliances!
+# Unorganized Topics
+* Tech Lead meeting
+* Postmortem meeting
+* TDD meeting?
+* Alliances!
 * Esp HR allies
 * Hire your own recruiter & build a VERY close relationship!
-Relationship with Head of Product?
-* Fall on the sword
-* What do we have here?
+* Relationship with Head of Product?
+    * Fall on the sword
+    * What do we have here?

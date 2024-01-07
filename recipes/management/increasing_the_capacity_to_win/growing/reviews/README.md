@@ -571,3 +571,6 @@ Public or private feedback?
 --> Always shared my self-review with my team, and encouraged others to do so as well.
 --> Sharing my previous 360s here.
 --> Impressed by sales QBRs where they basically need to do a "public 360"!!
+
+# TODO
+* TODO(dmontauk): organize all my own performance reviews to show folks a history over a whole career.
