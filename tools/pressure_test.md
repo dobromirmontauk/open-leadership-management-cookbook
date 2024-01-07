@@ -1,1 +1,1 @@
-A forcing function that makes something hard-to-ignore. 
+A forcing function that makes something hard-to-ignore. E.g. making a YES/NO decision, no gray area. Or putting together an actual formula that spits out a value at the end.
