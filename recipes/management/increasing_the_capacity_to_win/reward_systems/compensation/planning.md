@@ -54,7 +54,7 @@ Good reasons:
 1. Start with one of the [Compensation Benchmarks](benchmarking.md) recipes.
 1. Build a Comp & Equity Calculator
    like [this one](https://docs.google.com/spreadsheets/d/1BuM5ar1LTmhLUVN96lVS1vZM3nGbEUKBQhUDyvtuU58/edit#gid=1226519420)
-   that ~I copied from Twitter and my friends at Abnormal~ came up with myself.
+   that ~~I copied from Twitter and my friends at Abnormal~~ came up with myself.
     1. ![image](https://github.com/dobromirmontauk/llm-recipes/assets/50121200/87a1bcde-37be-4f26-9328-0ec254482fcc) (
        see [this Miro version](https://miro.com/app/board/uXjVND-VLJg=/) if you need explanations about what the various
        parts of the calculator are doing).
@@ -83,7 +83,7 @@ Good reasons:
    finalized.
 1. Repeat once a year to keep things tasting fresh.
 
-**Common Pitfalls**
+#####  Common Pitfalls
 
 1. Your CEO very likely won't care about your ranges -- until it's the worst possible time to care about them. Usually
    this is when you are about to close a candidate, or put together the 2024 budget off these numbers. 🤷‍♂️ You may need
