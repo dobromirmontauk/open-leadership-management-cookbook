@@ -35,10 +35,10 @@ Since our tree can be quite deep & confusing as it develops here are the main se
           1. [Winning 🚫](recipes/management/winning): not yet started. 
           2. [Increasing the Capacity To Win ✅](recipes/management/increasing_the_capacity_to_win)
               1. [Growing ✅](recipes/management/increasing_the_capacity_to_win/growing)
-                  1. [Expectations☢️](recipes/management/increasing_the_capacity_to_win/growing/expectations): some good rough drafts here but not fully ready for consumption yet. 
+                  1. [Expectations ✅](recipes/management/increasing_the_capacity_to_win/growing/expectations): I added most of my recipes here.
                   1. [Reviews ✅](recipes/management/increasing_the_capacity_to_win/growing/reviews): this is ready and should be useful! 
-              1. [Reward Systems☢ ️](recipes/management/increasing_the_capacity_to_win/reward_systems)
-                  1. [Compensation ](recipes/management/increasing_the_capacity_to_win/reward_systems/compensation): lots of progress here but need to tie things together. The equity piece is furthest along. 
+              1. [Reward Systems ✅️](recipes/management/increasing_the_capacity_to_win/reward_systems)
+                  1. [Compensation ✅](recipes/management/increasing_the_capacity_to_win/reward_systems/compensation): mostly usable now.
                   1. [Non-Compensation 🚫](recipes/management/increasing_the_capacity_to_win/reward_systems/non_comp/README.md): not yet started
   1. [Meals🚫](meals): 
   1. [Feasts🚫](feasts): 
@@ -81,7 +81,7 @@ There are a ton of inspirations for all the material here, too many to list. We'
 1. ~~Performance review recipes?~~
 1. ~~Leadership/Management explanation — this will be controversial.~~
 1. ~~Finish the compensation sections so they are fully readable end-to-end.~~
-1. Expectations (scorecards / ladders / etc)
+1. ~~Expectations (scorecards / ladders / etc)~~
 1. Clean up performance review examples, and add all of my historical ones.
 1. Lessons learned from Doxel (for WT)
 1. Execution recipes
@@ -109,3 +109,13 @@ There are a ton of inspirations for all the material here, too many to list. We'
         1. Explore turning these into slides! https://marp.app/
     1. PII (names, internal documents, etc) removal.
     1. Recipe 'backlinks' -- if a recipe is used as an ingredient somewhere else, link back to it so it grows in usefulness!
+1. Pressure test the organizational structure against other sources
+    1. rands-leadership.slack.com
+    1. theleaddeveloper.slack.com
+    1. Staff Engineer book?
+    1. 
+1. IDEA: make this repo easy to clone by a new Head of Eng and create the 'engineering handbook' for their company? 
+    1. Script to auto-pick recipes.
+    1. What else would be useful??
+1. IDEA: we should have video recordings of some of this material being taught, as well as written form. It'll be much more engaging.
+1. IDEA: we should use DALL-E to add some funny illustrations to make the content more engaging.
