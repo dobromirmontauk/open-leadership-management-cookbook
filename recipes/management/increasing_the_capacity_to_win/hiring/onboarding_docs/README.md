@@ -1,1 +1,0 @@
-TODO(dmontauk): move this to GROWING. Onboarding docs are more about growing new employees than hiring at this point. So we transition from 'hiring' mindset to 'growing' mindset.

@@ -18,10 +18,10 @@ Your mentor will be **[PEER]**. Please set up regular syncs with him in the firs
 3. Read everything in our [Software Engineering Wiki](https://doxel-ai.atlassian.net/wiki/spaces/SE/overview).
     1. Please make improvements to it :) Organize things, clarify things, update/delete out-of-date information!
 4. Pick one code base and read through it. Recommendations:
-    2. [Monorepo](https://github.com/[COMPANY]-AI/doxel): contains our Airflow and Infrastructure-as-code. Will eventually contain everything (when we are done with Monorepo migration).
-    3. [Alignment](https://github.com/[COMPANY]-AI/arx): this code finds the markers in our scans and uses them to align the scan to our model.
-    4. [Cropping](https://github.com/[COMPANY]-AI/cropping): this code iterates through our model objects and cuts out the point cloud in the same volume, to use for annotation and next steps in pipeline.
-    5. [Matching](https://github.com/[COMPANY]-AI/matcher): This code figures out the error in objects that have been installed.
+    1. [Monorepo](): contains our Airflow and Infrastructure-as-code. Will eventually contain everything (when we are done with Monorepo migration).
+    1. [Alignment](): this code finds the markers in our scans and uses them to align the scan to our model.
+    4. [Cropping](): this code iterates through our model objects and cuts out the point cloud in the same volume, to use for annotation and next steps in pipeline.
+    5. [Matching](): This code figures out the error in objects that have been installed.
 
 
 # Week 1: Get familiar with [COMPANY]
@@ -30,15 +30,15 @@ Your mentor will be **[PEER]**. Please set up regular syncs with him in the firs
 
 1. Write one unit test for cropping, get it reviewed by [PEER] (CC me) and checked-in. Build and push the Docker image.
     1. Bonus points if you can find bugs in the cropping code! [Done]
-2. Write one unit test for matching, get it reviewed by Anton (CC me) and checked-in. Build and push the Docker image. 
-    2. Bonus points if you can find bugs in the Matcher code!
-3. Add yourself as an email contact for Cropping DAG, get it reviewed by Frank  (CC me) , and push the new configuration.
+2. Write one unit test for matching, get it reviewed by [PEER] (CC me) and checked-in. Build and push the Docker image. 
+    1. Bonus points if you can find bugs in the Matcher code!
+3. Add yourself as an email contact for Cropping DAG, get it reviewed by [PEER]  (CC me) , and push the new configuration.
 4. Go through all Onboarding training [Done].
-    3. For each training, improve our documentation in the [Wiki](https://doxel-ai.atlassian.net/wiki/spaces/SE/overview).
+    1. For each training, improve our documentation in the [Wiki]()
 5. Hiring: Shadow one interview and provide notes on the candidate. [Done]
 6. 1:1s: set up 30 minute 1:1s with the following people (whom you might not meet in Onboarding) [Done]
-    4. Cent: leads the Web team
-    5. Norair: building the Simulator for our Matcher
+    1. [PEER]: leads the Web team
+    1. [PEER]: building the Simulator for our Matcher
 
 
 # Week 2: Starter Project
@@ -55,8 +55,8 @@ Please work with **[PEER]** and **[PEER]** to understand what metadata should be
         [Came up with a big project proposal and now the implementation will start]
 
 2. Start researching cropping parallelization. Put together a proposal on how we can bring cropping down to &lt;10 minutes across ~100K objects. 
-    2. Work with **Ebot** who will be doing the same thing for Matcher. We should re-use similar technologies/frameworks across our systems.
-    3. Email it to [eng-all@doxel.ai](mailto:eng-all@doxel.ai) 
+    1. Work with **[PEER]** who will be doing the same thing for Matcher. We should re-use similar technologies/frameworks across our systems.
+    3. Email it to [REDACTED]
 
 	[[EMPLOYEE]] Started making the python stuff parallel and working with ebot on refactoring the code and making it more modular which will help us in taking the common libraries out and use those in all the components.
 
@@ -65,7 +65,7 @@ Please work with **[PEER]** and **[PEER]** to understand what metadata should be
 3. Code Reviews: start reviewing all cropping PRs.
 4. Hiring: Shadow one interview and provide notes on the candidate. [Done]
 5. 1:1s: set up 30 minute 1:1s with the following people [Done]
-    4. [COFOUNDER]: get to know his vision for the technology and product.
+    1. [COFOUNDER]: get to know his vision for the technology and product.
     5. Shrikant: get to know his views on the product and design.
     6. Matt: understand how customers see what we are building.
 
@@ -78,11 +78,6 @@ Please work with **[PEER]** and **[PEER]** to understand what metadata should be
     1. Today, we are guessing what objects **might be installed** and only cropping those. These will likely be bad guesses and it should be safer to just crop everything for every scan - assuming it’s fast enough and cheap enough.
 2. Code Reviews: start reviewing all C++ PRs (alignment, matcher in particular).
 3. Hiring: lead one interview with [MANAGER] shadowing. [Done]
-4. Write up a 4-week summary of [COMPANY] engineering (technical and non-technical). Email it to [eng-all@doxel.ai](mailto:eng-all@doxel.ai) for comments.
-    2. What are we doing well?
+4. Write up a 4-week summary of [COMPANY] engineering (technical and non-technical). Email it to [REDACTED] for comments.
+    1. What are we doing well?
     3. What should we improve?
-
-
-# Appendix
-
-You might find it useful to read my 30-day onboarding guide here: [https://docs.google.com/document/d/1NI8h_pLK-7rPaOCHTVhOHO3F7pCbKRvQ33lWJ7JqcrY/edit#heading=h.33f9xmi5v0w0](https://docs.google.com/document/d/1NI8h_pLK-7rPaOCHTVhOHO3F7pCbKRvQ33lWJ7JqcrY/edit#heading=h.33f9xmi5v0w0)
