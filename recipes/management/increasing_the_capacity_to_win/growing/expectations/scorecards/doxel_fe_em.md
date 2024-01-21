@@ -1,4 +1,7 @@
-<h2>Doxel Sr. Engineering Manager, Product</h2>
+# Background
+This was a scorecard I wrote for an engineering manager at a Series B startup (Doxel) that was going to manage a ~5 person team and hopefully grow it to a ~20 person team, as we grew the company. 
+
+# Doxel Sr. Engineering Manager, Product
 
 We will grade every sub-bullet on a 1-5 scale:
 
@@ -22,10 +25,10 @@ Looking for an Engineering Manager who is, or _can rapidly become_...
     1. Significant experience working directly with customers to understand their needs. Can translate engineering speak to cutomer speak and back flawlessly.
     2. Interfaces well with Product and Design, helping them improve their own work using his/her engineering expertise. Understands the domain almost as well as Product Managers.
     3. Comfortable representing the engineering team in executive meetings and customer meetings. Can tie the day-to-day work their team is doing to the overall company goals flawlessly.
-    4. Not afraid of debate and conflict. "Obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly"
+    4. Not afraid of debate and conflict. ["Obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly"](https://www.aboutamazon.com/about-us/leadership-principles#:~:text=Leaders%20are%20obligated%20to%20respectfully,is%20determined%2C%20they%20commit%20wholly.)
     5. Great eye for product experience. Can put on a Designer hat if needed. Familiar with UX concepts, best practices, and experimentation loops. Doesn't execute what is given if it is the wrong level of quality. 
 3. Top-shelf team & talent producer
-    1. Builds high-performing Product teams. Can tell the difference between average teams and really good teams. Has 'better-than-random' approaches to building high-performing teams. Has done this multiple times (preferably >2). Philosophy agrees with what Doxel's Product and Engineering leadership wants.
+    1. Builds high-performing product engineering teams. Can tell the difference between average teams and really good teams. Has 'better-than-random' approaches to building high-performing teams. Has done this multiple times (preferably >2). Philosophy agrees with what Doxel's Product and Engineering leadership wants.
     2. Talent farmer: track record of growing Sr+ engineers (bonus: Staff+ engineers). Has frameworks for identifying strengths/weaknesses, can reason about career growth intelligently, and has demonstrated wide range of tools used in growing talent. Can coach new engineering managers and get them to "great" in 6 months.
     3. Talent magnet: track record of attracting Sr+ engineers (bonus: Staff+ engineers). Can quickly identify strength of engineer + fit on the team. Excellent top-grader and can accurately paint the team, their company, and the opportunity in ways that attract candidates without setting false expectations.
     4. Can build a team from scratch (0-5 in <6 months). Understands the risks of rapid growth and has techniques to mitigate. 

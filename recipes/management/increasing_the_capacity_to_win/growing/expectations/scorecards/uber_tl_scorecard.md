@@ -25,7 +25,7 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
 <h2>How your organization judges you:</h2>
 
 1. **_Leader: You lead by influence, not by fiat_**
-    1. You set the _direction_ on where our **_technology_** needs to end up in 2-5 years, by deeply understanding all the business constraints.
+    1. You set the _direction_ on where our **_technology_** needs to end up in 2-5 years, by deeply understanding all the business constraints and needs.
     2. You _align_ your engineering teams, partners, and stakeholders to your direction.
     3. You get _commitments_ from your engineers, partners, and stakeholders to execute on your vision.
     4. You are a magnet for other Staff+ level people. They want to join your team because of your vision/execution/impact.
@@ -60,10 +60,3 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
     3. You educate VP/Director/senior EMs and PMs on the technical challenges that the organization faces. You partner with them to make the best staffing and priority decisions for the organization and company.
     4. You **write things down**. Your documents are top-notch and stand on their own legs, no explanation/conversation required. They withstand the test of time and are updated as necessary to be the Source of Truth. 
     5. You wield all the communication tools (Slack, email, JIRA, TDDs, etc) flawlessly for maximum leverage. You seem to be everywhere at all times; other engineers assume you are reading everything they write and improve their own communication in response.
-
-Useful resources:
-
-[https://www.slideshare.net/thekua/the-well-rounded-architect-76127395](https://www.slideshare.net/thekua/the-well-rounded-architect-76127395)
-
-
-<!-- Docs to Markdown version 1.0β17 -->

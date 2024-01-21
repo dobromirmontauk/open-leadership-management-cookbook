@@ -1,4 +1,4 @@
-<h1>"Gardener" Technical Lead Scorecard</h1>
+# "Gardener" Technical Lead Scorecard
 
 
 A "Gardener" Technical Lead is the Last Line of Defense for high-quality code and a reliable system. 
@@ -12,10 +12,9 @@ Gardener roles last for 1+ years as it requires a deep understanding of the curr
 <h2>How to use this scorecard</h2>
 
 
-To get the most out of this document you should _score yourself_ on each item, and give yourself a min/max/average on each dimension. Then, ask your manager to do the same - and maybe peers too. See if they grade you close to how you grade yourself. The goal is to help you go through the [learning cycle](http://www.cala.fsu.edu/modules/assessing_knowledge): ignorance → declarative → procedural → mastery. 
+To get the most out of this document you should _score yourself_ on each item, and give yourself a min/max/average on each dimension. Then, ask your manager to do the same - and maybe peers too. See if they grade you close to how you grade yourself. The goal is to help you go through the [learning cycle](https://third-bit.com/2018/01/15/procedural-vs-declarative/): ignorance → declarative → procedural → mastery. 
 
 Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6eCxgl2tzEzE6aKF92l7EoHcVac7Nb1Beko/edit#gid=0) and use the following rating scale:
-
 
 
 *   1 - You’re not doing this and aren’t likely to in the future.
@@ -23,11 +22,6 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
 *   3 - You do this well.
 *   4 - You do this amazingly — keep it up.
 *   5 - OMG how do you do this so well???
-
-<h2>How your manager judges you:</h2>
-
-
-
 
 1. **_Quality: Quality you can taste<sup>®</sup>_**
     1. You have **strong opinions** (loosely held!) about what makes good code and good design. You are comfortable saying "no" to work that doesn't meet your bar. Your codebase looks like it was written by a single person.
@@ -48,11 +42,11 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
     4. You are a talent magnet. People seek you out to work with you and your team. 
     5. You are an effective partner to your EM for building a [Level 4 Tribe](https://en.wikipedia.org/wiki/Tribal_Leadership): the team has fun, loves what they do, and may be friends forever. 
 4. **_Execution/Process: you keep the team executing at peak-performance with minimal (but not too little!) process_**
-    1. You are actively contributing code (>50% of your time) and a top producer.
+    1. You are actively contributing and reviewing code (>50% of your time) and a top producer.
     2. You enact the right amount of process to keep your engineers fully utilized, stakeholders informed, customers happy, risks identified, and commitments met. 
     3. You maximize the overall throughput of your engineering team over ~months. Engineering time is sacred to you and you don't waste it needlessly. Engineers know what work needs to be done and the relative importance of everything in the backlog.
     4. You make visible progress on multi-quarter goals on a monthly basis, monthly goals on a weekly basis, weekly goals on a daily basis... 
-    5. You wear every hat that is missing in your team/organization. As last-line-of-defense, you sometimes need to be a FL, a PM, an EM, a QA engineer -- temporarily...
+    5. You wear every hat that is missing in your team/organization. As last-line-of-defense, you sometimes need to be a [Warrior](warrior_tl_scorecard.md), a Product Manager, an Engineering Manager, a QA engineer -- temporarily...
 5. **_Customer Obsession: you understand your internal customer's needs deeply_**
     1. You know who your customers are and you evangelize their problems, needs, and vocabulary within your team. All members understand the bigger picture and the role of your project/team within it.
     2. You care about your customers. You make weekly, quarterly, and yearly commitments and regularly hit them. 
@@ -71,6 +65,3 @@ Some useful resources:
 [https://www.slideshare.net/thekua/tech-lead-skills-for-developers?next_slideshow=1](https://www.slideshare.net/thekua/tech-lead-skills-for-developers?next_slideshow=1)
 
 _Credits: thanks to … for helping put together this scorecard, and to Wade Chambers whose VP of Engineering scorecard inspired me to make this Technical Lead one!_
-
-
-<!-- Docs to Markdown version 1.0β17 -->

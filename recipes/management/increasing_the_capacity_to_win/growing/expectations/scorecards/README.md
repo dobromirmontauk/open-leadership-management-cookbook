@@ -37,7 +37,8 @@ For engineering management roles I create both generic scorecards to help explai
 * [Generic Director](director.md): broadly speaking, a manager-of-managers or manager-of-multiple-technical-areas.
 * [Generic VP](vp_of_eng.md)  (stolen from Wade): the overall owner of engineering, reporting to the CEO (could also be Head of Engineering).
 
-# Umut/Abnormal Recipes
+# Abnormal Security Recipes
+(see if I can get permission from friends there for their scorecards)
 
 ## Technical Lead
 Doc is [here](https://docs.google.com/document/d/1VAxvBONq6PTyn7WBFwXQmWAc_FKNuH_8oDH9H7HBc2s/edit). I need to get Umut permission to publish here.
@@ -50,3 +51,8 @@ Doc is [here](https://docs.google.com/document/d/1VAxvBONq6PTyn7WBFwXQmWAc_FKNuH
     * One example demonstrating this score in the last 3 months.
     * One example of what is needed to hit the next score.
 * Used in my [Eng Culture Recipe](link_needed)
+
+# Resources
+* [Patrick Kua's definitions](https://www.patkua.com/blog/the-definition-of-a-tech-lead/). He does training on technical leadership if you are interested.
+    * His [circles of responsibility](https://www.thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility/) is also scorecard-like.
+    * His [Architect scorecard](https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/)
