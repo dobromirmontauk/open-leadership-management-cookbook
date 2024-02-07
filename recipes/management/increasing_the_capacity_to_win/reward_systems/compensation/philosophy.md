@@ -19,7 +19,7 @@ For a more serious take, see [Carta's Comp Philosophy Explanation](https://carta
 
 Simply put, you need a comp philosophy because no matter what you do, you have one. People want to know how you will decide how much to pay them, and since you are making those decisions, there is some better-or-worse system you are using to decide... So there you go, that's your 'philosophy'. It might be as simple as "we don't have a comp philosophy"! Or, you might not be _aware_ of your own comp philosophy. Or you may not be comfortable communicating it... 
 
-A perhaps a better question is, "why do you need a _published_ comp philosophy?" You might not (see some of the recipes below). The right way to judge this is: 
+Perhaps a better question is, "why do you need a _published_ comp philosophy?" You might not (see some of the recipes below). The right way to judge this is: 
 
     Would publishing a comp philosophy save you time, save you money, or save you both?
 
@@ -59,7 +59,9 @@ Here is the outline of my recipe. I'll add more details as requested by folks.
 1. Identify the technical problems that need [A-level talent](/recipes/management/increasing_the_capacity_to_win/hiring/talent.md#A-LevelTalent)
     1.  I used to believe that you wanted to hire the best possible engineers for every role. That was before I met my first startup engineering budget... which is *slim*. When it turns out those perfect resumes cost 30% more (some maybe even 2-3x more!!), then you start asking: "is this a problem that a B-player can solve?"
     1. Every startup has 'end-of-the-business' technical problems, and 'good-enough' technical problems. Hopefully, a LOT more of the latter than the former. If you can segregate your problems, and therefore your team quality, you should have a comp philosophy that reflects where it makes sense to invest your $.
-    1. I use job roles for this segregation. For example, we might pay everyone at the same band levels (50-75%, see below), but we divide engineers into 'Application Engineer', 'Fullstack Engineer', 'Backend Engineer', and 'ML Engineer', with each job family being comp'd higher than the previous one.
+    1. I use job roles for this segregation. For example, we might pay everyone at the same band levels (50-75%, see below), but we divide engineers into 'Application Engineer', 'Fullstack Engineer', 'Infrastructure Engineer', and 'ML Engineer', with each job family being comp'd higher than the previous one.
+1. Identify which technical problems require Senior talent and what can be more junior talent (aka monkeys on keyboards).
+    1. Senior talent tends to be a lot more expensive -- not only in cash, but also your time, because those folks will want to spend 1:1 time with you, they'll request more structure at the company, etc etc. If you can get away with more junior folks doing the work (aka "they can't burn the company down if they are working on an integration with Salesforce..."), do it.
 1. Choose a 'local market' comp philosophy.
     1. Remote talent can be 50-80% cheaper than local talent -- if that is your comp philosophy. Some companies choose to pay all engineers, regardless of location, the same.
     1. I think that is silly for smaller startups. It's borderline irresponsible, since it draws down on your runway AND removes the incentive to hire remote talent. It also chains employees to your company, if they are getting multiples of what the market offers -- which will create headaches for you when misaligned employees refuse to quit and aren't delivering results.
@@ -105,7 +107,7 @@ Here is the outline of my recipe. I'll add more details as requested by folks.
             *. Grow your own pie, instead of everyone's pie. Selfish vs selfless. Make yourself more prosperous vs make the tribe more prosperous.
         1. Bonuses give tacit permission to work less hard, whereas startups need everyone working at 100%.
             * The flip side of 'work harder -> have more impact -> make more money' is 'if you are OK with less money, you can just work less'. You don't want people thinking that way at startups.
-            * Big companies you can afford more ROCKSTARS and fewer SUPERSTARS, and you can use bonuses as a scalaeble tool to have people self-separate.
+            * At big companies you can afford more ROCKSTARS and fewer SUPERSTARS, and you can use bonuses as a scalaeble tool to have people self-separate.
             * At startups, everyone should be working their butt off. You can't afford to have anyone doing the minimum, just 'meeting expectations' -- if you have those folks, you should be firing them.
         1. Bonuses burn people out when they *need* to hit the high end to make ends meet.
             * People stress out if they are going to get get that bonus or not. It distracts them from work. Increases the risk of burnout, since any slack time could be "no bonus" time.
