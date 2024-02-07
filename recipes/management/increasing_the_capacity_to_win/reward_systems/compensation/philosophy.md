@@ -70,7 +70,7 @@ Here is the outline of my recipe. I'll add more details as requested by folks.
     1. When the company is smaller, I would opt to have the pay be the same so individuals can shift between IC/EM roles without it creating any weird comp ripple effects. It also helps avoid people trying to become managers so they can get paid more - or avoiding it because they might end up paid less. 
 1. Have a few 'exceptions' built into your philosophy.
     1. There are always a few roles or special individuals where I'm willing to go 'top-of-market' because they can change the course of the entire business. 
-    1. I try to keep this to 5-10% of my org, say 1-2 individuals in the first 20. You can't have too many of them because (a) they will won't stand out if there are a >10% and (b) you need to make back the $ you spend on them elsewhere, either by hiring fewer people OR by hiring other engineers for less.    
+    1. I try to keep this to 5-10% of my org, say 1-2 individuals in the first 20. You can't have too many of them because (a) they won't stand out if there are a >10% and (b) you need to make back the $ you spend on them elsewhere, either by hiring fewer people OR by hiring other engineers for less.    
     1. Build your exception into the salary, not bonuses. See the bonus section below that explains why.
 1. For earlier startups, try to go as low on cash as you can and compensate by going higher on the equity side.
     1. I've found several very strong benefits of this approach:
@@ -88,7 +88,7 @@ Here is the outline of my recipe. I'll add more details as requested by folks.
             1. A strong growth-mindset management bench.
             1. A couple of those superstars that attracted other great engineers.
     1. At a profitable startup growing quickly the calculus changes a lot. Equity becomes very expensive and cash is cheap.
-        1. Taxes on any profit means cash is discounted.
+        1. Taxes on any profit mean cash is discounted.
         1. The mix might be more like 75th-90th on cash and 25-50th on equity, since the risk premium on the equity is also quite a bit lower.
     1. REMEMBER: cash/equity mix should CHANGE as people get more senior. This is because more senior individuals have more ability to drive overall company success and therefore should be exposed to that risk/reward. Junior engineers might have 10-30% of their target comp come from equity; Sr. Engineers might have 50%, Staff+ maybe up to 80%. Build this into your philosophy.
 1. Make your level bands overlap.
@@ -110,7 +110,7 @@ Here is the outline of my recipe. I'll add more details as requested by folks.
             * At big companies you can afford more ROCKSTARS and fewer SUPERSTARS, and you can use bonuses as a scalaeble tool to have people self-separate.
             * At startups, everyone should be working their butt off. You can't afford to have anyone doing the minimum, just 'meeting expectations' -- if you have those folks, you should be firing them.
         1. Bonuses burn people out when they *need* to hit the high end to make ends meet.
-            * People stress out if they are going to get get that bonus or not. It distracts them from work. Increases the risk of burnout, since any slack time could be "no bonus" time.
+            * People stress out if they are going to get that bonus or not. It distracts them from work. Increases the risk of burnout, since any slack time could be "no bonus" time.
         1. Bonuses send the signal you don't think someone is worth that salary, which lowers trust. Startups need high trust to work.
             * Putting it into the salary shows you trust them. "I'm going to pay you at the top of the band/above market price/etc, because I believe you are going to deliver incredible results in this role..."
     1. See Drive book.
