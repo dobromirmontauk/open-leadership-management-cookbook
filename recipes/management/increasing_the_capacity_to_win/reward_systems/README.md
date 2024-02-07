@@ -1,7 +1,7 @@
 # Table of Contents
 
-1. [Compensation✅](compensation/): how to motivate folks financially. Some good progress here.
-1. [Non-Comp⚠️](non_comp/): how to motivate people without using monetary tools. Not started.
+1. [Compensation ✅](compensation/): how to motivate folks financially. Some good progress here.
+1. [Non-Comp 🚫](non_comp/): how to motivate people without using monetary tools. Not started.
 
 # Reward Systems
 
@@ -9,7 +9,7 @@ Ah, motivating humans via extrinsic rewards... Remember this scene from 'Who Fra
 
 ```
 Maroon: I got [Dumbo] on loan from Disney. Him and half the cast of Fantasia. [Opens blinds] Best part is... they work for peanuts!
-_Marron throws a handful of peanuts out of the window and Dumbo flies off sucking them up with his trunk._
+(Marron throws a handful of peanuts out of the window and Dumbo flies off sucking them up with his trunk.)
 Valiant: Well I don't work for peanuts. Where's the other fifty?
 Maroon: Let's call the other fifty a carrot to finish the job.
 Valiant: You've been hanging around rabbits too long.         
@@ -52,7 +52,11 @@ much more effort we want to put into sharpening the numbers then."
 
 So don't waste your time, and wait until the right moment...
 
-# Unorganized
+# Resources
+
+* [Drive](need_link!) is a wonderful book explaining where human motivation comes from. Great reading before you embark on revamping your reward systems.
+
+# TODO topics
 
 Drive book.
 
