@@ -10,6 +10,71 @@ This is a simple, powerful way to slice our management recipes. If you are looki
 # So... What is 'Winning'?
 TODO(dmontauk): not something Wade answers in his talk? 
 
+Random thoughts
+* Everything is about solving problems...?
+* The problem is not knowing WHICH problems to solve...
+* Value function is undefined (future is unknowable)
+* Measurement of progress is imperfect ('fog of war')
+* How do we split WINNING vs INCREASING CAPACITY?
+    * It feels like winning is MOVING UP THE CURRENT LOCAL MAX
+    * 'Winning' can be long-term losing. Examples: Google+, TellApart bought by Twitter, Loomis at Google...
+    * So 'winning' has different *resolutions*. E.g. you can win a battle but lose the war. You can win in engineering (ship the code) and lose at product (nobody finds it useful).
+    * Winning is a local definition. There are 'layers' of winning. 
+        * A junior engineer needs to write good code. 
+        * A senior engineers needs to design a scalable system.
+        * A soldier needs to take the next house.
+        * A captain needs to take the next village.
+* What is a PROBLEM?
+    * Three types of problems. 
+        * Inertia 
+        * ?? (things falling apart) 
+        * Power: force in a different direction than you want.
+* What are the TOOLS of winning?
+    * As an engineer:
+        * Writing code: having computers repeatedly solve the problem for you.
+        * Simplifying a design: preventing problems from happening altogether.
+        * Standardization? Making a group of problems all the same problem?
+        * Operational: doing one-off work to solve a problem (e.g. deleting files to free up disk space)
+    * As a manager:
+        * 
+    * As a manager-of-managers:
+        * 
+* For the various layers: your WINNING is their INCREASING CAPACITY?
+    * Teaching an engineer how to write better code is WINNING for an EM. But it's increasing THEIR capacity??
+    * Recursive? It does feels recursive. When you solve a problem, it removes friction/energy being used to tackle that problem, which frees up energy for other problems, meaning you've increased SOMEONE'S capacity to win...?
+    * E.g. Mashgin makes checkout easier. Frees up time for customers --> they can use that time to do more.
+    * ALL TECHNOLOGY is increasing the capacity to win for users of the technology --> is all winning translate to increasing the capacity to win for someone else?
+    * 
+* Mashgin example problems
+    * Need to integrate with P97 
+        * Increases the capacity of our sales team to win. They can close more deals!
+        * If we close one deal, we get more revenue. Increases our capacity to win since we have more $. For the customer, if they are getting value from the product, it increases their capacity to win somehow as well.
+        * Integration would be considered a win. But now assume we do NOT sell any more pilots because of it? Then we haven't actually increased the capacity of anyone, and we wasted resources doing it. So the 'win' ends up being a loss. But how could we know that ahead of time?
+        * Time value of problem solving? ROI? What's the right way to think about this? Increasing capacity is non-deterministic; just because we increased capacity doesn't mean that more wins WILL happen.
+        * There is a time component and a risk component. 
+            * E.g. a page costs me 1 hour a week to investigate & fix. If it takes me 12 hours to fix this this page, then it will pay off in 12 weeks. Fixing the page is a deterministic win: it will definitely increase my capacity to win over the next 3 months.
+            * What if the page is random? May never happen again? Or if it happens, it costs me 20 hours? Then there is a chance that in the next 3 months my 'win' would have been worthless, if it never appeared. So the 'win' might be a 'loss' (with time value included).
+        * So should we give credit to the engineering team for winning if we launch P97? Or should we wait until the pay-off happens?
+            * If a soldier takes a house, but the captain fails to take the village, should the soldier be punished? If the captain takes the village but the generals picked the wrong village to attack, should the captain be punished?
+            * Winning is local...?
+    * Random example
+        * Hunting for food. What is the 'problem' and how does that 'increase capacity'?
+            * Technically capacity would go down if you die. So that's an edge case?
+            * This is the fighting entropy problem --> you need to run just to stay in place.
+            * Does fighting entropy count as increasing capacity? I don't really think so... it's about 'maintaining capacity'?
+            * Are the actions to fight entropy different than the ones to increase capacity? Perhaps they are the same, and entropy is just a constant minus term in the equation that you need to fight...
+            * 
+* I do like the 'winning is about solving problems.' 
+    * 49ers game yesterday. What is winning/losing play-by-play?
+    * Each player could 'win' -- do exactly what they were supposed to do, solve the problem they were supposed to solve, yet the team can lose. Solving the WRONG problems -- coach's fault?
+    * Winning/losing play-by-play is obvious. Each yard gained by the opponent is 'losing'; each 1st down is 'losing'. The game is obvious too; the season is obvious. The introspection is easy: everything is recorded, visible. You can tell how a team is doing, and STILL can't predict the end of the game.
+    * Much harder when you can't introspect? And when the 'score' is unclear?
+    * But a lot happens off the field -- training, coaching, teamwork -- which translates to the field indirectly.
+    * How do I use this in engineering? What is the daily/weekly winning? The PROBLEM that needs to be solved TODAY?
+        * This is why I like daily PRs... Weekly goals...
+        * 
+
+
 # Balancing Winning vs Increasing
 TODO(dmontauk): This is one of the core tensions of management! Also not something Wade talks about in his talk?
 
