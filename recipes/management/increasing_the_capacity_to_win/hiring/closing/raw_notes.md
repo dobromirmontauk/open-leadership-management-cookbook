@@ -212,4 +212,6 @@
         * Give them the problems so they can go find them.
         * Help them SEE what you SAY.
     * Funnel depth doesn’t matter for emotional connection, it is frequency of and depth of connection.
-    * 
+
+## Conversation with Chan
+*  
