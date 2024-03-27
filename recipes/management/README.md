@@ -75,6 +75,23 @@ Random thoughts
         * 
 
 
+2/18 thoughts
+* You can't win if you don't know what your goal is. Objective function is MORE fundamental than winning.
+* Most of our lives objective functions are given to us: school, sports, even a large chunk of our careers.
+* Reaching a point where you can define your own objective function can be disorienting. 
+    * Easy to still lean on external ones, e.g. when you run your own company you don't need to become rich or huge, but many founders still lean that way.
+* Why does my runimating matter --> first thought is that I've seen so much 'local' winning where 'global' is losing, e.g. G+, Loomis, TellApart, ...  -> and WINNING at your level is making sure your team's efforts don't go to waste. Vic Gundotra lost. Wade lost. 
+    * IS DEFININING THE OBJECTIVE FUNCTION PART OF LEADERSHIP, OR MANAGEMENT??
+    * Is understanding the objective function part of leadership, or management?
+* Back to winning... so if you DO have an objective function, then you can win. 
+    * Even if your objective function is wrong, changes over time, etc -> we can still defining winning as moving the objective function. This helps us separate winning from... something else.
+    * Winning: "Given an objective function, can you improve against it...?"
+    * Increasing: "Given an objective function, can you make MORE progress in increasing it, within a given unit of time"...?
+    * Most of my life I've been a little mystified by winning because so often it seems like it isn't; but really it can still be winning, while improving your objective function is just a different thing.
+    * So now we need strategies for winning. But don't those depend a TON on the objective function??
+* Venn diagram... does leadership/management overlap? Does leadership contain management?
+
+
 # Balancing Winning vs Increasing
 TODO(dmontauk): This is one of the core tensions of management! Also not something Wade talks about in his talk?
 
