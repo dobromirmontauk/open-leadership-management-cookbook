@@ -141,3 +141,6 @@ My recipe has a TON of stuff I want to expand on. Notes here:
 2. Small leadership ‘bumps’ for a Sr. EM might be huge leadership moments for more junior employees. That’s why leadership/management is a spectrum. 
 3. See all my notes I wrote up in Google Docs [here](https://docs.google.com/document/d/1LwOIhMI0MsCYePKU7sz2eigs-PcSJ6tuVXIbZGtUJdk/edit#heading=h.gu4ti1e72vvr). Need to integrate that here.
 1. Need to use examples of a strong leader / bad manager and poor leader / strong manager to distinguish between the two types.
+
+# Raw
+* Management is about creating systems that solve problems. Leadership is about creating systems that reveal problems. 
