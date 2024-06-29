@@ -9,6 +9,22 @@ Of course, some knowledge ends up being more relevant to Engineering Leadership 
 
 # Uncategorized
 
+## Charlie Munger
+While I've always been a big believer in a multidisciplary approach to work -- nay, to all of life, inspired by Heinkein's quote: "Specialization is for ants" -- I was never sure about how to justify this to engineering leaders who have mostly succeeded on their specialized knowledge.
+
+Charlie Munger to the rescue. You might discard my opinion easily, but you are unlikely to discard his. Almanack.
+
+MODELS OF THINKING. Different from knowledge. Hanging your facts on a theoretical structure that helps connect them together. 
+
+## Organization
+
+Read the Economist. 
+Go to history museums. Understand the roots and effects of all major events in the last 100 years.
+
+This layout is organized roughly like a University might arrange its departments because, by and large, Universities do have a good grasp of the sphere of knowledge and how to teach it. Each page will have the minimum concepts that you should be familiar with, almost a 'glossary & quiz' approach so you can test yourself. 101 + 201 depth, nothing more. Links to where you go get the actual concepts if the description isn't enough to satisfy you.
+
+
+
 * Human psychology
    * Motivation 
       * (pyramid)
@@ -27,6 +43,11 @@ Of course, some knowledge ends up being more relevant to Engineering Leadership 
    * Marketing
      * Category Creation
 	 * Funnel Concept
+   * Finance
+     * Accounting
+     * Important Engineering concepts
+       * R&D accounting
+       * Types of revenue
 * Visual vs non-visual
     * Tufte
     * Learning styles? 
