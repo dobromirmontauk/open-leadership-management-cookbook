@@ -52,4 +52,30 @@ This layout is organized roughly like a University might arrange its departments
     * Tufte
     * Learning styles? 
 
-   
+# 7/2/24 thoughts
+The only things you need to learn:
+* Learn to Think.
+   * The Professor.
+   * Create Theoretical Frameworks
+   * Math taught me this. How to *think logically*. 
+   * Munger: "To this day, I have never taken any course, anywhere, in chemistry, economics, psychology, or business. But I early took elementary physics and math and paid enough attention to somehow assimilate the fundamental organizing ethos of hard science, which I thereafter pushed further and further into softer and softer fare as my organizing uide and filing system in a search for whatever multidisciplinary worldly wisdom it would be easy to get."
+* Learn to Organize. 
+   * Break down a problem into its components parts.
+   * Dependency graph.
+   * Estimate the work.
+   * Assign risks.
+* Learn to Debug
+* Learn to Dream
+   * The Artist. 
+* Learn to Learn
+   * Adding Facts to your Theoretical Framework
+
+
+# 7/11/24 More random thoughts
+Organizational Physics
+* These are the unviolatable laws that every organization succumbs to, like black holes gravity. Worth knowing because it explains some of the 'craziness' that is actually physics.
+* E.g. Law of Less Communication. The bigger the org, the less people at the top communicate with people lower on the ladder. So each individual interaction is more meaningful to the people lower and less meaningful to the people higher.
+   * Explains why ppl higher need to be more polished. That message benefits from being tight, not off-the-cuff.
+   * Explains why ppl higher stay consistent. They won't remember what they told you b/c they are talking to so many differnet ppl -- unless they have very few messages they keep repeating.
+   * Their opinion of you will be formed by what you say in just a few moments!
+   * Trust equation: your credibility gets set by the promise you make...\
