@@ -13,3 +13,4 @@ I split my engineering ladder into the 3 main dimensions of software engineering
 
 # Unordered
 * Agnes PM career ladder [here](https://docs.google.com/document/d/1EQRuoIi8F3gBCP8AJJOT5P2EOBKURYyg24iIjjGjxX8/edit#heading=h.clb9twl656u4) -- need permission to publish
+* Will Cole Mashgin PM ladder [here](https://docs.google.com/spreadsheets/d/1eWRJG-OfRqd6T_lpxd0FZZv79qYDzCcSuiNwgsrTqMo/edit?gid=1392224708#gid=1392224708)
