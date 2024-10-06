@@ -28,7 +28,7 @@ Make a copy of this [template](https://docs.google.com/spreadsheets/d/1PX61irzc6
    1. You are obsessed with make sure every release meets a reasonable bar for quality -- which you realize might be lower than your unreasonably high bar. You are always the Voice for Quality, but you are able to listen to others too.
    1. You have experience improving hardware **and** software quality. The intersection of the two is especially interesting to you, and you understand the dynamics of how one affects the other. 
 1. Execution/Process: you ensure that QA runs smoothly *this week*.
-   1. You make sure test plans are run on time, spending ~50% of your time doing manual testing. You don't shy away from going above & beyond to help the team ship on time. 
+   1. You make sure test plans are run on time, spending ~50% of your time doing manual testing. You don't shy away from going above & beyond to help the team ship on time. You are incredibly efficient when testing to minimize time while maximizing coverage. 
    1. You are aware of every change going into the product and ensure that quality is covered on every change (delegation is encouraged\!). 
    1. You consider risk factors and effectively prioritize test efforts accordingly. You don't waste time testing low-value scenarios. You put in **extra** effort on the high-risk changes to be very confident customers won't run into issues.
    1. You define a simple, yet effective, QA process with input from your stakeholders. You ensure everyone is following it and use carrots/sticks appropriately to ensure the process runs smoothly. 
