@@ -36,7 +36,7 @@ way?
 
 [TODO(dmontauk): I want to add 5-6 examples here that make it intuitively clear what the difference is]
 
-We hope that the examples above motivate one specific realization: _leadership_ seems much more dangerous! There's a
+We hope that the examples above motivate one specific realization: _leadership_ seems much more risky! There's a
 certain _step change_ needed to make something qualify as 'leadership' instead of 'management'. When a management
 approach fails you kind of end up where you started. When a leadership approach fails, things might be _much worse_ than
 before. Why is that?
@@ -87,7 +87,7 @@ destination, or fail to.
 
 ### It Gets Worse
 
-We said above that "Most team members will agree this makes sense". They unfortunate fact is that it's unlikely that
+We said above that "Most team members will agree this makes sense". The unfortunate fact is that it's unlikely that
 everyone in your organization even has the same optimization function in their head (if they do, congrats! You must be
 doing something really well!!). Reality looks more like this:
 
