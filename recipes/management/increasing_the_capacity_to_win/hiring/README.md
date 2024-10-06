@@ -18,3 +18,7 @@
     * B-players OK for non-critical systems
     * C-players pull you backwards (net-negative)
     * D- and below will get you fired.
+* Candidate types
+    * Trawling vs whale hunting
+    * "Tracer round" candidates for calibration purposes
+    * 
