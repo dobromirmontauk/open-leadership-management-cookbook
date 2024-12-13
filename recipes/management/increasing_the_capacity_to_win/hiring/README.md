@@ -30,7 +30,6 @@ if there are only two ways to measure "winning" as a Head of Engineering, it's (
     * CTO Parag hated my topgrading :)
 * Training
     * Wade's hiring docs
-* If the decision hinges on the numbers, you've already lost. (Delaney)
 * Engineering strength
     * A-players
     * B-players OK for non-critical systems
@@ -43,5 +42,8 @@ if there are only two ways to measure "winning" as a Head of Engineering, it's (
 * Relationship with your recruiter (team).
     * Many HM don't invest in this. Beware the consequences.
     * To be excited about the roles, and show candidates the excitement, and close candidates, they need to *know* why. That's your job.
+* Hiring wisdom
+    * If the decision hinges on the numbers, you've already lost. (Delaney)
+    * "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." -> Maya Angelou . You make people feel during the interview process is CRITICAL.
+        * Are you making them feel important or unimportant? Valued or unvalued? A cog in the machine or the next MVP? 
 
-    * 
