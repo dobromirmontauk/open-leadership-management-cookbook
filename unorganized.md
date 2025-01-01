@@ -13,4 +13,32 @@
 * Where do we put Drive? 
     * Autonomy, Mastery, Purpose
     * https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink
-    
+
+* Topics / books to cover
+    * the first 90 days (onboarding successfully, plan, checklists)
+    * polarities
+    * systems thinking
+        * systems theory (execution - what, how)
+    * psychology and coaching
+        * ingredients: add growth, coaching, mentoring, empathy
+
+
+    * time management
+    * focus & prioritization
+    * communication
+    * transparency
+    * delegation
+    * influence (HoC?), direct and indirect, scope of influence (how much harm can you make)
+    * expectations (and how they change at each level)
+    * process
+    * ownership
+    * empathy in people management
+    * strenghts and weaknesses (yours and others)
+    * personalities and preferences (e.g. insights discovery)
+    * strategic time vs execution (prioritizing important but not urgent)
+    * reflection
+        * post mortems
+        * self (daily/quarterly)
+    * energy management
+        * stress management
+        * burn out
