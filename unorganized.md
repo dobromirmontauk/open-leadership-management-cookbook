@@ -42,3 +42,9 @@
     * energy management
         * stress management
         * burn out
+    * R&Rs, other roles and x-functional collaboration
+    * no jerks culture
+    * incentives alignment
+    * people management vs project vs product
+    * inflection point of managing down vs up (what's my team? down or peers?)
+    * explore what happens if you have strong lead/poor manager vs poor lead/strong manager
