@@ -48,3 +48,18 @@
     * people management vs project vs product
     * inflection point of managing down vs up (what's my team? down or peers?)
     * explore what happens if you have strong lead/poor manager vs poor lead/strong manager
+
+* Staff Engineer vs EM
+    * https://blog.alexewerlof.com/p/ivory-tower-architect
+    * https://blog.alexewerlof.com/p/when-staff-engineer-is-an-anti-pattern
+
+* Digital Gardening
+    * https://tomcritchlow.com/wiki/
+    * https://maggieappleton.com/garden-history
+
+* Skill Stack
+    * https://www.productlessons.xyz/article/how-to-develop-talent-stack
+    * I guess I didn't invent this either :(
+
+LINKS to organize
+    * https://www.opinionx.co/blog/shreyas-doshi-cpsr
