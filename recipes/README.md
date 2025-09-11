@@ -34,6 +34,12 @@ new generation of "non-manager" leaders and "I-love-management" managers.
 So how do we come up with a useful definition of Leadership & Management that allows us to organize recipes in a helpful
 way?
 
+2025.09.02 thought: 
+* _management_ is the art of dealing with individuals
+* _leadership_ is the art of dealing with groups
+* spectrum because a couple of individuals may not quite be a group yet --> group dynamics are different than individual dynamics
+* the fluid dynamics theory of people :)
+
 [TODO(dmontauk): I want to add 5-6 examples here that make it intuitively clear what the difference is]
 
 We hope that the examples above motivate one specific realization: _leadership_ seems much more risky! There's a
