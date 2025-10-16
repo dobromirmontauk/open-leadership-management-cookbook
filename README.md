@@ -11,7 +11,7 @@ A good cookbook does a few things. This is inspired by [Mastering the Art of Fre
  * Create magical dishes by combining all of the above in interesting ways.
  * Explore variations on the themes.
 
-We'll use a similar structure here. We'll break down our most complex leadership & management recipes into combinations of simpler building blocks. Hopefully as you grow in your career, you'll move up the recipe complexity ladder and feel comfortable trying the hardest ones! And, as an open cookbook, we encourage you to add your own variations, techniques, insights, or entirely new recipes here. The goal of this cookbook is not to be 100% comprehensive; the topic is too vast for that. In many cases, we'll give a few example recipes, and then point at entire chapters or books dedicated to the subject. 
+We'll use a similar structure here. We'll break down our most complex leadership & management recipes into combinations of simpler building blocks. Hopefully as you grow in your career, you'll move up the recipe complexity ladder and feel comfortable trying the hardest ones! And, as an open cookbook, we encourage you to add your own variations, techniques, insights, or entirely new recipes here. The goal of this cookbook is not to be 100% comprehensive; the topic is too vast for that. It is instead an attempt to build a comprehensive 'overview'. Breadth vs depth. In many cases, we'll give a few example recipes, and then point at entire chapters or books dedicated to the subject. 
 
 # Contents
 ## Section Health
