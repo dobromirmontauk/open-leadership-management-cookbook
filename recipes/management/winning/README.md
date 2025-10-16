@@ -22,6 +22,10 @@
 * Hitting goals.
     * Planning: setting the *right* goals
     * Execution: making expected progress to the goals
+* Genuinely confused about this. What "feels like" winning in my role is increasing the capacity to win. Hiring a new QA Lead? I increased my team's capacity to win. Improving the On Call process? Increased TCTW. Sucessfully convincing a manager to ...? Increased TCTW? So what is *winning* proper??
+    * Maybe the reason this feels confusing is because my job IS to increase the capacity to win, mainly. I'm not writing the code, running the standups, doing QA, etc anymore. IC vs EM job. So winning == increasing my team's capacity to win. Then there is also increasing MY capacity to win...?
+    * Is there any winning OTHER than increasing the team's capacity to win?
+    * 
 
 ## Delegation
 * What is delegation? 

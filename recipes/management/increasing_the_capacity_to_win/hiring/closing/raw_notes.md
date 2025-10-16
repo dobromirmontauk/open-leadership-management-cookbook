@@ -213,3 +213,27 @@
         * Help them SEE what you SAY.
     * Funnel depth doesn’t matter for emotional connection, it is frequency of and depth of connection.
     * 
+
+## Chan conversation 3/26/24
+* How is she choosing between companies?
+    * She has a rough idea in her head how to choose companies, but she's not completely sure yet...
+    * There are a fixed set of ways people choose. 
+        * John's criteria: "Grow Me", "Pay Me", "Comfort Me"
+        * My slightly more expanded version:
+            * Manager
+            * Team
+            * "coolness"
+            * Mission
+            * Founders
+            * Money
+            * Equity / potential upside
+            * Role / opportunity
+            * Technical challenge
+            * Impact to world
+    * Need a guide to how people choose and how to navigate this.
+        * Mashgin example -- Michael + Akshay both declining their offers.
+        * Michael: 'the startup is overvalued' after talking to his analytical wife; 'spreadsheet decision making'. Devin saying "we don't look at that, we want people who want to build cool stuff."
+        * Akshay: being paid Google $$$. Pressure testing this early on.
+* How do you choose between so-so manager/good company and great manager/so-so company?
+    * False choice?
+* 

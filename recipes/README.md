@@ -34,9 +34,15 @@ new generation of "non-manager" leaders and "I-love-management" managers.
 So how do we come up with a useful definition of Leadership & Management that allows us to organize recipes in a helpful
 way?
 
+2025.09.02 thought: 
+* _management_ is the art of dealing with individuals
+* _leadership_ is the art of dealing with groups
+* spectrum because a couple of individuals may not quite be a group yet --> group dynamics are different than individual dynamics
+* the fluid dynamics theory of people :)
+
 [TODO(dmontauk): I want to add 5-6 examples here that make it intuitively clear what the difference is]
 
-We hope that the examples above motivate one specific realization: _leadership_ seems much more dangerous! There's a
+We hope that the examples above motivate one specific realization: _leadership_ seems much more risky! There's a
 certain _step change_ needed to make something qualify as 'leadership' instead of 'management'. When a management
 approach fails you kind of end up where you started. When a leadership approach fails, things might be _much worse_ than
 before. Why is that?
@@ -87,7 +93,7 @@ destination, or fail to.
 
 ### It Gets Worse
 
-We said above that "Most team members will agree this makes sense". They unfortunate fact is that it's unlikely that
+We said above that "Most team members will agree this makes sense". The unfortunate fact is that it's unlikely that
 everyone in your organization even has the same optimization function in their head (if they do, congrats! You must be
 doing something really well!!). Reality looks more like this:
 
@@ -141,3 +147,6 @@ My recipe has a TON of stuff I want to expand on. Notes here:
 2. Small leadership ‘bumps’ for a Sr. EM might be huge leadership moments for more junior employees. That’s why leadership/management is a spectrum. 
 3. See all my notes I wrote up in Google Docs [here](https://docs.google.com/document/d/1LwOIhMI0MsCYePKU7sz2eigs-PcSJ6tuVXIbZGtUJdk/edit#heading=h.gu4ti1e72vvr). Need to integrate that here.
 1. Need to use examples of a strong leader / bad manager and poor leader / strong manager to distinguish between the two types.
+
+# Raw
+* Management is about creating systems that solve problems. Leadership is about creating systems that reveal problems. 
