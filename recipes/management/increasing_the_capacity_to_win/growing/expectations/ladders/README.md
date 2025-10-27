@@ -1,20 +1,23 @@
 # Engineering Ladders
+
 Engineering ladders are so well understood that I've never really thought about why we have them :) If anyone finds the need to explain their existence, feel free to send a PR...
 
 # Recipes
 
 ## Dobromir's Recipes
+
 I split my engineering ladder into the 3 main dimensions of software engineering. The reasoning is as follows:
 
-* [Domain Ladder](dobromir_domain_ladder.md): I want my engineers standing on the shoulders of giants. They should be deeply familiar with the domain of the problems they are solving so they aren't reinventing the wheel or introducing unnecessary complexity. Having a good domain understanding helps avoid architecture/coding in the first place. 
-* [Architecture Ladder](dobromir_architecture_ladder.md): I want my engineers creating reusable pieces, thus avoiding unnecessary coding. Architecture skills are all about factoring complex systems in a wise way.
-* [Coding Ladder](dobromir_coding_ladder.md): every line of code my engineers write is another bug waiting to happen... so I do want them becoming much better coders, to minimize that risk. 
-
+- [Domain Ladder](dobromir_domain_ladder.md): I want my engineers standing on the shoulders of giants. They should be deeply familiar with the domain of the problems they are solving so they aren't reinventing the wheel or introducing unnecessary complexity. Having a good domain understanding helps avoid architecture/coding in the first place.
+- [Architecture Ladder](dobromir_architecture_ladder.md): I want my engineers creating reusable pieces, thus avoiding unnecessary coding. Architecture skills are all about factoring complex systems in a wise way.
+- [Coding Ladder](dobromir_coding_ladder.md): every line of code my engineers write is another bug waiting to happen... so I do want them becoming much better coders, to minimize that risk.
+- [Senior Engineer Career Archetypes](senior_engineer_archetypes.md): A guide for SWE II engineers exploring different paths to Senior level. Presents six "character class" archetypes (Tech Lead, Product Engineer, Architect, Specialist, Infrastructure Engineer, Quality Guardian) to help engineers identify which growth path resonates with their strengths.
 
 # Unordered
-* Agnes PM career ladder [here](https://docs.google.com/document/d/1EQRuoIi8F3gBCP8AJJOT5P2EOBKURYyg24iIjjGjxX8/edit#heading=h.clb9twl656u4) -- need permission to publish
-* Will Cole Mashgin PM ladder [here](https://docs.google.com/spreadsheets/d/1eWRJG-OfRqd6T_lpxd0FZZv79qYDzCcSuiNwgsrTqMo/edit?gid=1392224708#gid=1392224708)
-* Shreyas PM ladder [here](https://coda.io/@shreyas/evaluating-pm-performance)
-* https://progression.fyi/ -- good collection of 3rd party ladders
-* https://www.engineeringladders.com/ - good framework to re-use for ladders
-* https://roadmap.sh/ -- One of the top projects on Gitlab. Less of a "ladder" and more of a "how to develop these skills" -- should move elsewhere.
+
+- Agnes PM career ladder [here](https://docs.google.com/document/d/1EQRuoIi8F3gBCP8AJJOT5P2EOBKURYyg24iIjjGjxX8/edit#heading=h.clb9twl656u4) -- need permission to publish
+- Will Cole Mashgin PM ladder [here](https://docs.google.com/spreadsheets/d/1eWRJG-OfRqd6T_lpxd0FZZv79qYDzCcSuiNwgsrTqMo/edit?gid=1392224708#gid=1392224708)
+- Shreyas PM ladder [here](https://coda.io/@shreyas/evaluating-pm-performance)
+- https://progression.fyi/ -- good collection of 3rd party ladders
+- https://www.engineeringladders.com/ - good framework to re-use for ladders
+- https://roadmap.sh/ -- One of the top projects on Gitlab. Less of a "ladder" and more of a "how to develop these skills" -- should move elsewhere.
