@@ -67,7 +67,7 @@ The Leader multiplies their impact through others. They make everyone around the
 
 ## The Product Engineer
 
-_""In skating over thin ice, our safety is in our speed""_
+_"I already shipped it"_
 
 The Product Engineer is obsessed with customer impact and moving fast. They ship features quickly, understand the product deeply, work seamlessly with PMs and designers, and make pragmatic technical decisions that prioritize delivering value. Critically, they know when to push back on scope and when to compromise on their own high technical bar. They're strategic about where quality matters most and where "good enough" unblocks learning. If you get energized by seeing users benefit from your work, this might be your path.
 
