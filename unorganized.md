@@ -76,3 +76,4 @@ https://docs.google.com/presentation/d/15gNk21rjer3xo-b1ZqyQVGebOp_aPvHU3YH7YnOM
 
 LINKS to organize
     * https://www.opinionx.co/blog/shreyas-doshi-cpsr
+    * https://erikbern.com/2023/12/13/simple-sabotage-for-software
