@@ -11,7 +11,7 @@ LOGO = "/_blob/9b7ec390275e1c40393184dc2c7f61e3"
 
 ORDER = [
     "cover", "map", "machine", "levels", "levels-how",
-    "l1", "senior", "l2", "l2-traits", "l2-ask", "l3", "hero", "l4", "tell", "l5", "joined", "levels-all",
+    "l1", "senior", "l2", "l2-traits", "l2-ask", "l3", "l4", "tell", "l5", "hero", "joined", "levels-all",
     "rule1", "rule2", "rule3", "dissent",
 ]
 HANDWRITTEN = {"cover", "map", "levels"}
