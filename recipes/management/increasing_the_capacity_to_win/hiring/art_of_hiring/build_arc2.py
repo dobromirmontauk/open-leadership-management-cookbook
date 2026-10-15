@@ -222,6 +222,8 @@ S["dissent"] = slide("dissent", "Our own data", f"The lone dissenter<br>{g('was 
     "From our own retro of 26 hires. When one interviewer raised a specific concern about fit or ownership, it usually came true. Doubts about speed or coding mostly didn't. A Strong Yes on technical skill didn't predict reliability. Leadership desire was never probed. Fix: any specific dissent gets a written rebuttal before an offer goes out.", title_size=72)
 
 for sid, html in S.items():
+    if sid in HANDWRITTEN:
+        continue
     open(os.path.join(SL, sid + ".html"), "w").write(html)
 
 for sid in HANDWRITTEN - {"cover"}:
