@@ -14,7 +14,7 @@ ORDER = [
     "l1", "senior", "l2", "l2-traits", "l2-ask", "l3", "hero", "l4", "tell", "l5", "joined", "levels-all",
     "rule1", "rule2", "rule3", "dissent",
 ]
-HANDWRITTEN = {"cover", "map", "levels", "hero"}
+HANDWRITTEN = {"cover", "map", "levels", "hero", "l4"}
 
 LEVELS = [("L1", "Competence", "Do they meet our bar?"),
           ("L2", "Potential", "How far can they grow?"),
