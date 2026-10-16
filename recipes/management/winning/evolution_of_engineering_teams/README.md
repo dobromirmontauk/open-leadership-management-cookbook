@@ -184,12 +184,20 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 43](slides/43.jpg)
 
-> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: red, not blue. The new team’s engineer has a head just as full of the blue system, and everything has to cross through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
+> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: blue, not red. The new team’s engineer has a head just as full of the red system, and it can only come out one thin strand at a time, through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
 
 ![Slide 44](slides/44.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Part 2: Techniques for Solving This. We’ve seen how it goes wrong. Now: what actually helps.
 
 ![Slide 45](slides/45.jpg)
+
+> Your org is a distributed system. N nodes means N² communication possibilities. Every person holds state. Nodes disappear. You get consistency problems. Every conversation is an RPC. This is a distributed systems problem, and the CAP theorem applies. The job is to balance “eventual consistency” against the CPU burned on achieving it, versus doing useful work.
+
+![Slide 46](slides/46.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 47](slides/47.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
