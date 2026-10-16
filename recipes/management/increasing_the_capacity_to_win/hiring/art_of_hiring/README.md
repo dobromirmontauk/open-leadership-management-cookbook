@@ -1,4 +1,4 @@
-# The Art of Hiring — talk decks
+# The Art of Hiring
 
 A three-arc talk for engineering leaders, about 30 minutes per arc:
 
@@ -8,63 +8,69 @@ A three-arc talk for engineering leaders, about 30 minutes per arc:
 
 Philosophy, content and process borrow heavily from TellApart, Twitter, Wade Chambers, and *Who: The A Method for Hiring*.
 
-## Live decks (claude.ai Slides artifacts, private)
+## Downloads
 
-| Deck | URL |
-|---|---|
-| Arc 1 — Evaluate | https://claude.ai/artifact/NyqTL9Rvd6wXn6bsDhFcmm |
-| Arc 2 — Train | https://claude.ai/artifact/D1oJQ5yCpmiz2DuwmJ3nS3 |
+| | Slides (PDF) | With speaker notes (PDF) | PowerPoint | HTML |
+|---|---|---|---|---|
+| Arc 1 — Evaluate | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.pdf) | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201%20%28speaker%20notes%29.pdf) | [PPTX](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.pptx) | [HTML](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.html) |
+| Arc 2 — Train | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.pdf) | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202%20%28speaker%20notes%29.pdf) | [PPTX](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.pptx) | [HTML](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.html) |
 
-`exports/` holds the PDF, PPTX and standalone HTML for Arc 1 and Arc 2. They come from the deck's **Share › Export**.
+When I present this live, each arc ends with case studies about real people. Those slides are left out of this public version.
 
-**Public copy:** the live decks end with case studies about real people (Arc 1: true and false positives; Arc 2: interviewers worth copying). Those slides are cut from everything here: the snapshots, the generators, the images and the exports. Speaker notes that named candidates are anonymized. After re-exporting from the live deck, cut the case-study pages again before you commit.
+## Arc 1 — Evaluate
 
-## Layout
+![Arc 1, slide 1](slides/arc1/01.jpg)
+![Arc 1, slide 2](slides/arc1/02.jpg)
+![Arc 1, slide 3](slides/arc1/03.jpg)
+![Arc 1, slide 4](slides/arc1/04.jpg)
+![Arc 1, slide 5](slides/arc1/05.jpg)
+![Arc 1, slide 6](slides/arc1/06.jpg)
+![Arc 1, slide 7](slides/arc1/07.jpg)
+![Arc 1, slide 8](slides/arc1/08.jpg)
+![Arc 1, slide 9](slides/arc1/09.jpg)
+![Arc 1, slide 10](slides/arc1/10.jpg)
+![Arc 1, slide 11](slides/arc1/11.jpg)
+![Arc 1, slide 12](slides/arc1/12.jpg)
+![Arc 1, slide 13](slides/arc1/13.jpg)
+![Arc 1, slide 14](slides/arc1/14.jpg)
+![Arc 1, slide 15](slides/arc1/15.jpg)
+![Arc 1, slide 16](slides/arc1/16.jpg)
+![Arc 1, slide 17](slides/arc1/17.jpg)
+![Arc 1, slide 18](slides/arc1/18.jpg)
+![Arc 1, slide 19](slides/arc1/19.jpg)
+![Arc 1, slide 20](slides/arc1/20.jpg)
+![Arc 1, slide 21](slides/arc1/21.jpg)
+![Arc 1, slide 22](slides/arc1/22.jpg)
+![Arc 1, slide 23](slides/arc1/23.jpg)
+![Arc 1, slide 24](slides/arc1/24.jpg)
+![Arc 1, slide 25](slides/arc1/25.jpg)
+![Arc 1, slide 26](slides/arc1/26.jpg)
+![Arc 1, slide 27](slides/arc1/27.jpg)
 
-| Path | What |
-|---|---|
-| `arc1/project/`, `arc2/project/` | Snapshot of each live deck: `deck.json` plus one `slides/<id>.html` per slide. **This is the source of truth.** |
-| `build_arc1.py` | Generates Arc 1 slides from Python helpers and content. Skips the ids in `HANDWRITTEN` (it only renumbers them) and any id not in `ORDER`. |
-| `build_arc2.py` | Arc 2. Execs the helpers from `build_arc1.py`. Every Arc 2 slide is now hand-edited, so it only renumbers the snapshot. |
-| `icons.py` | SVG icons for the "Startup vibes" slide. |
-| `gen_gandalf.py`, `edit_gandalf.py` | Gemini image generation for the Gandalf/dwarves art. |
-| `x/` | Final generated images (also uploaded to the decks as blobs). |
-| `private/` | Git-ignored local copy of the raw drafts (original pptx, notes, outline). They contain case-study material. |
+## Arc 2 — Train
 
-## Editing workflow
+![Arc 2, slide 1](slides/arc2/01.jpg)
+![Arc 2, slide 2](slides/arc2/02.jpg)
+![Arc 2, slide 3](slides/arc2/03.jpg)
+![Arc 2, slide 4](slides/arc2/04.jpg)
+![Arc 2, slide 5](slides/arc2/05.jpg)
+![Arc 2, slide 6](slides/arc2/06.jpg)
+![Arc 2, slide 7](slides/arc2/07.jpg)
+![Arc 2, slide 8](slides/arc2/08.jpg)
+![Arc 2, slide 9](slides/arc2/09.jpg)
+![Arc 2, slide 10](slides/arc2/10.jpg)
+![Arc 2, slide 11](slides/arc2/11.jpg)
+![Arc 2, slide 12](slides/arc2/12.jpg)
+![Arc 2, slide 13](slides/arc2/13.jpg)
+![Arc 2, slide 14](slides/arc2/14.jpg)
+![Arc 2, slide 15](slides/arc2/15.jpg)
+![Arc 2, slide 16](slides/arc2/16.jpg)
+![Arc 2, slide 17](slides/arc2/17.jpg)
+![Arc 2, slide 18](slides/arc2/18.jpg)
+![Arc 2, slide 19](slides/arc2/19.jpg)
+![Arc 2, slide 20](slides/arc2/20.jpg)
+![Arc 2, slide 21](slides/arc2/21.jpg)
 
-Slides get edited by hand in the claude.ai viewer, so the live deck can be ahead of these files.
+## Images
 
-1. **Read the live deck first.** Use the Artifact `read` action with `paths`, saving into a scratch folder. Sync the result into `arcN/project/`.
-2. Edit the slide HTML directly, or edit the generator and run `python3 build_arc1.py`. Any slide that has been hand-edited in the viewer must be in `HANDWRITTEN`, or the generator overwrites those edits. Check with `diff -r` against the fresh read.
-3. **Publish only the changed files**: `url` = the deck, `root` = `arcN`, `file_path` = one changed slide, and `files` = the rest. A publish is refused if the live file changed since your read. When that happens, re-read and re-apply.
-
-Images are referenced as `/_blob/<id>` and live in the artifact's asset store:
-
-| Blob | Image |
-|---|---|
-| `b4e74a8e…` / `9b7ec390…` | Logo (Arc 1 / Arc 2) |
-| `19781f27…` | Gandalf / dwarves (`x/dwarves_1.jpg`) |
-
-## Style
-
-- Canvas is 1920×1080 with background `#060607`.
-- Cards are `#1A1A1A` with a 2px `#2B2B2B` border and 16px radius.
-- Accent colours: green `#63E14F` (good / A player), orange `#FF832A` (risk / false positive), yellow `#F5D227`, teal `#45C7AB`.
-- Fonts: Host Grotesk (headings), DM Mono (labels and numbers), Raleway (body).
-- Footer: "Copyright Dobromir Montauk, 2026" plus the slide number `[ n ]`.
-- Speaker notes go in `<aside>`.
-
-Slides renderer quirks:
-
-- It drops empty `<div>`s, so use `&nbsp;` spacers or SVG.
-- It ignores padding on flex rows, so put padding on cards.
-- Always check the result in the live viewer.
-
-## Gemini image generation
-
-The scripts read `GEMINI_API_KEY` from the environment. **Never commit the key.** Model: `gemini-3-pro-image` at 2K. Run them from this folder; output goes to `x/`.
-
-```sh
-GEMINI_API_KEY=... python3 gen_gandalf.py
-```
+`gen_gandalf.py` and `edit_gandalf.py` generated the "Be Gandalf" illustration with Google's Gemini image model (`x/`). `icons.py` draws the icons on the "Startup vibes" slide. The scripts read `GEMINI_API_KEY` from the environment.
