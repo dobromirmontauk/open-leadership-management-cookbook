@@ -10,11 +10,11 @@ SL = os.path.join(ROOT, "slides")
 LOGO = "/_blob/9b7ec390275e1c40393184dc2c7f61e3"
 
 ORDER = [
-    "cover", "map", "machine", "levels", "levels-how",
-    "l1", "senior", "l2", "l2-traits", "l2-ask", "l3", "hero", "l4", "tell", "l5", "joined", "levels-all",
-    "rule1", "rule2", "rule3", "recap",
+    "cover", "map", "machine", "levels", "levels-how", "l1", "senior", "l2",
+    "l2-traits", "l2-ask", "l3", "hero", "l4", "tell", "l5", "joined",
+    "levels-all", "rule1", "rule2", "rule3", "recap",
 ]
-HANDWRITTEN = {"cover", "map", "levels", "hero", "l4", "l5", "rule1", "recap"}
+HANDWRITTEN = set(ORDER)  # every slide is hand-edited live; the snapshot is the source of truth
 
 LEVELS = [("L1", "Competence", "Do they meet our bar?"),
           ("L2", "Potential", "How far can they grow?"),

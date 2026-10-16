@@ -15,9 +15,9 @@ Philosophy, content and process borrow heavily from TellApart, Twitter, Wade Cha
 | Arc 1 — Evaluate | https://claude.ai/artifact/NyqTL9Rvd6wXn6bsDhFcmm |
 | Arc 2 — Train | https://claude.ai/artifact/D1oJQ5yCpmiz2DuwmJ3nS3 |
 
-`exports/` holds the Arc 1 PDF, PPTX and standalone HTML. They come from the deck's **Share › Export**.
+`exports/` holds the PDF, PPTX and standalone HTML for Arc 1 and Arc 2. They come from the deck's **Share › Export**.
 
-**Public copy:** the live decks end with case studies about real people (Arc 1: true/false positives; Arc 2: per-level examples and recap). Those slides are cut from everything here: the snapshots, the generators, the images and the exports. Speaker notes that named candidates are anonymized. After re-exporting from the live deck, cut the case-study pages again before you commit.
+**Public copy:** the live decks end with case studies about real people (Arc 1: true and false positives; Arc 2: interviewers worth copying). Those slides are cut from everything here: the snapshots, the generators, the images and the exports. Speaker notes that named candidates are anonymized. After re-exporting from the live deck, cut the case-study pages again before you commit.
 
 ## Layout
 
@@ -25,7 +25,7 @@ Philosophy, content and process borrow heavily from TellApart, Twitter, Wade Cha
 |---|---|
 | `arc1/project/`, `arc2/project/` | Snapshot of each live deck: `deck.json` plus one `slides/<id>.html` per slide. **This is the source of truth.** |
 | `build_arc1.py` | Generates Arc 1 slides from Python helpers and content. Skips the ids in `HANDWRITTEN` (it only renumbers them) and any id not in `ORDER`. |
-| `build_arc2.py` | Arc 2. Execs the helpers from `build_arc1.py`. |
+| `build_arc2.py` | Arc 2. Execs the helpers from `build_arc1.py`. Every Arc 2 slide is now hand-edited, so it only renumbers the snapshot. |
 | `icons.py` | SVG icons for the "Startup vibes" slide. |
 | `gen_gandalf.py`, `edit_gandalf.py` | Gemini image generation for the Gandalf/dwarves art. |
 | `x/` | Final generated images (also uploaded to the decks as blobs). |
