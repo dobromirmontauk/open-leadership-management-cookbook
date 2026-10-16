@@ -146,12 +146,28 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 34](slides/34.jpg)
 
-> Guess there’s nothing to do… Everything is humming, so the strategy folks retreat to the boardroom to present a new vision, and the engineers, cut off from the customers, stand around the coffee machine wondering what any of it means. Meanwhile the customers walk out the door, straight to the competition, where a single engineer is happy to help.
+> Common Org Failure Modes. We built the org up one sensible step at a time. Now some of the ways it goes wrong, each one made of steps that seemed sensible at the time.
 
 ![Slide 35](slides/35.jpg)
 
-> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
+> Guess there’s nothing to do… Everything is humming, so the strategy folks retreat to the boardroom to present a new vision, and the engineers, cut off from the customers, stand around the coffee machine wondering what any of it means. Meanwhile the customers walk out the door, straight to the competition, where a single engineer is happy to help.
 
 ![Slide 36](slides/36.jpg)
 
+> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
+
+![Slide 37](slides/37.jpg)
+
 > Let me find out… The opposite failure. So many layers sit between the engineers and the customers that nothing gets through: every layer says “let me find out…”, frustration builds the closer you get to the customer, and the engineers think there’s nothing important to do.
+
+![Slide 38](slides/38.jpg)
+
+> The CEO side door. The CEO grabs one engineer directly, and the engineer happily starts. Meanwhile, the PM and tech lead promise a customer a feature from the very same engineer. Nobody knows about the other promise until the engineer is stuck between them.
+
+![Slide 39](slides/39.jpg)
+
+> The promise that got lost. Sales promises a customer something specific. By the time it’s passed through PM and tech lead, the engineer hears something else entirely, and builds that. The fire comes months later, when the customer finds out.
+
+![Slide 40](slides/40.jpg)
+
+> What’s the top priority? The Architect, PM, Support and Sales each have a different “top priority”, and they fight it out. Until they agree, the engineer has nothing to do but watch.
