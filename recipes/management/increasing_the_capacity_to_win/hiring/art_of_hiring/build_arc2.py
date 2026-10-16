@@ -12,9 +12,9 @@ LOGO = "/_blob/9b7ec390275e1c40393184dc2c7f61e3"
 ORDER = [
     "cover", "map", "machine", "levels", "levels-how",
     "l1", "senior", "l2", "l2-traits", "l2-ask", "l3", "hero", "l4", "tell", "l5", "joined", "levels-all",
-    "rule1", "rule2", "rule3", "dissent",
+    "rule1", "rule2", "rule3", "recap",
 ]
-HANDWRITTEN = {"cover", "map", "levels", "hero", "l4", "l5", "rule1"}
+HANDWRITTEN = {"cover", "map", "levels", "hero", "l4", "l5", "rule1", "recap"}
 
 LEVELS = [("L1", "Competence", "Do they meet our bar?"),
           ("L2", "Potential", "How far can they grow?"),
@@ -222,14 +222,14 @@ S["dissent"] = slide("dissent", "Our own data", f"The lone dissenter<br>{g('was 
     "From our own retro of 26 hires. When one interviewer raised a specific concern about fit or ownership, it usually came true. Doubts about speed or coding mostly didn't. A Strong Yes on technical skill didn't predict reliability. Leadership desire was never probed. Fix: any specific dissent gets a written rebuttal before an offer goes out.", title_size=72)
 
 for sid, html in S.items():
-    if sid in HANDWRITTEN:
+    if sid in HANDWRITTEN or sid not in ORDER:
         continue
     open(os.path.join(SL, sid + ".html"), "w").write(html)
 
 for sid in HANDWRITTEN - {"cover"}:
     p = os.path.join(SL, sid + ".html")
     s = open(p).read()
-    s = re.sub(r'\[ \d+ \]</p>\n<aside>', f'[ {ORDER.index(sid) + 1} ]</p>\n<aside>', s)
+    s = re.sub(r'\[ \d+ \]</p>(\s*)<aside>', lambda m: f'[ {ORDER.index(sid) + 1} ]</p>{m.group(1)}<aside>', s)
     open(p, "w").write(s)
 
 missing = [s for s in ORDER if not os.path.exists(os.path.join(SL, s + ".html"))]
