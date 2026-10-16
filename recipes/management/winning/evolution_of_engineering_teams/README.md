@@ -168,12 +168,24 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 39](slides/39.jpg)
 
-> The SEV-0 war room. Something breaks in production, and everyone joins the call. Three hours later there are 48 people on it: legal, PR, finance, recruiting, two CEOs’ worth of logins, and someone’s dog. Most of them are tired, some are asleep, and the handful of people who can actually fix it are spending their time answering “any update?” from everyone else.
+> If the system gets too complicated, it becomes very hard to figure WHAT and WHO is responsible for fixing it. Nobody understand the whole system anymore. A common clue that this is a problem are huge war rooms where everyone gets pulled in to help, because nobody knows who actually can.
 
 ![Slide 40](slides/40.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> The hero dependency. One engineer built the whole integration for our biggest new customer, so every question, from the CEO to Support, goes to their head. Then they go on PTO exactly as we launch. Nobody else knows how it works, and the launch catches fire. When knowledge lives in one head, that person is a single point of failure.
 
 ![Slide 41](slides/41.jpg)
+
+> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+
+![Slide 42](slides/42.jpg)
+
+> Meeting creep. Every coordination problem gets “solved” with another recurring meeting: a sync, a standup, a planning session, a retro. Each one makes sense on its own. Together they leave engineers a sliver of Friday to actually build anything, and even that gets a “quick sync”.
+
+![Slide 43](slides/43.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 44](slides/44.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
