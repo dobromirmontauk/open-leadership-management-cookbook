@@ -44,19 +44,19 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 8](slides/08.jpg)
 
-> Now breaking it matters. State 7. What changed: broken code still went online, and now someone noticed. The complaint goes straight back to the one engineer, who is sweating. This is the first feedback loop.
+> But the problem with having a customer is... they notice when you break things. This is the first feedback loop: customers complaining when things don't work. In a small team, it goes straight to the right person.
 
 ![Slide 9](slides/09.jpg)
 
-> A release step. State 8. What changed: the engineer adds a careful release step, a checklist between the code and what customers see. It’s the first piece of process, and it exists because something broke.
+> So our engineer adds a new step. This is usually some automated tests & extra code to make sure what is being pushed will actually work. We call this the "release" step.
 
 ![Slide 10](slides/10.jpg)
 
-> It’s down!. Slide 9a. What changed: production is down, and the only alarm is the customer calling the engineer’s phone. The customer is the monitoring system.
+> But releases don't guarantee things won't break. AWS could go down. The hardware could fail. There could be some nasty bug that takes down the whole service.
 
 ![Slide 11](slides/11.jpg)
 
-> Let the system call you. Slide 9b. What changed: the engineer sets up DevOps alerting (PagerDuty), so production can call the phone directly instead of waiting for a customer to notice.
+> When this happens, engineers will add an automated monitoring and "call home" system. We use PagerDuty + Prometheus for monitoring.
 
 ![Slide 12](slides/12.jpg)
 
@@ -168,8 +168,12 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 39](slides/39.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> The SEV-0 war room. Something breaks in production, and everyone joins the call. Three hours later there are 48 people on it: legal, PR, finance, recruiting, two CEOs’ worth of logins, and someone’s dog. Most of them are tired, some are asleep, and the handful of people who can actually fix it are spending their time answering “any update?” from everyone else.
 
 ![Slide 40](slides/40.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 41](slides/41.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
