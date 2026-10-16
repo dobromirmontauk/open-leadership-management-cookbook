@@ -196,8 +196,48 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 46](slides/46.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Shard it: small teams, clear owners. The first fix is the one the Architect found: cut N down. Small teams that each own their own piece of the system (their own dragon) talk mostly inside the team, and across teams through one interface. Nine people in one team is 36 phone lines; three teams of three is 12.
 
 ![Slide 47](slides/47.jpg)
+
+> Write it down: broadcast, don’t RPC. Telling people one at a time is an RPC per person: it’s slow, it costs the sender every time, and every retelling drifts. Writing it down is a broadcast: one write, many reads, async, and it’s still there for the person who was on PTO. Decision logs, weekly notes, a short doc.
+
+![Slide 48](slides/48.jpg)
+
+> One owner per decision. Consensus is the most expensive protocol there is: every node has to talk to every other node, and it never quite converges. Give each decision a leader, a DRI. They gather input, decide, and tell everyone why. Everyone else only has to hear the answer.
+
+![Slide 49](slides/49.jpg)
+
+> Heartbeats and batching. Distributed systems use heartbeats and batching instead of chattering constantly. Teams can too: a short predictable standup, office hours for questions, and long uninterrupted blocks for actual work. Real emergencies still page on-call; everything else waits for the next heartbeat.
+
+![Slide 50](slides/50.jpg)
+
+> Part 3: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+
+![Slide 51](slides/51.jpg)
+
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+
+![Slide 52](slides/52.jpg)
+
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+
+![Slide 53](slides/53.jpg)
+
+> Find where knowledge is stuck. Part of the router job is knowing where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
+
+![Slide 54](slides/54.jpg)
+
+> Protect the CPU. The other half of the job: protect the CPU. Every “quick sync?” is a context switch for an engineer. Take the questions yourself, batch them, answer them in writing, and send one person to the meeting instead of five, so the team can spend its cycles on useful work.
+
+![Slide 55](slides/55.jpg)
+
+> Pick the consistency level. Not everything needs strong consistency. A few things need everyone to know right now; most things only need the right people to know eventually; a lot only needs to be findable by whoever touches it. And that includes you: you don’t need to know everything. Don’t burn too many cycles on info acquisition.
+
+![Slide 56](slides/56.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 57](slides/57.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
