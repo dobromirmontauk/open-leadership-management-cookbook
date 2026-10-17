@@ -236,8 +236,20 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 56](slides/56.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 57](slides/57.jpg)
+
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+
+![Slide 58](slides/58.jpg)
+
+> Cross-functional goal meetings. Weekly or bi-weekly, with everyone in the company who can affect a major goal: Customer Weekly, Store Health, and so on. No excuses for the business not to be aligned.
+
+![Slide 59](slides/59.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 60](slides/60.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
