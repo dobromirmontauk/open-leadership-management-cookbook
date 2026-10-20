@@ -1,0 +1,9 @@
+xkcd-style hand-drawn chart, pure black ink line art on plain white, no gray, no shading. Fill the whole square image edge to edge with the chart; no border, no frame, no people.
+At the top, centered, the large hand-lettered title "TIME PRESSURE".
+Below it, a simple line chart: vertical axis (written vertically along the axis) labeled "MoBs", horizontal axis labeled "DAYS" with an arrow.
+Three lines:
+1. A bold black line labeled "REMAINING MoBs": starts high at the top-left, falls slowly at first, then curves down faster and faster, and reaches ZERO just a hair BEFORE the red deadline line.
+2. A thin dashed black line labeled "CAPACITY": starts near the bottom-left and curves UP exponentially, steeper and steeper to the right.
+3. A thin dotted black line labeled "# OF BRICKS": starts near the bottom-left and also curves UP exponentially, close to the capacity curve but slightly below it.
+A vertical RED line at about 80% of the width, labeled "DEADLINE" in red at its top. The bold REMAINING MoBs line touches zero just left of the red line; a tiny hand-lettered note with an arrow at that spot: "JUST MADE IT!".
+Red is used ONLY for the DEADLINE line and its label. All lettering large, clean and legible.

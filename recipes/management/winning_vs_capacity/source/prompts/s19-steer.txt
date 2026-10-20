@@ -1,0 +1,8 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like on the attached reference sheet: two TALL spiky black hair tufts sticking straight up (hair, not horns), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel, 16:9. At the top center, the hand-lettered title "STEER".
+Across the top of the panel, far away, three flags stand at three different spots: on the left a flag marked "B", in the middle a flag marked "C", on the right a flag marked "D". Next to each flag stands a different CUSTOMER (each with a baseball cap), yelling with a big speech bubble:
+- at flag B: "100 MONDAY!"
+- at flag C: "10 TUESDAY!"
+- at flag D: "50 FRIDAY!"
+Bottom center foreground: the MANAGER stands at a junction where three dirt paths fan out toward the three flags. With his left arm he points an engineer pushing a WHEELBARROW piled high with bricks down the path toward flag B. With his right arm he points another engineer, carrying a small stack of exactly 10 bricks in his arms, down the path toward flag C. The path toward flag D is empty for now.
+No other text anywhere.

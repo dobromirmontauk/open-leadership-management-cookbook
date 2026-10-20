@@ -255,7 +255,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ## Part 2 — Capacity (future turns)
 
 24. **How to increase capacity** · Comic (tiles generated one by one, grid composed by hand)
-    - Comic: title "HOW TO INCREASE CAPACITY" over ten framed tiles, the Manager in each: HIRE (shakes hands with new arrivals holding truck keys, a blueprint, an axe), GROW (one engineer goes from one brick to a wheelbarrow to a truck), DELEGATE (hands his megaphone to a new lead with a crew), REWARD (money bag and a medal), PRUNE (a line of brick carriers; needs a redraw), ORGANIZE (three crews in separate lanes, a MAKE → CARRY → STACK board), AUTOMATE (presses the button on a brick conveyor belt; two engineers high-five), CULTIVATE (waters a young tree while engineers build a neat wall behind him), ALLY (shakes hands with a neighboring town's leader; their truck carries our bricks), FUND (pitches a bar chart to the big boss, who hands over truck keys and a money bag).
+    - Comic: title "HOW TO INCREASE CAPACITY" over ten framed tiles, the Manager in each: HIRE (shakes hands with new arrivals holding truck keys, a blueprint, an axe), GROW (one engineer goes from one brick to a wheelbarrow to a truck), DELEGATE (hands his megaphone to a new lead with a crew), REWARD (money bag and a medal), PRUNE (a line of brick carriers; the grid tile still needs a redraw to match slide 29), ORGANIZE (three crews in separate lanes, a MAKE → CARRY → STACK board), AUTOMATE (presses the button on a brick conveyor belt; two engineers high-five), CULTIVATE (waters a young tree while engineers build a neat wall behind him), ALLY (shakes hands with a neighboring town's leader; their truck carries our bricks), FUND (pitches a bar chart to the big boss, who hands over truck keys and a money bag).
     - Text: "HOW TO INCREASE CAPACITY" / "HIRE" "GROW" "DELEGATE" "REWARD" "PRUNE" "ORGANIZE" "AUTOMATE" "CULTIVATE" "ALLY" "FUND"
     - Notes (talk track): everything here pays off in months or years, not this week, which is why it always loses to this week's fire. Nobody asks on Friday why you skipped the skip-level or didn't fix the on-call rotation; six months later, everyone asks why the team is still slow. Block time for these the way you block time for a launch.
 
@@ -284,8 +284,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Delegate
 
 27. **Delegate** · Comic
-    - Comic: The Manager stands on a hill handing his megaphone to a proud engineer in a hard hat. Below, on two roads, two new leads with megaphones each direct their own crew carrying bricks.
-    - Text: "DELEGATE"
+    - Comic: a huge field of brick carriers in tight rows, like a Roman legion, stretches to the horizon. On a small wooden stage in front, the Manager faces the legion, hands cupped, yelling at them as hard as he can; nobody can hear him. Below the stage, one engineer jumps up and down waving a sign: "DELEGATE!!"
+    - Text: "DELEGATE" / "DELEGATE!!"
     - Notes (talk track): At some point your own hours are the bottleneck. Delegating is how one manager's capacity becomes several.
       - Tech leads who own the technical calls, so design decisions don't queue behind you.
       - A second-in-command who can run the team for two weeks while you're out, and actually does it.
@@ -296,8 +296,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Reward
 
 28. **Reward** · Comic
-    - Comic: Payday at the brick yard: in front of the wall they built, the Manager hands envelopes marked with a dollar sign to a line of smiling engineers; the first also gets a medal pinned on, with sparkles.
-    - Text: "REWARD"
+    - Comic: in front, the Manager pins a medal with a ribbon on a smiling engineer, who holds up cash marked with a "$". Coworkers around them in the foreground clap and cheer. Behind them stands a finished brick shack with a banner on two lines: "CONGRATS ON / YOUR PROMOTION!"
+    - Text: "REWARD" / "CONGRATS ON YOUR PROMOTION!" / "$"
     - Notes (talk track): "My job is to leave money in your pocket and memories in your head."
       - Pay fairly and proactively: fix the underpaid engineer before they get the outside offer, not after.
       - Equity and refreshers tied to impact, explained clearly.
@@ -308,8 +308,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Prune
 
 29. **Prune** · Comic
-    - Comic: A line of engineers carries bricks right toward flag B; one person walks the wrong way, carrying bricks back, and the line jams around him. The Manager calmly guides him off the road toward a gate.
-    - Text: "PRUNE"
+    - Comic: at a brick yard, one engineer shrugs, hands in pockets, after dropping a brick on a coworker's foot; the coworker hops in pain ("OUCH!"). The Manager, disappointed, points firmly at a door under an "EXIT" sign. In the background, others keep carrying bricks.
+    - Text: "PRUNE" / "OUCH!" / "EXIT"
     - Notes (talk track): Sometimes capacity goes up when someone leaves.
       - One person who blocks every review, or who the team quietly routes around, slows down everyone near them.
       - Values rarely change; skills can. Coach skill gaps. When it's values, move faster than feels comfortable.
@@ -320,9 +320,9 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Organize
 
 30. **Organize** · Comic
-    - Comic: A wide road split into three lanes by dashed lines: one crew makes bricks at a kiln, one carries them, one stacks them into a wall, handing bricks across at marked points. The Manager points at a whiteboard showing MAKE, CARRY, STACK.
-    - Text: "ORGANIZE"
-    - Notes (talk track): The shape of the team decides how much it can do.
+    - Comic: a brick operation running on its own. At a loading dock with a duty board, the nerdy guy loads a truck with a forklift. A signpost points to "B ROUTE" and "C ROUTE"; a truck drives each road, and at each flag a strong man unloads at his own station. Nobody is looking at the Manager, who stands at an easel in the foreground sketching a new dashed road toward a faraway flag D, next to a sign reading "D ROUTE?".
+    - Text: "ORGANIZE" / "LOADING DOCK" / "DUTY BOARD" / "B ROUTE" "C ROUTE" "D ROUTE?" / "NEW" / "B" "C" "D"
+    - Notes (talk track): Assign is who carries which brick this week. Organize is the structure that makes that call for you every week, so you can work on the next route. The shape of the team decides how much it can do.
       - Clear ownership: every service, every alert and every customer issue has one team that owns it.
       - Small teams with few dependencies ship faster than one big team with many.
       - Few, explicit handoffs: product to engineering, engineering to QA, QA to support.
@@ -332,9 +332,9 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Automate
 
 31. **Automate** · Comic
-    - Comic: The Manager and engineers in hard hats build a long conveyor belt for bricks; the finished half already carries bricks while the rest is still scaffolding. Next to it, the rest of the team keeps carrying bricks by hand.
-    - Text: "AUTOMATE"
-    - Notes (talk track): Every hour of toil you remove pays back every week after.
+    - Comic: side view of one straight road from the brick factory (left) to the customer site and flag B (right). Each builder works at the front edge of its road, with the vehicle that uses it behind on the finished part. Left to right: the Manager and two engineers building a conveyor belt at the factory; a heavy truck full of bricks on the pavement; a steamroller at the end of the pavement; a light truck with about 100 bricks on leveled dirt; a bulldozer at the end of the dirt; a wheelbarrow of about 10 bricks on a rough path; a person rolling a rock off the end of the path; one person carrying a single brick over the rocks to the customer.
+    - Text: "AUTOMATE" / "BRICKS" / "B"
+    - Notes (talk track): Every hour of toil you remove pays back every week after. Each level of technology is roughly 10x the last, and you build the next level while the current one keeps delivering.
       - The page that costs an hour a week and takes 12 hours to fix pays back in 12 weeks. Fix it.
       - CI that takes 40 minutes taxes every PR, every day.
       - Deploys that need a person and a checklist become deploys that need a button.

@@ -1,0 +1,3 @@
+Redraw the attached image EXACTLY, same composition, same text, same characters, pure black line art on white. Change only two things:
+1. The small brick stack next to the Manager must have EXACTLY THREE bricks: two bricks side by side on the ground and one brick on top, centered. Count them: three.
+2. The Manager's face is a clean white circle: remove the black smudge on his forehead. He wipes his brow with the back of his hand, with two small sweat drops flying off. Keep his two tall pointy black hair tufts, smirk, tie and thumbs up.

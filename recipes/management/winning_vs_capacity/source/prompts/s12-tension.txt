@@ -1,0 +1,8 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like on the attached reference sheet: two tall pointy black horn-like hair tufts, smirk-capable round head, tie, clipboard. Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel. At the very top, large hand-lettered title: "THESE ARE IN TENSION!"
+In the center-right, a big whiteboard on a stand, divided by a vertical line into two columns.
+Left column header: "WIN". Under it, a short hand-written checklist with empty checkboxes, one item per line: "CARRY BRICKS", "CLEAR THE ROAD", "UNBLOCK A TEAMMATE", "CHECK IN WITH CUSTOMER".
+Right column header: "INCREASE CAPACITY". Under it, the same kind of list: "INTERVIEW A HIRE", "TRAIN THE NEW GUY", "BUILD A WHEELBARROW", "CAREER 1:1".
+On the left, the MANAGER stands facing the whiteboard, one hand scratching his head, the other holding a marker, torn between the two columns; a small thought bubble above him reads "ONE HOUR...".
+On the wall at the top-left, a simple round wall clock with its hands clearly showing 4 o'clock (hour hand on 4, minute hand on 12), with a tiny "TICK" next to it.
+No other text.

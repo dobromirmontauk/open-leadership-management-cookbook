@@ -4,7 +4,7 @@
 
 Wade Chambers says a manager has two jobs: win, and increase the capacity to win. That sounds like nothing, so this talk makes it concrete with the dumbest possible analogy: moving a huge pile of bricks from A to B. It defines both halves, shows why they fight over every hour of your week, and then walks through ten tools for each.
 
-See also: [Winning](../winning/) and [Increasing the Capacity to Win](../increasing_the_capacity_to_win/) in the Cookbook. The working outline is in [outline.md](outline.md).
+See also: [Winning](../winning/) and [Increasing the Capacity to Win](../increasing_the_capacity_to_win/) in the Cookbook. The working outline is in [outline.md](outline.md); the slide sources, images and image prompts are in [source/](source/).
 
 Copyright Dobromir Montauk 2026.
 
@@ -186,7 +186,7 @@ Copyright Dobromir Montauk 2026.
 > 2. Mentorship: show how to do the job. Do it together first: you run the incident review while they watch, then they run it while you watch.
 > 3. Coaching: support them while they do the job on their own. Weekly 1:1s, feedback within days, and questions instead of answers.
 
-![Slide 27: Delegate. The Manager stands on a hill handing his megaphone to a proud engineer in a hard hat. Below, on two roads, two new leads with megaphones each direct their own crew carrying bricks.](slides/27.jpg)
+![Slide 27: Delegate. A huge field of brick carriers in tight rows, like a Roman legion, stretches to the horizon. On a small wooden stage in front, the Manager faces the legion, hands cupped, yelling at them as hard as he can; nobody can hear him. Below the stage, one engineer jumps up and down waving a sign: DELEGATE!!](slides/27.jpg)
 
 > At some point your own hours are the bottleneck. Delegating is how one manager's capacity becomes several.
 > - Tech leads who own the technical calls, so design decisions don't queue behind you.
@@ -195,7 +195,7 @@ Copyright Dobromir Montauk 2026.
 > - Let them do it differently than you would. If it's 80% as good and you didn't have to do it, that's a win.
 > The test: if you disappear for a week, does the team slow down?
 
-![Slide 28: Reward. Payday at the brick yard: in front of the wall they built, the Manager hands envelopes marked with a dollar sign to a line of smiling engineers; the first also gets a medal pinned on, with sparkles.](slides/28.jpg)
+![Slide 28: Reward. In front, the Manager pins a medal with a ribbon on a smiling engineer, who holds up cash marked with a dollar sign. Coworkers around them in the foreground clap and cheer. Behind them stands a finished brick shack with a banner: CONGRATS ON YOUR PROMOTION!](slides/28.jpg)
 
 > "My job is to leave money in your pocket and memories in your head."
 > - Pay fairly and proactively: fix the underpaid engineer before they get the outside offer, not after.
@@ -204,7 +204,7 @@ Copyright Dobromir Montauk 2026.
 > - Non-money rewards: the interesting project, the conference talk, the promotion case you write for them.
 > Money prevents a no. It rarely creates a yes.
 
-![Slide 29: Prune. A line of engineers carries bricks right toward flag B; one person walks the wrong way, carrying bricks back, and the line jams around him. The Manager calmly guides him off the road toward a gate.](slides/29.jpg)
+![Slide 29: Prune. At a brick yard, one engineer shrugs, hands in pockets, after dropping a brick on a coworker's foot; the coworker hops in pain: OUCH! The Manager, disappointed, points firmly at a door under an EXIT sign. In the background, others keep carrying bricks.](slides/29.jpg)
 
 > Sometimes capacity goes up when someone leaves.
 > - One person who blocks every review, or who the team quietly routes around, slows down everyone near them.
@@ -213,18 +213,18 @@ Copyright Dobromir Montauk 2026.
 > - "Not firing fast enough" is one of the most common regrets of experienced managers.
 > Do it with dignity. The rest of the team is watching how you treat people on the way out.
 
-![Slide 30: Organize. A wide road split into three lanes by dashed lines: one crew makes bricks at a kiln, one carries them, one stacks them into a wall, handing bricks across at marked points. The Manager points at a whiteboard showing MAKE, CARRY, STACK.](slides/30.jpg)
+![Slide 30: Organize. A brick operation running on its own: at a loading dock with a duty board, the nerdy guy loads a truck with a forklift. A signpost points to B ROUTE and C ROUTE; a truck drives each road, and at each flag a strong man unloads at his own station. Nobody is looking at the Manager, who stands at an easel in the foreground sketching a new dashed road toward a faraway flag D, next to a sign reading D ROUTE?](slides/30.jpg)
 
-> The shape of the team decides how much it can do.
+> Assign is who carries which brick this week. Organize is the structure that makes that call for you every week, so you can work on the next route. The shape of the team decides how much it can do.
 > - Clear ownership: every service, every alert and every customer issue has one team that owns it.
 > - Small teams with few dependencies ship faster than one big team with many.
 > - Few, explicit handoffs: product to engineering, engineering to QA, QA to support.
 > - An on-call rotation that doesn't burn out the same two people.
 > - Just enough process: a weekly plan, a retro, a postmortem. Kill the meetings nobody would miss.
 
-![Slide 31: Automate. The Manager and engineers in hard hats build a long conveyor belt for bricks; the finished half already carries bricks while the rest is still scaffolding. Next to it, the rest of the team keeps carrying bricks by hand.](slides/31.jpg)
+![Slide 31: Automate. Side view of one straight road from the brick factory on the left to the customer site and flag B on the right. Each builder works at the front edge of its road, with the vehicle that uses it behind on the finished part. Left to right: the Manager and two engineers building a conveyor belt at the factory; a heavy truck full of bricks on the pavement; a steamroller at the end of the pavement; a light truck with about 100 bricks on leveled dirt; a bulldozer at the end of the dirt; a wheelbarrow of about 10 bricks on a rough path; a person rolling a rock off the end of the path; and one person carrying a single brick over the rocks to the customer. Everything moves toward the customer.](slides/31.jpg)
 
-> Every hour of toil you remove pays back every week after.
+> Every hour of toil you remove pays back every week after. Each level of technology is roughly 10x the last, and you build the next level while the current one keeps delivering.
 > - The page that costs an hour a week and takes 12 hours to fix pays back in 12 weeks. Fix it.
 > - CI that takes 40 minutes taxes every PR, every day.
 > - Deploys that need a person and a checklist become deploys that need a button.

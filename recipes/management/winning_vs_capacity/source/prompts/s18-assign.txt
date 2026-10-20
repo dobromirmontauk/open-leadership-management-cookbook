@@ -1,0 +1,10 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like on the attached reference sheet: two TALL spiky black hair tufts sticking straight up (hair, not horns), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel, 16:9. At the top left, the hand-lettered title "ASSIGN".
+Bottom half, left: four stick-figure team members stand in a row facing the Manager, each clearly a specialist:
+1. a TRUCK DRIVER: trucker cap, holding a steering wheel and car keys;
+2. a STRONG GUY: huge bulging muscular arms, flexing, a tall stack of bricks balanced on his shoulder;
+3. a LUMBERJACK: plaid shirt, beard, big axe over his shoulder;
+4. a SCOUT: explorer hat, backpack, walking stick and binoculars around the neck.
+Bottom right: the MANAGER faces them, hand on chin, thinking.
+Upper half: a BIG cloud-shaped thought bubble rising from the Manager's head, filling most of the top of the panel. Inside the bubble, a small scene of all four doing their jobs at once along one road: the scout walks ahead through a forest, the lumberjack chops trees to clear the road behind him, the truck driver drives a truck full of bricks down the cleared road, and the strong guy carries a huge stack of bricks. In the bubble, a big bold hand-lettered "10x!" with little burst lines.
+No other text anywhere.

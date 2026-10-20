@@ -1,0 +1,72 @@
+{
+  "v": 4,
+  "attachments": {},
+  "cover": "cover",
+  "createdOnFiles": {
+    "at": "2026-10-19T20:45:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "faces": {
+    "patrick-hand": {
+      "family": "Patrick Hand",
+      "href": "https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap"
+    }
+  },
+  "lists": "css",
+  "order": [
+    "cover",
+    "em-job",
+    "wtf",
+    "simple-title",
+    "the-job",
+    "analogy",
+    "define-win",
+    "day-1",
+    "60834668",
+    "define-cap",
+    "time-pressure",
+    "tension",
+    "how-to-win",
+    "aim",
+    "trim",
+    "scout",
+    "decide",
+    "assign",
+    "steer",
+    "clear-road",
+    "motivate",
+    "fire-drill",
+    "carry",
+    "how-to-cap",
+    "cap-hire",
+    "cap-grow",
+    "cap-delegate",
+    "cap-reward",
+    "cap-prune",
+    "cap-organize",
+    "cap-automate",
+    "cap-cultivate",
+    "cap-ally",
+    "cap-fund"
+  ],
+  "sections": {
+    "s1": {
+      "description": "The boring version",
+      "start": "cover"
+    },
+    "s2": {
+      "description": "A stupidly simple analogy",
+      "start": "simple-title"
+    },
+    "s3": {
+      "description": "How to win: the ten buckets",
+      "start": "how-to-win"
+    },
+    "s4": {
+      "description": "How to increase capacity: the ten buckets",
+      "start": "how-to-cap"
+    }
+  },
+  "title": "Winning, and Increasing the Capacity to Win"
+}
