@@ -4,7 +4,7 @@
 
 Wade Chambers says a manager has two jobs: win, and increase the capacity to win. That sounds like nothing, so this talk makes it concrete with the dumbest possible analogy: moving a huge pile of bricks from A to B. It defines both halves, shows why they fight over every hour of your week, and then walks through ten tools for each.
 
-See also: [Winning](../winning/) and [Increasing the Capacity to Win](../increasing_the_capacity_to_win/) in the Cookbook. The working outline is in [outline.md](outline.md); the slide sources, images and image prompts are in [source/](source/).
+See also: [Winning](../winning/) and [Increasing the Capacity to Win](../increasing_the_capacity_to_win/) in the Cookbook. The working outline is in [outline.md](outline.md); the slide sources, images and image prompts are in [source/](source/). Downloadable versions of the deck (PDF, PowerPoint with speaker notes, and a standalone HTML presentation) are in [export/](export/).
 
 Copyright Dobromir Montauk 2026.
 
