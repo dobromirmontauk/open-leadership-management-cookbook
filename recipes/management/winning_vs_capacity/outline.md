@@ -122,7 +122,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 13. **How to win** · Grid of thumbnails cropped from the ten slides (tools/grid.py), in slide order
     - Comic: Ten square tiles, each a close-up teaser cropped from its slide. Top row: Aim, Trim, Decide, Scout, Assign. Bottom row: Steer, Clear and Protect, Motivate, Rally, Carry.
-    - Text: "HOW TO WIN" / "AIM" "TRIM" "SCOUT" "DECIDE" "ASSIGN" "STEER" "CLEAR & PROTECT" "MOTIVATE" "FIRE DRILL" "CARRY"
+    - Text: "HOW TO WIN" / "AIM" "TRIM" "DECIDE" "SCOUT" "ASSIGN" "STEER" "CLEAR & PROTECT" "MOTIVATE" "RALLY" "CARRY"
     - Notes (talk track, yours): each of these can be a whole course by itself. We lightly touch each one and give examples, so you can pattern-match your activities to the bucket they fall into.
 
 ### Aim
@@ -148,6 +148,18 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
       6. Product scope. The spec said "supports every payment type". The data said 97% of transactions were cards. Launch with cards, a month early; add the next type when a real customer asks.
       7. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
       - Caveat: a trimmed feature still has to be usable. Call phase 1 a partial feature, not GA.
+
+### Decide
+
+16. **Decide** · Comic
+    - Comic: at a fork, two engineers holding bricks argue, one pointing left into a dark forest ("FOREST!"), the other right up the mountains ("MOUNTAINS!"). Between them the Manager calmly points up the mountain road: "MOUNTAINS. GO." Nearby, a big untouched brick pile and four engineers sitting with popcorn, watching instead of working.
+    - Text: "DECIDE" / "FOREST!" / "MOUNTAINS!" / "MOUNTAINS. GO." / "POPCORN"
+    - Notes (talk track): Often you have to make the call before you have enough data. Teams lose days, sometimes weeks, waiting on decisions nobody owns. The cost isn't the two people arguing; it's everyone blocked behind them.
+      - Two senior engineers debate the data model for two weeks while the rest of the team can't start.
+      - A design review ends with "let's take this offline" for the third time.
+      - A PR sits blocked on an architecture argument in the comments.
+      - "Which customer first?" goes unanswered, so people pick their own.
+      - Most technical decisions are reversible. Set a deadline for the decision, hear both sides, make the call, write down why, and revisit if new data shows up. Disagree and commit.
 
 ### Scout
 
@@ -397,15 +409,16 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Text: "SO HAVE FUN!"
     - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
 
-41. **Zoom out** · Comic → Map
+## Parking lot
+
+- **Zoom out** (proposed ending, not in the deck) · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-42. **Turn 1 vs Turn 52** · Map 16 (final)
+- **Turn 1 vs Turn 52** (proposed ending, not in the deck) · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 
-## Parking lot
 - **Unplaced intro slides (not built yet).** Kept from earlier drafts; decide where (or whether) they go:
   13. **The map legend** · Map key
       - Comic: a hand-drawn map key, each icon paired with its software meaning:
