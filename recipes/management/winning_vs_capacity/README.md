@@ -10,15 +10,11 @@ Copyright Dobromir Montauk 2026.
 
 ## Slides
 
-### Slide 1
-
-**Engineering Management 101.** A deliberately boring corporate title slide.
+![Slide 1: Engineering Management 101. A deliberately boring corporate title slide.](slides/01.jpg)
 
 > Deliver it with a completely straight face, like the start of every training you’ve ever sat through. Let the pause run a beat too long.
 
-### Slide 2
-
-**The Job of an Engineering Manager:** 1. Winning. 2. Increasing the Capacity to Win. (Also deliberately boring.)
+![Slide 2: The Job of an Engineering Manager: 1. Winning. 2. Increasing the Capacity to Win. (Also deliberately boring.)](slides/02.jpg)
 
 > Read it flatly. This is literally the whole talk, and it sounds like nothing. Ask the room what it actually means. Wait. Nobody will answer.
 
@@ -276,18 +272,14 @@ Copyright Dobromir Montauk 2026.
 
 > Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
-### Slide 39
-
-**Key Responsibilities: Summary.** Back in the boring corporate template: the twenty buckets as two lists of ten bland corporate bullets, under 1. Winning and 2. Increasing the Capacity to Win.
+![Slide 39: Key Responsibilities: Summary. Back in the boring corporate template: the twenty buckets as two lists of ten bland corporate bullets, under 1. Winning and 2. Increasing the Capacity to Win.](slides/39.jpg)
 
 > Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
 
-### Slide 40
-
-**Key Takeaway:** Your job is to deliver, regardless of the chaos. (Corporate template.)
+![Slide 40: Key Takeaway: Your job is to deliver, regardless of the chaos. (Corporate template.)](slides/40.jpg)
 
 > Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
-![Slide 41: Mashgin logo](slides/41.jpg)
+![Slide 41: The Key Takeaway slide from a moment ago is ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up, with a speech bubble above: SO HAVE FUN!](slides/41.jpg)
 
 > Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
