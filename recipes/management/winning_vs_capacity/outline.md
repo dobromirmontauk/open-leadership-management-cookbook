@@ -412,7 +412,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Notes (talk track): Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
 41. **So have fun!** · Comic
-    - Comic: The real Key Takeaway slide (40), rendered and then ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
+    - Built as an exact copy of the Key Takeaway slide (40) with two transparent PNG overlays on top (a speech bubble, and the torn hole with the Manager), so the slide underneath is guaranteed identical. Overlays were generated on chroma-key green and keyed out with tools/chroma_key.py.
+    - Comic: the stick-figure Manager bursts through a jagged hole in the slide like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
     - Text: "SO HAVE FUN!"
     - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
 
