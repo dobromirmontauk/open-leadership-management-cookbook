@@ -48,7 +48,8 @@
     "cap-automate",
     "cap-cultivate",
     "cap-ally",
-    "cap-fund"
+    "cap-fund",
+    "reality"
   ],
   "sections": {
     "s1": {
@@ -66,6 +67,10 @@
     "s4": {
       "description": "How to increase capacity: the ten buckets",
       "start": "how-to-cap"
+    },
+    "s5": {
+      "description": "Closing",
+      "start": "reality"
     }
   },
   "title": "Winning, and Increasing the Capacity to Win"

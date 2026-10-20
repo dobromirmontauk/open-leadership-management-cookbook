@@ -1,0 +1,14 @@
+xkcd-style hand-drawn chart, pure black ink line art on plain white, no gray, no shading. Wide 16:9. Fill the whole image with the chart; no border, no frame, no people.
+At the top left, the large hand-lettered title REALITY.
+A line chart: vertical axis labeled MoBs LEFT, horizontal axis labeled WEEKS with an arrow. A vertical RED line at about 85% of the width, labeled DEADLINE in red at its top.
+1. A thin DOTTED line labeled THE PLAN: a smooth curve from the top-left down to zero just before the deadline.
+2. A BOLD black line labeled REALITY: it starts at the same top-left point but is jagged and chaotic. It has sudden UPWARD jumps, flat stalls and steep drops, wanders above the plan for most of the chart, and finally plunges steeply to reach ZERO just before the red deadline line.
+Seven numbered events along the bold line, each a small circled number on the line with a short two-line hand-lettered note next to it (first line the event, second line starting with an arrow is the fix). Exactly these words, all caps, legible:
+(1) on an upward jump: SCOPE BALLOONS / → TRIM
+(2) at a sharp bend where the line flattens: TECH LEAD QUITS / → DELEGATE
+(3) on a steep drop: BIG HIRE LANDS / → GROW
+(4) on another upward jump: NEW FLAG: CUSTOMER C / → DECIDE: B FIRST
+(5) on a flat stall: P0 OUTAGE / → RALLY
+(6) on a steep drop: NEW HIGHWAY: PLATFORM API / → ALLY
+(7) on the final plunge: CI 40 → 8 MIN / → AUTOMATE
+Keep every note fully inside the image and not overlapping lines. Red is used ONLY for the DEADLINE line and its label. All lettering large, clean and legible. No other text.

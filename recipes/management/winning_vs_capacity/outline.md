@@ -381,11 +381,21 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Close
 
-35. **Zoom out** · Comic → Map
+35. **Reality** · Chart (full page)
+    - Chart: remaining MoBs over weeks, red DEADLINE line. Dotted THE PLAN glides smoothly to zero. Bold REALITY zigzags through seven numbered events, each with its fix: (1) scope balloons → Trim; (2) tech lead quits → Delegate; (3) big hire lands → Grow; (4) new flag, customer C → Decide: B first; (5) P0 outage → Rally; (6) new highway, platform API → Ally; (7) CI 40 → 8 min → Automate. It plunges to zero just before the deadline.
+    - Text: "REALITY"
+    - Notes (talk track): That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two.
+      - Scope grows: the customer's "small change" turns out to need a migration.
+      - Capacity drops: the tech lead resigns, two people are out on parental leave, half the team gets pulled into an outage.
+      - The goal moves: a second big customer signs and wants their launch first.
+      - And sometimes you get lucky: the senior hire you chased for months accepts, or the platform team ships the API that deletes a quarter of your work.
+      - Every one of these is a bucket you already know. The job isn't making the plan. It's noticing the change this week, picking the right bucket, and re-planning, every week, until you're done.
+
+36. **Zoom out** · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-36. **Turn 1 vs Turn 52** · Map 16 (final)
+37. **Turn 1 vs Turn 52** · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 

@@ -259,3 +259,12 @@ Copyright Dobromir Montauk 2026.
 > - Ask for the truck with a business case: what it costs, what it unlocks, when it pays back.
 > - Start small and earn more: a two-day draft, reviewed together, then sharpen the numbers.
 > Every yes from the CEO is spent from trust you built earlier.
+
+![Slide 35: Reality. A full-page hand-drawn chart of remaining MoBs over weeks, with a red DEADLINE line near the right. A smooth dotted line, THE PLAN, glides down to zero before the deadline. The bold REALITY line starts at the same point but zigzags: seven numbered events, each with its fix. 1, scope balloons, fix: trim. 2, tech lead quits, fix: delegate. 3, big hire lands, fix: grow. 4, new flag, customer C, fix: decide, B first. 5, P0 outage, fix: rally. 6, new highway, platform API, fix: ally. 7, CI from 40 to 8 minutes, fix: automate. The bold line finally plunges to zero just before the deadline.](slides/35.jpg)
+
+> That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two.
+> - Scope grows: the customer's "small change" turns out to need a migration.
+> - Capacity drops: the tech lead resigns, two people are out on parental leave, half the team gets pulled into an outage.
+> - The goal moves: a second big customer signs and wants their launch first.
+> - And sometimes you get lucky: the senior hire you chased for months accepts, or the platform team ships the API that deletes a quarter of your work.
+> Every one of these is a bucket you already know. The job isn't making the plan. It's noticing the change this week, picking the right bucket, and re-planning, every week, until you're done.
