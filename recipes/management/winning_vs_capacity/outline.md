@@ -398,7 +398,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 38. **Project status (corporate)** · Corporate template + chart
     - Same template as slides 1–2. Title: "Project Status: H1 Delivery Burndown". Subtitle: "Board: ENG-CORE · Sprints 1–13 · Estimation: Story Points".
-    - Chart: the exact same project data as slide 37, drawn as a bland Jira burndown: gray straight Guideline, red stepped Remaining Values, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
+    - Chart: the exact same project data as slide 37, drawn as a bland Jira burndown: gray straight Guideline, blue stepped Total Scope, red stepped Remaining Values, green stepped Velocity (Story Points / Day) on a right axis, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
     - Notes (talk track): Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
 39. **Key Responsibilities: Summary (corporate)** · Corporate template

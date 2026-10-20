@@ -272,7 +272,7 @@ Copyright Dobromir Montauk 2026.
 
 > Reality is incredibly messy: unpredictable things happen all the time. Your job, in a nutshell, is to deliver despite the chaos. Try to enjoy it.
 
-![Slide 38: A bland Jira-style burndown chart: story points from 05 Jan to early July. A thin gray Guideline runs straight from 9,000 to zero. A red stepped Remaining Values line jumps up twice, in February and April, then falls and reaches zero at the end. Pale gray bars mark non-working days. Legend at the bottom: Guideline, Remaining Values.](slides/38.jpg)
+![Slide 38: A bland Jira-style burndown chart: story points from 05 Jan to early July. A thin gray Guideline runs straight from 9,000 to zero. A blue stepped Total Scope line jumps up twice, in February and April, is cut back each time, and drops again at the very end. A red stepped Remaining Values line jumps with it, then falls and reaches zero at the end. On a right axis, a green stepped Velocity line, in story points per day, dips twice and climbs from 30 to 155. Pale gray bars mark non-working days. Legend at the bottom: Guideline, Total Scope, Remaining Values, Velocity (Story Points / Day).](slides/38.jpg)
 
 > Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
