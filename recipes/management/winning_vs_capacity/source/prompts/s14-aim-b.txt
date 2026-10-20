@@ -1,0 +1,6 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. Redraw the attached comic with the SAME characters, art style, wall, holes, footprints and customer. Pure black line art on white. Fix the layout so the story reads left to right:
+- The engineers, the Manager and the brick wall stay on the left, next to the empty hole with the sign "B (MONDAY)".
+- The footprints leave the Monday hole and go to a hole in the LOWER MIDDLE-RIGHT with the sign "B (TUESDAY)".
+- From there they continue to a hole in the UPPER RIGHT, closer to the horizon, with the sign "B (WEDNESDAY)".
+- From there they continue up to the far upper-right corner, where the tiny customer in a baseball cap walks away whistling, carrying the "B" flag.
+Remove the word "AIM" and the frame border. Leave the top 12% empty white. No other text.

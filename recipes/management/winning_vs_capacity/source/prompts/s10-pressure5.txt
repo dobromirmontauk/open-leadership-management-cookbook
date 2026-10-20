@@ -1,0 +1,4 @@
+Redraw the first attached image EXACTLY: same room, same chart, same people and poses. Pure black line art on white; the red DEADLINE line and label stay the only color. Change only three things:
+1. The MANAGER standing in front of the screen must have his signature hair exactly like the MANAGER on the second attached reference sheet: two tall pointy black horn-like hair tufts sticking up from the top of his round head. Keep his worried sweaty grin, tie, clipboard and pointer.
+2. Remove the small numbers "1", "2" and "3" from inside the chart.
+3. The pointer tip touches the chart line, not the axis label; the vertical axis label "REMAINING MoBs" is fully readable.

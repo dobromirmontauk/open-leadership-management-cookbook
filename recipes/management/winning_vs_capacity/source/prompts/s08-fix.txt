@@ -1,0 +1,1 @@
+Redraw the attached image EXACTLY: same room, same people, same poses, same screen sketch, pure black line art on white. Change only the small lettering at the bottom of the projector screen: it must now read exactly "*DISCOUNTED BY HOW FAR IN THE FUTURE". Everything else stays identical.

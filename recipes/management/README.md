@@ -1,6 +1,7 @@
 # Table of Contents
 1. [Increasing the Capacity To Win✅](increasing_the_capacity_to_win/): techniques to improve your team performance. Some good content here now.
-1. [Winning⚠️](winning/): how to ensure your team is delivering results _now_. Just notes for now. 
+1. [Winning⚠️](winning/): how to ensure your team is delivering results _now_. Just notes for now.
+1. [Winning vs Capacity (talk)](winning_vs_capacity/): a stick-figure talk on both halves of the job, with ten tools for each. 
 
 # 'Winning' vs 'Increasing the Capacity to Win'
 This phrasing comes from [Wade Chambers'](https://youtu.be/nELJ8pDpjYw?si=e2h9d58cpNkiLFnk&t=1571) famous talk on the engineering management career path. In his words, a manager's job is to win, and to increase the capacity to win, and everything else is _how you do one of those two things._
