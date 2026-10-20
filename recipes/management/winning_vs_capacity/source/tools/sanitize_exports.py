@@ -17,18 +17,23 @@ for s in p.slides:
     if s.has_notes_slide:
         tf=s.notes_slide.notes_text_frame; old=tf.text; new=fix(old)
         if new!=old: tf.text=new
-ids=p.slides._sldIdLst; last=ids[-1]
-assert 'TODO' in ''.join(sh.text_frame.text for sh in p.slides[-1].shapes if sh.has_text_frame)
-p.part.drop_rel(last.rId); ids.remove(last)
+# drop the TODO slide and everything after it (the export appends slides that are not in the order)
+txt=lambda s:''.join(sh.text_frame.text for sh in s.shapes if sh.has_text_frame)
+k=next(i for i,s in enumerate(p.slides) if txt(s).startswith('TODO'))
+ids=p.slides._sldIdLst
+for sid in list(ids)[k:]: p.part.drop_rel(sid.rId); ids.remove(sid)
+KEEP=k
 p.save(f'{OUT}/{NAME}.pptx')
 for s in Presentation(f'{OUT}/{NAME}.pptx').slides:
     if s.has_notes_slide: assert not BAD.search(s.notes_slide.notes_text_frame.text)
 # HTML
 h=open(f'{DL}/{NAME}.html',encoding='utf-8').read()
 h=re.sub(r'data-speaker-notes="([^"]*)"',lambda m:'data-speaker-notes="'+fix(m.group(1))+'"',h)
-a=h.index('<section class="deck-slide" id="42"'); b=h.index('</section>',a)+len('</section>')
-h=h[:a]+h[b:]
-h=h.replace(' of 42"',' of 41"')
+N=len(re.findall(r'<section class="deck-slide" id="',h))
+for i in range(N,KEEP,-1):
+    a=h.index('<section class="deck-slide" id="%d"'%i); b=h.index('</section>',a)+len('</section>')
+    h=h[:a]+h[b:]
+h=h.replace(' of %d"'%N,' of %d"'%KEEP)
 for m in re.finditer(r'data-speaker-notes="([^"]*)"',h): assert not BAD.search(m.group(1)),m.group(1)[:80]
 assert 'TODO (not in the talk yet)' not in h
 open(f'{OUT}/{NAME}.html','w',encoding='utf-8').write(h)
