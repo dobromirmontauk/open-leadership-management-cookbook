@@ -345,13 +345,14 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Cultivate
 
 32. **Cultivate** · Comic
-    - Comic: The Manager walks off down the road with a suitcase, waving goodbye. Behind him, unwatched, the team keeps building a neat, straight wall: one checks it with a level, one helps lift a heavy brick, one pulls out a crooked brick to redo it. A young tree grows beside the wall.
+    - Comic: Side view, three repairs in a row, each bigger than the last. The Manager fits a new wheel on a broken wheelbarrow; an engineer changes a light truck's flat tire while watching him; a second engineer fixes a heavy truck's engine while watching the first engineer. Dashed sight lines show who is copying whom.
     - Text: "CULTIVATE"
-    - Notes (talk track): Culture is what happens when you're not in the room.
-      - Define it in a few words people can act on, like "Rigorously Get Shit Done": rigor, and done means the customer's problem is solved.
-      - Reward what you say you value. If you say quality but celebrate only speed, the team learns speed.
-      - Model it: the postmortem without blame starts with your own mistake.
-      - Hire and fire by it. Who you let in, and who you let stay, is the culture.
+    - Notes (talk track): Culture is what people copy. Your team copies what you do, not what you say, and the next hire copies them, long after they've stopped watching you.
+      - You break prod: you write the postmortem, and it starts with your own mistake. Six months later, a junior engineer opens theirs the same way.
+      - You fix the flaky test instead of hitting re-run. Your tech lead stops re-running, and so does the new hire.
+      - You review PRs within a day, with a real comment, not just LGTM. That becomes the team's review bar.
+      - You say "I don't know, let me find out" in a design review. People stop bluffing.
+      - Then make it explicit: a few words people can act on, like "Rigorously Get Shit Done". Reward what you say you value; if you say quality but celebrate only speed, the team copies speed. Hire and fire by it.
       - It's slow to build and fast to lose.
 
 ### Ally

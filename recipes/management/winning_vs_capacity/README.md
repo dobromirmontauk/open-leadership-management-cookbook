@@ -232,13 +232,14 @@ Copyright Dobromir Montauk 2026.
 > - AI agents on the repetitive work: test writing, migrations, triage.
 > Build it while you keep shipping. Stop delivering to build the perfect tool, and you lose the week and the trust.
 
-![Slide 32: Cultivate. The Manager walks off down the road with a suitcase, waving goodbye. Behind him, unwatched, the team keeps building a neat, straight wall: one checks it with a level, one helps lift a heavy brick, one pulls out a crooked brick to redo it. A young tree grows beside the wall.](slides/32.jpg)
+![Slide 32: Cultivate. Side view, three repairs in a row, each bigger than the last. On the left, the Manager kneels and fits a new wheel on a broken wheelbarrow. In the middle, an engineer changes the flat tire of a light truck, watching the Manager (a dashed sight line runs to him). On the right, a second engineer on a step stool fixes the engine of a heavy truck, watching the middle engineer (a dashed sight line runs to him).](slides/32.jpg)
 
-> Culture is what happens when you're not in the room.
-> - Define it in a few words people can act on, like "Rigorously Get Shit Done": rigor, and done means the customer's problem is solved.
-> - Reward what you say you value. If you say quality but celebrate only speed, the team learns speed.
-> - Model it: the postmortem without blame starts with your own mistake.
-> - Hire and fire by it. Who you let in, and who you let stay, is the culture.
+> Culture is what people copy. Your team copies what you do, not what you say, and the next hire copies them, long after they've stopped watching you.
+> - You break prod: you write the postmortem, and it starts with your own mistake. Six months later, a junior engineer opens theirs the same way.
+> - You fix the flaky test instead of hitting re-run. Your tech lead stops re-running, and so does the new hire.
+> - You review PRs within a day, with a real comment, not just LGTM. That becomes the team's review bar.
+> - You say "I don't know, let me find out" in a design review. People stop bluffing.
+> Then make it explicit: a few words people can act on, like "Rigorously Get Shit Done". Reward what you say you value; if you say quality but celebrate only speed, the team copies speed. Hire and fire by it.
 > It's slow to build and fast to lose.
 
 ![Slide 33: Ally. At a crossroads between our brick yard and a neighboring town, the Manager shakes hands with the town's leader, who wears a hat. The neighbor's truck, loaded with our bricks, drives along their highway toward flag B.](slides/33.jpg)
