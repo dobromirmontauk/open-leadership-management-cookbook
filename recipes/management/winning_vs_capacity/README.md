@@ -18,17 +18,17 @@ Copyright Dobromir Montauk 2026.
 
 > Read it flatly. This is literally the whole talk, and it sounds like nothing. Ask the room what it actually means. Wait. Nobody will answer.
 
-![Slide 3: Stick-figure seminar: one audience member asleep, one on a phone, one with a big question mark, while the pointy-haired Manager points at a dull slide titled Winning and Capacity](slides/03.jpg)
+![Slide 3: Stick-figure seminar: one audience member asleep, one on a phone, one with a big question mark, while the smirking Manager, holding a clipboard, points at a dull screen titled WINNING & CAPACITY above scribbled text](slides/03.jpg)
 
 > Admit it: I wrote that slide and I’m not sure either. “Winning” and “capacity” are words we nod along to in meetings. By the end of this, you should be able to use them to make a decision on Monday.
 
-![Slide 4: Hand-lettered title Stupid Simple Analogy surrounded by hand-drawn bricks](slides/04.jpg)
+![Slide 4: Hand-lettered title STUPID SIMPLE ANALOGY surrounded by hand-drawn bricks](slides/04.jpg)
 
 > A stupid simple analogy. Let’s make it concrete with the simplest job imaginable: bricks. 
 >
 > (yes, because it is so stupid-simple, it won't map 1:1 with our jobs. That shouldn't prevent you from getting the lessons)
 
-![Slide 5: The CEO hands the Manager a note reading Move the bricks to B; the Manager sweats and gulps next to the giant brick pile marked A](slides/05.jpg)
+![Slide 5: The smiling CEO hands the Manager a note; his speech bubble shows a note reading MOVE THE BRICKS TO B. The Manager, holding a clipboard, sweats and says GULP next to the giant brick pile marked A](slides/05.jpg)
 
 > Every EM gets some version of this note, usually with less detail. You have to build the team, and the technology, to get it done. Why bricks? Shipping features isn’t that different: units of value, hauled to a customer who’s waiting at the other end.
 
@@ -36,35 +36,35 @@ Copyright Dobromir Montauk 2026.
 
 > Notice what nobody told you: how big B is, how far away, or what’s in between. Every one of those unknowns is going to bite us later. Hold that thought.
 
-![Slide 7: Same seminar room, now everyone is paying attention: the Manager points at a screen reading Winning: how many times how far, with a sketch of three people carrying bricks from a pile to a flag](slides/07.jpg)
+![Slide 7: Same seminar room, now everyone is paying attention: one takes notes and one has a light bulb over his head. The grinning Manager points at a screen reading WINNING, HOW MANY × HOW FAR, with a sketch of three people carrying bricks from a pile to a flag](slides/07.jpg)
 
 > A win is one turn: one week of engineering. Both factors matter. A thousand bricks moved sideways scores zero; one brick delivered all the way counts. Ask the room: by this measure, what did your team win last week?
 
-![Slide 8: Day 1: nice start! The Manager, sweating, gives a thumbs up next to a stack of 3 bricks moved 10 meters from pile A; B is still far away. Caption: +3 bricks × 10m = 30 MoBs (meters of bricks)](slides/08.jpg)
+![Slide 8: DAY 1: NICE START! The Manager, sweating, wipes his brow and gives a thumbs up next to a stack of 3 bricks moved 10M from pile A; flag B is still far away. Caption: +3 BRICKS × 10M = 30 MoBs (METERS OF BRICKS)](slides/08.jpg)
 
 > Celebrate it: it’s a real, measurable win. Then do the math out loud. How many bricks are in that pile? How far is B? Let the room get a little uneasy.
 
-![Slide 9: Seminar room, everyone sweating: the screen titled Time Pressure shows a straight burn-down of remaining MoBs at 30 MoBs per day, reaching zero at 300 days, well past the red deadline line](slides/09.jpg)
+![Slide 9: Seminar room, everyone sweating and anxious; the Manager grits his teeth, his pointer shaking. The screen titled TIME PRESSURE shows a straight burn-down of REMAINING MoBs at 30 MoBs/DAY, reaching zero at 300 DAYS, well past the red DEADLINE line marked with a red exclamation point](slides/09.jpg)
 
 > If ALL the bricks don’t arrive by date X, all that winning is worthless. Keep Day 1’s pace forever and we finish in 300 days; the deadline is months before that. This is the moment winning alone stops being enough.
 
-![Slide 10: Same seminar room: the Manager points at a screen reading Increasing capacity, value equals impact over (1 + r) to the power of time, above a time arrow with a wheelbarrow of bricks (2×), a truck of bricks (50×) and a faint dashed rocket full of bricks (10,000×)](slides/10.jpg)
+![Slide 10: Same seminar room: the grinning Manager points at a screen reading INCREASING CAPACITY, VALUE = IMPACT over (1 + r) to the power of TIME, above a TIME arrow with a wheelbarrow of bricks (2×), a truck of bricks (50×) and a faint dashed rocket full of bricks with a question mark (10,000×)](slides/10.jpg)
 
 > Capacity is everything that doesn’t move a brick this week but lets you move more later: tools, roads, people, skills. Why discount? Because the future is uncertain. The truck might take two years; the Starship may never fly. With any real discount rate, the moonshot has to be enormously bigger to beat the wheelbarrow. The skill isn’t picking the biggest number; it’s picking the best impact for the time.
 
-![Slide 11: Same seminar room, now mostly relieved: the screen titled Time Pressure shows capacity and number of bricks curving up exponentially while remaining MoBs curves down faster and faster, reaching zero just before the red deadline line, labeled Just made it](slides/11.jpg)
+![Slide 11: Same seminar room, now relieved: one audience member sighs PHEW, one slumps, one pumps a fist, and the Manager laughs while wiping his sweaty brow. The screen titled TIME PRESSURE shows CAPACITY and # OF BRICKS curving up exponentially while REMAINING MoBs curves down faster and faster, reaching zero right at the red DEADLINE line, labeled JUST MADE IT!](slides/11.jpg)
 
 > Same deadline, same pile. What changed is capacity: better tools, more people, more bricks per trip, and it compounds. That’s how you beat a deadline you can’t beat at today’s pace. But “just made it” isn’t comfortable: one more surprise and we’re back on the scary slide.
 
-![Slide 12: These are in tension! The Manager scratches his head at a whiteboard with two columns. Win: carry bricks, clear the road, unblock a teammate, check in with customer. Increase capacity: interview a hire, train the new guy, build a wheelbarrow, career 1:1. A wall clock shows 4 o’clock; he thinks: one hour...](slides/12.jpg)
+![Slide 12: THESE ARE IN TENSION! The Manager, marker in hand, scratches his head at a whiteboard with two columns. WIN: CARRY BRICKS, CLEAR THE ROAD, UNBLOCK A TEAMMATE, CHECK IN WITH CUSTOMER. INCREASE CAPACITY: INTERVIEW A HIRE, TRAIN THE NEW GUY, BUILD A WHEELBARROW, CAREER 1:1. A ticking wall clock shows 4 o’clock; he thinks: ONE HOUR...](slides/12.jpg)
 
 > There’s no answer that’s always right. Some days the bricks have to move. Some days the best thing you can do is train the new guy. Every hour on one side is an hour not spent on the other. The rest of this talk is about making that call well, every hour, every day.
 
-![Slide 13: How to win: ten tiles with the Manager. Aim: holding up a picture of a finished brick house next to flag B. Trim: cutting the brick pile in half with giant scissors. Scout: binoculars at a fog bank. Decide: pointing down one fork of the road. Assign: handing out a hard hat while three engineers swarm a huge brick. Steer: pointing a wheelbarrow toward flag B, with flags C and D in the distance. Clear & Protect: chopping a fallen trunk off the road while bandits drag an engineer into the forest beh](slides/13.jpg)
+![Slide 13: How to win: ten square tiles, each a close-up teaser cropped from its slide. Top row: Aim, Trim, Decide, Scout, Assign. Bottom row: Steer, Clear and Protect, Motivate, Rally, Carry.](slides/13.jpg)
 
 > Each of these can be a whole course by itself. We're just going to lightly touch each one & give some examples so you can pattern match your activities to the bucket they fall into.
 
-![Slide 14: Aim. The team happily carries bricks to the right, toward an empty hole signed B (Monday). Footprints from that hole make a big U-turn: up past B (Tuesday) and B (Wednesday), then all the way back left, where the customer is planting the real B flag behind the team. A doodle up top: a solid arrow right, WHAT WE CARRIED; a dashed arrow left, TO THE REAL B; MoBs THAT COUNT: < 0.](slides/14.jpg)
+![Slide 14: Aim. A field seen from the side. Pile A of bricks on the left. Three old flags still stand across the field, each crossed out with a big X and labeled B (MON), B (TUE) and B (WED), each with a small stack of bricks the team delivered there for nothing. Footprints lead from A to the first flag, and from A to the second and on to the third. There the Manager points to the right, where the customer in a knit beanie is planting the real flag B on empty ground; three engineers holding bricks look on, surprised.](slides/14.jpg)
 
 > Goals move all of the time, for lots of different reasons. The work your team is does only matters if it takes you *in the direction of the goal* -- so even if you are a little off-track, you are wasting effort. Figuring out what is the actual goal will help THIS WEEK's work be maximally productive.
 >
@@ -76,38 +76,38 @@ Copyright Dobromir Montauk 2026.
 > 6. Gold-plating the prototype. A spike meant to answer "will this work?" gets tests, a CI pipeline and a nice UI. Then the answer comes back no.
 > 7. The right feature for the wrong user. A powerful configuration screen gets built for admins, but the people who actually hit the problem are front-line staff, who never open that screen.
 
-![Slide 15: Trim. Right: the customer's bubble shows a huge fairy-tale castle; the Manager answers with a bubble showing a small simple house. Left: two engineers kneel, assembling a wheelbarrow from parts and a blueprint next to an untouched brick pile, while the same Manager says Just carry the damn bricks.](slides/15.jpg)
+![Slide 15: Trim. Right: the customer, in a cap, has a bubble showing a huge fairy-tale castle; the unimpressed Manager answers with a bubble showing a small simple house. Left: two engineers kneel, assembling a wheelbarrow from parts and a blueprint next to an untouched brick pile, while the same Manager, angry, hands on hips, says JUST CARRY THE DAMN BRICKS.](slides/15.jpg)
 
-> Two kinds of scope to cut. Product scope: what the customer asked for vs. what they actually need this quarter. Approach scope: the framework, the platform or the automation we would love to build first. Building tools is capacity, not winning, so do it on purpose, not by accident.
+> Two kinds of scope to cut. On the left, approach scope: the framework, the platform or the automation we would love to build first. Building tools is capacity, not winning, so do it on purpose, not by accident. On the right, product scope: the castle the customer asked for vs. the house they actually need this quarter.
 >
 > Examples:
-> 1. Product scope. The customer asked for a full analytics dashboard: filters, charts, scheduled emails. The question "what decision is this for?" turned up one weekly number for the CFO. A nightly CSV export shipped in two days.
-> 2. Product scope. The spec said "supports every payment type". The data said 97% of transactions were cards. Launch with cards, a month early; add the next type when a real customer asks.
-> 3. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
-> 4. Approach scope. A request for one flag on one machine turned into a design for tiered config with merge rules and a new admin UI. Someone asked, "any objection to the hackiest possible approach?" A one-off override solved it that day.
-> 5. Approach scope. An engineer wanted a generic plugin system first, so integrations would be "easy forever". There was one integration on the roadmap. Hard-code it; build the abstraction from three real examples later, not zero.
-> 6. Approach scope. Support wanted an edge case automated before launch. How often does it happen? About once a week. Keep it manual for now, and launch.
-> 7. The other side. A simple database index was suggested early and passed over because the tests weren't representative. Seven weeks later, under production load, the same index took the query from 4.5 s to 0.7 s.
+> 1. Approach scope. A request for one flag on one machine turned into a design for tiered config with merge rules and a new admin UI. Someone asked, "any objection to the hackiest possible approach?" A one-off override solved it that day.
+> 2. Approach scope. An engineer wanted a generic plugin system first, so integrations would be "easy forever". There was one integration on the roadmap. Hard-code it; build the abstraction from three real examples later, not zero.
+> 3. Approach scope. Support wanted an edge case automated before launch. How often does it happen? About once a week. Keep it manual for now, and launch.
+> 4. The other side. A simple database index was suggested early and passed over because the tests weren't representative. Seven weeks later, under production load, the same index took the query from 4.5 s to 0.7 s.
+> 5. Product scope. The customer asked for a full analytics dashboard: filters, charts, scheduled emails. The question "what decision is this for?" turned up one weekly number for the CFO. A nightly CSV export shipped in two days.
+> 6. Product scope. The spec said "supports every payment type". The data said 97% of transactions were cards. Launch with cards, a month early; add the next type when a real customer asks.
+> 7. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
 >
 > Caveat: a trimmed feature still has to be usable. Phase 1 can be manual, but call it a partial feature, not GA. "Done" means what the customer expects.
 
-![Slide 16: Scout. A hand-drawn top-down map of a forest. Three roads start at the bottom middle: the left one winds into the mountains and ends at an X; the middle one goes straight up and ends at an X; the right one loops around, crosses the river on a small bridge and reaches flag B at the top. At the fork the Manager points up the right road, This way!, and a line of engineers carries bricks along it.](slides/16.jpg)
+![Slide 16: Decide. At a fork in the road, two engineers holding bricks argue: one points left into a dark forest, FOREST!, the other right up the mountains, MOUNTAINS! Between them the Manager calmly points up the mountain road: MOUNTAINS. GO. Nearby, a big untouched pile of bricks, and four engineers sitting on the ground eating popcorn, watching the argument instead of working.](slides/16.jpg)
 
-> Before you commit the team for a month, spend a few days finding out which approach dead-ends.
-> - Spike the vendor or POS API for two days before promising the integration date: auth quirks, rate limits, missing endpoints.
-> - Prototype the hard part first (latency, the hardware constraint, the model accuracy), not the easy UI.
-> - Ask who tried this before. The team that attempted it last year knows where it broke.
-> - Read the customer's actual setup (network, hardware, existing POS) before estimating.
-> Send one engineer for a few days, not the whole team for a sprint. The obvious approach is often the one nobody has taken end to end.
-
-![Slide 17: Decide. At a fork in the road, two engineers holding bricks argue: one points left into a dark forest, FOREST!, the other right up the mountains, MOUNTAINS! Between them the Manager calmly points up the mountain road: MOUNTAINS. GO. Nearby, a big untouched pile of bricks, and four engineers sitting on the ground eating popcorn, watching the argument instead of working.](slides/17.jpg)
-
-> Teams lose days, sometimes weeks, waiting on decisions nobody owns. The cost isn't the two people arguing; it's everyone blocked behind them.
+> Often you have to make the call before you have enough data. Teams lose days, sometimes weeks, waiting on decisions nobody owns. The cost isn't the two people arguing; it's everyone blocked behind them.
 > - Two senior engineers debate the data model for two weeks while the rest of the team can't start.
 > - A design review ends with "let's take this offline" for the third time.
 > - A PR sits blocked on an architecture argument in the comments.
 > - "Which customer first?" goes unanswered, so people pick their own.
 > Most technical decisions are reversible. Set a deadline for the decision, hear both sides, make the call, write down why, and revisit if new data shows up. Disagree and commit.
+
+![Slide 17: Scout. A hand-drawn top-down map of a forest. Three roads start at the bottom middle: the left one winds toward the mountains and ends at an X; the middle one goes straight up and ends at an X; the right one loops around, crosses the river on a small bridge and reaches flag B at the top. At the fork the smirking Manager points up the right road, THIS WAY!, and a line of engineers carries bricks along it.](slides/17.jpg)
+
+> On the last slide we picked the mountains with no data. A scout would have found that dead end in two days. Scouting ahead is more work up front, but it's cheaper than committing the whole team to the wrong road for a month.
+> - Spike the vendor or POS API for two days before promising the integration date: auth quirks, rate limits, missing endpoints.
+> - Prototype the hard part first (latency, the hardware constraint, the model accuracy), not the easy UI.
+> - Ask who tried this before. The team that attempted it last year knows where it broke.
+> - Read the customer's actual setup (network, hardware, existing POS) before estimating.
+> Send one engineer for a few days, not the whole team for a sprint. The obvious approach is often the one nobody has taken end to end.
 
 ![Slide 18: Assign. Four specialists stand in a row: a truck driver with a steering wheel and keys, a strong guy flexing with a tall stack of bricks on his shoulder, a bearded lumberjack with an axe, and a scout with a hat, backpack and walking stick. The Manager faces them, hand on chin. His big thought bubble shows them all at work on one road: the scout leads through the forest, the lumberjack clears trees, the truck drives a load of bricks, the strong guy carries a huge stack. In the bubble: 10x!](slides/18.jpg)
 
@@ -118,7 +118,7 @@ Copyright Dobromir Montauk 2026.
 > - Watch for assigning by "who's free" instead of "who's best for this".
 > When one task blocks everything (the release, the P0 bug), swarm it. The tradeoff: always picking the expert creates hero dependency. Spreading knowledge is capacity, and it comes later in the talk.
 
-![Slide 19: Steer. Three flags in the distance, B, C and D, each with a customer yelling: 100 MONDAY! at B, 50 FRIDAY! at C, 10 TUESDAY! at D. In front, the Manager stands where three paths fan out, arms spread: one points an engineer pushing a wheelbarrow full of bricks toward B, the other points an engineer carrying a small stack of 10 bricks toward D. The path to C is empty for now.](slides/19.jpg)
+![Slide 19: Steer. Three flags in the distance, B, C and D, each with a customer in a cap yelling: 100 MONDAY! at B, 50 FRIDAY! at C, 10 TUESDAY! at D. In front, the calm Manager stands where three paths fan out, arms spread: one hand points an engineer pushing a wheelbarrow full of bricks toward B, the other points an engineer carrying a small stack of bricks toward D. The path to C is empty for now.](slides/19.jpg)
 
 > Three customers, three deadlines, and each one is sure they're the priority. Your job is to turn the noise into an order: value, deadline, size.
 > - The big launch due Monday gets most of the team.
@@ -126,14 +126,14 @@ Copyright Dobromir Montauk 2026.
 > - The Friday request waits on purpose, and you tell that customer explicitly, with a date.
 > Spread the team across all three and everything ships late. Re-check mid-week: did priorities change? Did sales promise something new?
 
-![Slide 20: Clear & Protect. The Manager, sweating, chops through a fallen trunk across the road (THWACK!) while two engineers with bricks wait. Behind him, two masked bandits saying Quick favor? and Just 5 min! drag a third engineer, crying Help!, into the forest. Nobody on the road notices.](slides/20.jpg)
+![Slide 20: Clear & Protect. The Manager, sweating, chops through a fallen trunk across the road (THWACK!) while two engineers with bricks wait. Behind him, two masked bandits saying QUICK FAVOR? and JUST 5 MIN! drag a third engineer, crying HELP! and dropping his bricks, into the forest. Nobody on the road notices.](slides/20.jpg)
 
 > Two kinds of obstacles.
 > Blockers you can see: waiting on another team's API, missing access or credentials, a flaky CI pipeline, a decision nobody has made. Chasing these down is visible and feels great.
 > Distractions you don't see: the "quick favor" from sales, the exec who needs "just 5 minutes" every day, an extra interview loop, the side project someone pulled your engineer into. They take your best people one at a time.
 > Ask in 1:1s where their time actually went last week, and compare it to the plan. Then say no on their behalf.
 
-![Slide 21: Motivate. The Manager stands on a crate, arms wide, telling a story; his speech bubble shows a huge fairy-tale castle surrounded by dollar signs and money bags. Two grinning engineers grab bricks from the pile at his feet; three more run to the right, away from him, with bricks in their arms. Far away at the end of the road: a small wooden shack next to flag B.](slides/21.jpg)
+![Slide 21: Motivate. On the right, flag B stands next to a small rickety wooden shack, and the customer, in a knit beanie, looks at it sadly; a dreamy thought bubble above the customer shows a fairy-tale castle. On the left, the Manager, smiling, points toward the customer; his speech bubble holds no words, only a drawing of a solid two-storey brick house with a chimney. Four engineers holding bricks grin, excited; one is already walking toward the shack with a stack of bricks.](slides/21.jpg)
 
 > People work harder on things they understand and care about.
 > - Bring an engineer to a customer site to watch the product being used.
@@ -143,7 +143,7 @@ Copyright Dobromir Montauk 2026.
 > But don't oversell. If the "company-changing" launch turns out to be a pilot at one site, the next pitch lands flat.
 > Overtime lives here too. A short push before a hard deadline can win the week, but it borrows from capacity: burnout, attrition and bugs next sprint.
 
-![Slide 22: Rally. A red alarm bell rings on a small brick factory at the far left: RING! RING! The sweating Manager shouts and waves everyone forward. A single-file line walks left to right toward a big flag B at the far right, each carrying a brick: a secretary with a headset, a dog with a brick in its mouth, a big boss with a cigar looking surprised, an accountant with a calculator, a salesperson and an engineer in a hard hat, who has almost reached B.](slides/22.jpg)
+![Slide 22: Rally. A red alarm bell rings on a small brick building with a chimney and a BRICKS sign at the far left: RING! RING! The sweating Manager shouts and waves everyone forward. A single-file line walks left to right toward a big flag B at the far right: a woman with a headset and glasses, a dog with a brick in its mouth, the CEO in his general's uniform and cape, an accountant holding a calculator, a salesperson in a suit and an engineer in a hard hat. All but the accountant carry a brick.](slides/22.jpg)
 
 > Sometimes the deadline is real and immovable, and the only way to make it is to pull in everyone who can help, not just engineering.
 > - A big customer go-live: PMs run QA test plans, support pre-stages hardware, sales engineers do on-site checks.
@@ -157,12 +157,10 @@ Copyright Dobromir Montauk 2026.
 > What changed: with an AI coding agent, a 30-minute gap between meetings is enough to ship something real.
 > - Write the one-off migration or data-fix script nobody has time for.
 > - Prototype the feature to answer "is this even feasible?" before the planning meeting.
-> - Triage the bug backlog: reproduce, find the root cause, open the PR.
 > - Build the internal dashboard or report that ops has asked for twice.
-> - Review PRs faster, with the agent explaining the diff.
 > The rule that hasn't changed: stay off the critical path. Carry the work that would otherwise never get done, not the work that blocks the team if you disappear for a day.
 
-![Slide 24: How to increase capacity: ten tiles with the Manager. Hire: shaking hands with three new arrivals holding truck keys, a blueprint and an axe. Grow: one engineer goes from carrying a brick to a wheelbarrow to driving a truck. Delegate: handing his megaphone to a new lead with a small crew. Reward: giving an engineer a money bag and a medal. Prune: a line of brick carriers walking past. Organize: three crews in separate lanes of a road, with a MAKE, CARRY, STACK board. Automate: pressing the button on a brick conveyor belt while two engineers high-five. Cultivate: watering a young tree while engineers build a neat wall behind him. Ally: shaking hands with a neighboring town's leader at a crossroads while their truck carries our bricks. Fund: presenting a bar chart to the big boss, who hands over truck keys and a money bag.](slides/24.jpg)
+![Slide 24: How to increase capacity: ten square tiles, each a close-up teaser cropped from its slide. Top row: Hire, Grow, Delegate, Reward, Prune. Bottom row: Organize, Automate, Cultivate, Ally, Fund.](slides/24.jpg)
 
 > Everything on this slide pays off in months or years, not this week, which is why it always loses to this week's fire. Nobody will ask you on Friday why you didn't do a skip-level or fix the on-call rotation. Six months later, everyone will ask why the team is still slow. Block time for these the way you block time for a launch.
 
@@ -175,14 +173,14 @@ Copyright Dobromir Montauk 2026.
 > - Every interview loop costs the team 5–10 engineer-hours. Budget for it.
 > Hiring is slow capacity: it takes 3–6 months before a hire is fully ramped. Start before you're desperate.
 
-![Slide 26: Grow. The same engineer, four times along a road, getting bigger each time: carrying one brick, pushing a wheelbarrow, driving a truck, then drawing a bridge at a drafting table. The Manager walks alongside, handing over the next tool each time.](slides/26.jpg)
+![Slide 26: Grow. The same engineer, four times along a road, getting bigger and happier each time: carrying one brick, pushing a wheelbarrow, driving a truck, then drawing a bridge at a drafting table. The Manager walks alongside, smiling, handing over the next tool each time (the wheelbarrow, truck keys, a pencil), and at the end watches, hand on chin.](slides/26.jpg)
 
 > This could be a whole set of talks. Three parts:
 > 1. Opportunities: give people work one size bigger than their last job. The mid-level engineer leads the next design review; the senior engineer owns the launch.
 > 2. Mentorship: show how to do the job. Do it together first: you run the incident review while they watch, then they run it while you watch.
 > 3. Coaching: support them while they do the job on their own. Weekly 1:1s, feedback within days, and questions instead of answers.
 
-![Slide 27: Delegate. A huge field of brick carriers in tight rows, like a Roman legion, stretches to the horizon. On a small wooden stage in front, the Manager faces the legion, hands cupped, yelling at them as hard as he can; nobody can hear him. Below the stage, one engineer jumps up and down waving a sign: DELEGATE!!](slides/27.jpg)
+![Slide 27: Delegate. A huge field of brick carriers in tight rows, like a Roman legion, stretches to the horizon. On a small wooden stage at the front left, the Manager faces the legion, hands cupped, yelling as hard as he can; the crowd stands blank-faced. Below the stage, one engineer jumps up and down holding up a sign: DELEGATE!!](slides/27.jpg)
 
 > At some point your own hours are the bottleneck. Delegating is how one manager's capacity becomes several.
 > - Tech leads who own the technical calls, so design decisions don't queue behind you.
@@ -200,7 +198,7 @@ Copyright Dobromir Montauk 2026.
 > - Non-money rewards: the interesting project, the conference talk, the promotion case you write for them.
 > Money prevents a no. It rarely creates a yes.
 
-![Slide 29: Prune. At a brick yard, one engineer shrugs, hands in pockets, after dropping a brick on a coworker's foot; the coworker hops in pain: OUCH! The Manager, disappointed, points firmly at a door under an EXIT sign. In the background, others keep carrying bricks.](slides/29.jpg)
+![Slide 29: Prune. At a brick yard, one engineer shrugs, palms up, next to a coworker who clutches his foot in pain beside a dropped brick: OUCH! The Manager, frowning, points firmly at a door under an EXIT sign. In the background, two workers in hard hats keep carrying bricks.](slides/29.jpg)
 
 > Sometimes capacity goes up when someone leaves.
 > - One person who blocks every review, or who the team quietly routes around, slows down everyone near them.
@@ -209,7 +207,7 @@ Copyright Dobromir Montauk 2026.
 > - "Not firing fast enough" is one of the most common regrets of experienced managers.
 > Do it with dignity. The rest of the team is watching how you treat people on the way out.
 
-![Slide 30: Organize. A brick operation running on its own: at a loading dock with a duty board, the nerdy guy loads a truck with a forklift. A signpost points to B ROUTE and C ROUTE; a truck drives each road, and at each flag a strong man unloads at his own station. Nobody is looking at the Manager, who stands at an easel in the foreground sketching a new dashed road toward a faraway flag D, next to a sign reading D ROUTE?](slides/30.jpg)
+![Slide 30: Organize. A brick operation running on its own: at a LOADING DOCK with a DUTY BOARD, the nerdy guy in glasses loads a truck with a forklift. A signpost points to B ROUTE and C ROUTE; a truck drives each road, and at flags B and C a muscular man flexes beside a truck being unloaded. Nobody is looking at the Manager, who stands in the foreground sketching a map on an easel, next to a sign reading D ROUTE? and a dashed path labeled NEW leading to a faraway flag D.](slides/30.jpg)
 
 > Assign is who carries which brick this week. Organize is the structure that makes that call for you every week, so you can work on the next route. The shape of the team decides how much it can do.
 > - Clear ownership: every service, every alert and every customer issue has one team that owns it.
@@ -218,7 +216,7 @@ Copyright Dobromir Montauk 2026.
 > - An on-call rotation that doesn't burn out the same two people.
 > - Just enough process: a weekly plan, a retro, a postmortem. Kill the meetings nobody would miss.
 
-![Slide 31: Automate. Side view of one straight road from the brick factory on the left to the customer site and flag B on the right. Each builder works at the front edge of its road, with the vehicle that uses it behind on the finished part. Left to right: the Manager and two engineers building a conveyor belt at the factory; a heavy truck full of bricks on the pavement; a steamroller at the end of the pavement; a light truck with about 100 bricks on leveled dirt; a bulldozer at the end of the dirt; a wheelbarrow of about 10 bricks on a rough path; a person rolling a rock off the end of the path; and one person carrying a single brick over the rocks to the customer. Everything moves toward the customer.](slides/31.jpg)
+![Slide 31: Automate. Side view of one road from a brick factory with a BRICKS sign on the left to a house with flag B on the right. Left to right: the Manager and two engineers in hard hats with wrenches at a conveyor belt by the factory; a dump truck full of bricks on the pavement; a steamroller at the end of the pavement; a small truck of bricks on leveled dirt; a bulldozer; a person pushing a wheelbarrow of bricks; a person rolling a boulder; and one person carrying a single brick over rocks to the house.](slides/31.jpg)
 
 > Every hour of toil you remove pays back every week after. Each level of technology is roughly 10x the last, and you build the next level while the current one keeps delivering.
 > - The page that costs an hour a week and takes 12 hours to fix pays back in 12 weeks. Fix it.
@@ -238,16 +236,15 @@ Copyright Dobromir Montauk 2026.
 > Then make it explicit: a few words people can act on, like "Rigorously Get Shit Done". Reward what you say you value; if you say quality but celebrate only speed, the team copies speed. Hire and fire by it.
 > It's slow to build and fast to lose.
 
-![Slide 33: Ally. Side view of one road from the brick factory to the customer site at flag B. The Manager appears three times, shaking hands each time: at the factory with Sales, in a trucker cap, next to a truck loaded with bricks; in the middle with the CFO in a suit, who hands him a money bag marked $ beside a BUDGET chart; and at the customer site with Product, who holds a rolled-up plan.](slides/33.jpg)
+![Slide 33: Ally. Side view of one road from the brick factory to the customer site, a house frame under construction next to flag B. The Manager appears twice, shaking hands each time: at the factory with Sales, a man in a cap and suit jacket, next to a truck loaded with bricks; and at the customer site with Product, a woman with a ponytail holding a rolled-up plan.](slides/33.jpg)
 
 > Other functions' capacity can become yours. Engineering can't win alone, and the partners who trust you will spend their capacity on your goals.
 > - Product: a partner, not a requester. You plan the roadmap together, they cut scope with you instead of around you, and they bring you to the customer.
 > - Sales: they tell you which deals need what, months before the contract is signed, and they don't sell the feature you haven't built. In return, you give them dates you actually hit.
-> - Finance: the CFO who understands your plan funds it. Show what each dollar buys, stay on budget, and share bad news early.
 > - Also: the platform team that adds the API you need if they hear about it a quarter ahead, and the recruiter who moves faster on your hires.
 > Alliances are built before you need them, not during the crisis.
 
-![Slide 34: Fund. In an office, the Manager presents a rising bar chart on an easel to the big boss behind a desk; the boss, smoking a cigar, hands over truck keys and a money bag. Through the window, a new truck waits next to a pile of bricks.](slides/34.jpg)
+![Slide 34: Fund. In an office, the Manager points at a rising bar chart on an easel and holds out an empty hand; behind a desk, the CEO in his general's uniform, aviator sunglasses and stubble hands him a money bag marked $. Through the window, a pickup truck waits next to a pile of bricks.](slides/34.jpg)
 
 > Headcount and budget are capacity, and you have to earn them.
 > - A hiring plan and a comp plan that tie each dollar to an outcome the CEO cares about.
@@ -264,22 +261,18 @@ Copyright Dobromir Montauk 2026.
 
 > Let it sit for a second. You will get this message on the day you finally have a plan you like. Every manager has had the Slack DM that starts with "hey, got a minute?" at 4:55 on a Friday. It's not a sign the plan was bad. It's what the job actually looks like.
 
-![Slide 37: Reality. A full-page hand-drawn chart over 200 days with two axes and a red DEADLINE line at day 180. Left axis, MoBs: a blue TOTAL SCOPE staircase starts at 9,000, jumps to 13,000 on day 30 and is trimmed to 11,000, jumps to 15,000 on day 90 and is cut to 12,500, then drops to 11,500 on day 178. A bold black REMAINING burn-down jumps with each scope change and slopes down, slowly at first, then steeply, reaching zero on day 179, one day before the deadline. Right axis, MoB per day: a green CAPACITY staircase. Seven numbered notes: 1, scope balloons +4,000, trim -2,000. 2, tech lead quits, 30 to 20 per day, delegate, 35 per day. 3, big hire lands, 50 per day, grow. 4, new flag customer C +4,000, decide B first, -2,500. 5, P0 outage, 6 days at 5 per day, rally. 6, platform API, 120 per day, ally. 7, CI from 40 to 8 minutes, 155 per day, automate. 8, last day: furious PM negotiation, scope -1,000.](slides/37.jpg)
+![Slide 37: A bland Jira-style burndown chart: story points from 05 Jan to early July. A thin gray Guideline runs straight from 9,000 to zero. A blue stepped Total Scope line jumps up twice, in February and April, is cut back each time, and drops again at the very end. A red stepped Remaining Values line jumps with it, burns down on weekdays and stays flat on weekends, and reaches zero at the end. On a right axis, a green stepped Velocity line, in story points per day, dips twice and climbs from about 40 to about 220. Pale gray bars mark weekends. Legend at the bottom: Guideline, Total Scope, Remaining Values, Velocity (Story Points / Day).](slides/37.jpg)
 
-> Reality is incredibly messy: unpredictable things happen all the time. Your job, in a nutshell, is to deliver despite the chaos. Try to enjoy it.
+> Read it in your most monotone voice. Reality is incredibly messy: unpredictable things happen all the time. This is how half a year of it looks in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
-![Slide 38: A bland Jira-style burndown chart: story points from 05 Jan to early July. A thin gray Guideline runs straight from 9,000 to zero. A blue stepped Total Scope line jumps up twice, in February and April, is cut back each time, and drops again at the very end. A red stepped Remaining Values line jumps with it, then falls and reaches zero at the end. On a right axis, a green stepped Velocity line, in story points per day, dips twice and climbs from 30 to 155. Pale gray bars mark non-working days. Legend at the bottom: Guideline, Total Scope, Remaining Values, Velocity (Story Points / Day).](slides/38.jpg)
-
-> Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
-
-![Slide 39: Key Responsibilities: Summary. Back in the boring corporate template: the twenty buckets as two lists of ten bland corporate bullets, under 1. Winning and 2. Increasing the Capacity to Win.](slides/39.jpg)
+![Slide 38: Key Responsibilities: Summary. Back in the boring corporate template: the twenty buckets as two lists of ten bland corporate bullets, under 1. Winning and 2. Increasing the Capacity to Win.](slides/38.jpg)
 
 > Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
 
-![Slide 40: Key Takeaway: Your job is to deliver, regardless of the chaos. (Corporate template.)](slides/40.jpg)
+![Slide 39: Key Takeaway: Your job is to deliver, regardless of the chaos. (Corporate template.)](slides/39.jpg)
 
 > Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
-![Slide 41: The Key Takeaway slide from a moment ago is ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up, with a speech bubble above: SO HAVE FUN!](slides/41.jpg)
+![Slide 40: The Key Takeaway slide from a moment ago is ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up, with a speech bubble above: SO HAVE FUN!](slides/40.jpg)
 
 > Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.

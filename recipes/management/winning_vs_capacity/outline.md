@@ -13,8 +13,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 1. **Aim:** do we know what the end result looks like?
 2. **Trim:** cut scope, two kinds. **The product** (what we're building): do we really need all these bricks? **The approach** (how): don't build the truck yet, just carry the damn bricks. Save it for later.
-3. **Scout:** de-risk the unknown before the convoy commits. Send an explorer, build a spike, check whether the river has a ford.
-4. **Decide:** make the call now. Teams lose whole days waiting on decisions nobody has made.
+3. **Decide:** make the call now, even without enough data. Teams lose whole days waiting on decisions nobody has made.
+4. **Scout:** better, if you can afford it: de-risk the unknown before the convoy commits. Send an explorer, build a spike, check whether the river has a ford.
 5. **Assign:** the right person on the right job: chop trees, lay road, carry bricks, drive the truck. Includes **swarming**: several people on the one brick everything else waits on.
 6. **Steer:** we end up with multiple flags (B, C, D...). Do we push the right bricks in the right direction this week? Includes **prioritizing**: carry the most valuable bricks first, so what's arrived still counts if the deadline hits mid-pile.
 7. **Clear & Protect:** remove blockers and distractions: fallen trees, waiting on another team. Includes **shielding**: bandits come to kidnap our people (mid-week asks, "quick favors") and we protect them.
@@ -120,16 +120,16 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Part 1 — Winning (this turn's bricks)
 
-13. **How to win** · Comic (tiles generated one by one, grid composed by hand)
-    - Comic: title "HOW TO WIN" over ten framed tiles, the Manager in each: AIM (picture of a finished brick house next to flag B), TRIM (giant scissors cutting the pile in half, one half X'd out), SCOUT (binoculars at fog), DECIDE (pointing down one fork of the road), ASSIGN (hands out a hard hat; three engineers swarm a huge brick), STEER (flags B, C, D; turns a wheelbarrow toward B), CLEAR & PROTECT (a crop of slide 20: chops a fallen trunk while bandits drag an engineer into the forest), MOTIVATE (megaphone, late at night), FIRE DRILL (alarm bell rings; sales and design carry bricks), CARRY (carries one brick himself).
+13. **How to win** · Grid of thumbnails cropped from the ten slides (tools/grid.py), in slide order
+    - Comic: Ten square tiles, each a close-up teaser cropped from its slide. Top row: Aim, Trim, Decide, Scout, Assign. Bottom row: Steer, Clear and Protect, Motivate, Rally, Carry.
     - Text: "HOW TO WIN" / "AIM" "TRIM" "SCOUT" "DECIDE" "ASSIGN" "STEER" "CLEAR & PROTECT" "MOTIVATE" "FIRE DRILL" "CARRY"
     - Notes (talk track, yours): each of these can be a whole course by itself. We lightly touch each one and give examples, so you can pattern-match your activities to the bucket they fall into.
 
 ### Aim
 
-14. **Aim** · Comic (vector doodle drawn on top by hand)
-    - Comic: the team happily carries bricks to the right, toward an EMPTY hole signed "B (MONDAY)". From there, footprints make a big U-turn: up past "B (TUESDAY)" and "B (WEDNESDAY)", then all the way back left, where the customer (baseball cap) is planting the real B flag behind the team. Top doodle: a solid arrow right, "WHAT WE CARRIED"; a dashed arrow left, "TO THE REAL B"; "MoBs THAT COUNT: < 0".
-    - Text: "AIM" / "WHAT WE CARRIED" / "TO THE REAL B" / "MoBs THAT COUNT: < 0" / "B (MONDAY)" "B (TUESDAY)" "B (WEDNESDAY)"
+14. **Aim** · Comic
+    - Comic: a field seen from the side. Pile A on the left. Three old flags still stand across the field, crossed out and labeled B (MON), B (TUE), B (WED), each with a small stack of bricks delivered there for nothing; footprints run from A to each in turn. At the third, the Manager points to the far right, where the customer (knit beanie) plants the real flag B on empty ground; three engineers with bricks look on, surprised.
+    - Text: "AIM" / "A" / "B (MON)" "B (TUE)" "B (WED)" / "B"
     - Notes (talk track, yours): goals move all the time, for lots of reasons. The team's work only matters if it takes you *in the direction of the goal*; even a little off-track wastes effort. Figuring out the actual goal makes THIS WEEK's work maximally productive.
 
 ### Trim
@@ -138,40 +138,28 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Comic, right half: the customer's bubble shows a huge fairy-tale castle (picture, no words). The Manager answers with a bubble showing a small simple house (picture, no words). A brick pile at their feet.
     - Comic, left half: two engineers kneel, assembling a wheelbarrow from parts (loose wheel, wrench, screws, blueprint) next to an untouched brick pile. The same Manager: "JUST CARRY THE DAMN BRICKS".
     - Text: "TRIM" / "JUST CARRY THE DAMN BRICKS"
-    - Notes (talk track): two kinds of scope to cut. Product scope: what the customer asked for vs. what they actually need this quarter. Approach scope: the framework, platform or automation we would love to build first. Building tools is capacity, not winning, so do it on purpose, not by accident.
+    - Notes (talk track): two kinds of scope to cut. On the left, approach scope: the framework, platform or automation we would love to build first. Building tools is capacity, not winning, so do it on purpose, not by accident. On the right, product scope: the castle the customer asked for vs. the house they actually need this quarter.
     - Notes, examples:
-      1. Product scope. The customer asked for a full analytics dashboard: filters, charts, scheduled emails. The question "what decision is this for?" turned up one weekly number for the CFO. A nightly CSV export shipped in two days.
-      2. Product scope. The spec said "supports every payment type". The data said 97% of transactions were cards. Launch with cards, a month early; add the next type when a real customer asks.
-      3. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
-      4. Approach scope. A request for one flag on one machine turned into a design for tiered config with merge rules and a new admin UI. Someone asked, "any objection to the hackiest possible approach?" A one-off override solved it that day.
-      5. Approach scope. An engineer wanted a generic plugin system first, so integrations would be "easy forever". There was one integration on the roadmap. Hard-code it; build the abstraction from three real examples later, not zero.
-      6. Approach scope. Support wanted an edge case automated before launch. How often does it happen? About once a week. Keep it manual for now, and launch.
-      7. The other side. A simple database index was suggested early and passed over because the tests weren't representative. Seven weeks later, under production load, the same index took the query from 4.5 s to 0.7 s.
+      1. Approach scope. A request for one flag on one machine turned into a design for tiered config with merge rules and a new admin UI. Someone asked, "any objection to the hackiest possible approach?" A one-off override solved it that day.
+      2. Approach scope. An engineer wanted a generic plugin system first, so integrations would be "easy forever". There was one integration on the roadmap. Hard-code it; build the abstraction from three real examples later, not zero.
+      3. Approach scope. Support wanted an edge case automated before launch. How often does it happen? About once a week. Keep it manual for now, and launch.
+      4. The other side. A simple database index was suggested early and passed over because the tests weren't representative. Seven weeks later, under production load, the same index took the query from 4.5 s to 0.7 s.
+      5. Product scope. The customer asked for a full analytics dashboard: filters, charts, scheduled emails. The question "what decision is this for?" turned up one weekly number for the CFO. A nightly CSV export shipped in two days.
+      6. Product scope. The spec said "supports every payment type". The data said 97% of transactions were cards. Launch with cards, a month early; add the next type when a real customer asks.
+      7. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
       - Caveat: a trimmed feature still has to be usable. Call phase 1 a partial feature, not GA.
 
 ### Scout
 
-16. **Scout** · Comic (top-down map)
+17. **Scout** · Comic (top-down map)
     - Comic: a hand-drawn top-down map of a forest. Three roads start at the bottom middle: the left one winds into the mountains and ends at an X; the middle one goes straight up and ends at an X; the right one loops around, crosses the river on a bridge and reaches flag B at the top middle. At the fork the Manager points up the right road; a line of engineers carries bricks along it.
     - Text: "SCOUT" / "THIS WAY!" / "B"
-    - Notes (talk track): Before you commit the team for a month, spend a few days finding out which approach dead-ends.
+    - Notes (talk track): On the last slide we picked the mountains with no data. A scout would have found that dead end in two days. Scouting ahead is more work up front, but it's cheaper than committing the whole team to the wrong road for a month.
       - Spike the vendor or POS API for two days before promising the integration date: auth quirks, rate limits, missing endpoints.
       - Prototype the hard part first (latency, the hardware constraint, the model accuracy), not the easy UI.
       - Ask who tried this before. The team that attempted it last year knows where it broke.
       - Read the customer's actual setup (network, hardware, existing POS) before estimating.
       - Send one engineer for a few days, not the whole team for a sprint. The obvious approach is often the one nobody has taken end to end.
-
-### Decide
-
-17. **Decide** · Comic
-    - Comic: at a fork, two engineers holding bricks argue, one pointing left into a dark forest ("FOREST!"), the other right up the mountains ("MOUNTAINS!"). Between them the Manager calmly points up the mountain road: "MOUNTAINS. GO." Nearby, a big untouched brick pile and four engineers sitting with popcorn, watching instead of working.
-    - Text: "DECIDE" / "FOREST!" / "MOUNTAINS!" / "MOUNTAINS. GO." / "POPCORN"
-    - Notes (talk track): Teams lose days, sometimes weeks, waiting on decisions nobody owns. The cost isn't the two people arguing; it's everyone blocked behind them.
-      - Two senior engineers debate the data model for two weeks while the rest of the team can't start.
-      - A design review ends with "let's take this offline" for the third time.
-      - A PR sits blocked on an architecture argument in the comments.
-      - "Which customer first?" goes unanswered, so people pick their own.
-      - Most technical decisions are reversible. Set a deadline for the decision, hear both sides, make the call, write down why, and revisit if new data shows up. Disagree and commit.
 
 ### Assign
 
@@ -188,7 +176,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Steer
 
 19. **Steer** · Comic
-    - Comic: three flags in the distance, B, C and D, each with a yelling customer: "100 MONDAY!" at B, "50 FRIDAY!" at C, "10 TUESDAY!" at D. The Manager stands where three paths fan out, arms spread: a wheelbarrow full of bricks goes toward B, an engineer carrying 10 bricks goes toward D. The path to C is empty for now.
+    - Comic: Three flags in the distance, B, C and D, each with a customer in a cap yelling: 100 MONDAY! at B, 50 FRIDAY! at C, 10 TUESDAY! at D. In front, the calm Manager stands where three paths fan out, arms spread: one hand points an engineer pushing a wheelbarrow full of bricks toward B, the other points an engineer carrying a small stack of bricks toward D. The path to C is empty for now.
     - Text: "STEER" / "B" "C" "D" / "100 MONDAY!" "50 FRIDAY!" "10 TUESDAY!"
     - Notes (talk track): Three customers, three deadlines, and each one is sure they're the priority. Your job is to turn the noise into an order: value, deadline, size.
       - The big launch due Monday gets most of the team.
@@ -209,7 +197,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Motivate
 
 21. **Motivate** · Comic
-    - Comic: the Manager on a crate, arms wide, tells a story; his speech bubble shows a huge castle surrounded by dollar signs and money bags. Two grinning engineers grab bricks from the pile at his feet; three more run right, away from him, with bricks. Far away at the end of the road: a small wooden shack next to flag B.
+    - Comic: On the right, flag B stands next to a small rickety wooden shack, and the customer, in a knit beanie, looks at it sadly; a dreamy thought bubble above the customer shows a fairy-tale castle. On the left, the Manager, smiling, points toward the customer; his speech bubble holds no words, only a drawing of a solid two-storey brick house with a chimney. Four engineers holding bricks grin, excited; one is already walking toward the shack with a stack of bricks.
     - Text: "MOTIVATE" / "$" / "B"
     - Notes (talk track): People work harder on things they understand and care about.
       - Bring an engineer to a customer site to watch the product being used.
@@ -222,7 +210,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Rally
 
 22. **Rally** · Comic (red is used only for the alarm)
-    - Comic: flat side view. A red alarm bell rings on a small brick factory at the far left ("RING! RING!"); the sweating Manager shouts and waves everyone forward. A single-file line walks left to right toward a big flag B at the far right, each carrying a brick: a secretary with a headset, a dog (brick in its mouth), a big boss with a cigar looking surprised, an accountant with a calculator, a salesperson and an engineer in a hard hat who has almost reached B.
+    - Comic: A red alarm bell rings on a small brick building with a chimney and a BRICKS sign at the far left: RING! RING! The sweating Manager shouts and waves everyone forward. A single-file line walks left to right toward a big flag B at the far right: a woman with a headset and glasses, a dog with a brick in its mouth, the CEO in his general&#x27;s uniform and cape, an accountant holding a calculator, a salesperson in a suit and an engineer in a hard hat. All but the accountant carry a brick.
     - Text: "RALLY" / "RING! RING!" / "BRICKS" / "B"
     - Notes (talk track): sometimes the deadline is real and immovable, and the only way to make it is to pull in everyone who can help, not just engineering.
       - A big customer go-live: PMs run QA test plans, support pre-stages hardware, sales engineers do on-site checks.
@@ -240,9 +228,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
       - What changed: with an AI coding agent, a 30-minute gap between meetings is enough to ship something real.
       - Write the one-off migration or data-fix script nobody has time for.
       - Prototype the feature to answer "is this even feasible?" before the planning meeting.
-      - Triage the bug backlog: reproduce, find the root cause, open the PR.
       - Build the internal dashboard or report ops has asked for twice.
-      - Review PRs faster, with the agent explaining the diff.
       - What hasn't changed: stay off the critical path. Carry the work that would otherwise never get done, not the work that blocks the team if you disappear for a day.
 
 ### Wrap-up (proposed, unnumbered)
@@ -254,8 +240,8 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Part 2 — Capacity (future turns)
 
-24. **How to increase capacity** · Comic (tiles generated one by one, grid composed by hand)
-    - Comic: title "HOW TO INCREASE CAPACITY" over ten framed tiles, the Manager in each: HIRE (shakes hands with new arrivals holding truck keys, a blueprint, an axe), GROW (one engineer goes from one brick to a wheelbarrow to a truck), DELEGATE (hands his megaphone to a new lead with a crew), REWARD (money bag and a medal), PRUNE (a line of brick carriers; the grid tile still needs a redraw to match slide 29), ORGANIZE (three crews in separate lanes, a MAKE → CARRY → STACK board), AUTOMATE (presses the button on a brick conveyor belt; two engineers high-five), CULTIVATE (waters a young tree while engineers build a neat wall behind him), ALLY (shakes hands with a neighboring town's leader; their truck carries our bricks), FUND (pitches a bar chart to the big boss, who hands over truck keys and a money bag).
+24. **How to increase capacity** · Grid of thumbnails cropped from the ten slides (tools/grid.py), in slide order
+    - Comic: Ten square tiles, each a close-up teaser cropped from its slide. Top row: Hire, Grow, Delegate, Reward, Prune. Bottom row: Organize, Automate, Cultivate, Ally, Fund.
     - Text: "HOW TO INCREASE CAPACITY" / "HIRE" "GROW" "DELEGATE" "REWARD" "PRUNE" "ORGANIZE" "AUTOMATE" "CULTIVATE" "ALLY" "FUND"
     - Notes (talk track): everything here pays off in months or years, not this week, which is why it always loses to this week's fire. Nobody asks on Friday why you skipped the skip-level or didn't fix the on-call rotation; six months later, everyone asks why the team is still slow. Block time for these the way you block time for a launch.
 
@@ -274,7 +260,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Grow
 
 26. **Grow** · Comic
-    - Comic: The same engineer, four times along a road, getting bigger each time: carrying one brick, pushing a wheelbarrow, driving a truck, then drawing a bridge at a drafting table. The Manager walks alongside, handing over the next tool each time.
+    - Comic: The same engineer, four times along a road, getting bigger and happier each time: carrying one brick, pushing a wheelbarrow, driving a truck, then drawing a bridge at a drafting table. The Manager walks alongside, smiling, handing over the next tool each time (the wheelbarrow, truck keys, a pencil), and at the end watches, hand on chin.
     - Text: "GROW"
     - Notes (talk track): this could be a whole set of talks. Three parts:
       1. Opportunities: give people work one size bigger than their last job. The mid-level engineer leads the next design review; the senior engineer owns the launch.
@@ -358,19 +344,18 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Ally
 
 33. **Ally** · Comic
-    - Comic: Side view of one road from the brick factory to the customer site at flag B. The Manager appears three times, shaking hands each time: at the factory with Sales (trucker cap) next to a truck loaded with bricks; in the middle with the CFO in a suit, who hands him a money bag marked $ beside a BUDGET chart; at the customer site with Product, who holds a rolled-up plan.
+    - Comic: Side view of one road from the brick factory to the customer site, a house frame under construction next to flag B. The Manager appears twice, shaking hands each time: at the factory with Sales, a man in a cap and suit jacket, next to a truck loaded with bricks; and at the customer site with Product, a woman with a ponytail holding a rolled-up plan.
     - Text: "ALLY"
     - Notes (talk track): Other functions' capacity can become yours. Engineering can't win alone, and the partners who trust you will spend their capacity on your goals.
       - Product: a partner, not a requester. You plan the roadmap together, they cut scope with you instead of around you, and they bring you to the customer.
       - Sales: they tell you which deals need what, months before the contract is signed, and they don't sell the feature you haven't built. In return, you give them dates you actually hit.
-      - Finance: the CFO who understands your plan funds it. Show what each dollar buys, stay on budget, and share bad news early.
       - Also: the platform team that adds the API you need if they hear about it a quarter ahead, and the recruiter who moves faster on your hires.
       - Alliances are built before you need them, not during the crisis.
 
 ### Fund
 
 34. **Fund** · Comic
-    - Comic: In an office, the Manager presents a rising bar chart on an easel to the big boss behind a desk; the boss, smoking a cigar, hands over truck keys and a money bag. Through the window, a new truck waits next to a pile of bricks.
+    - Comic: In an office, the Manager points at a rising bar chart on an easel and holds out an empty hand; behind a desk, the CEO in his general's uniform, aviator sunglasses and stubble hands him a money bag marked $. Through the window, a pickup truck waits next to a pile of bricks.
     - Text: "FUND"
     - Notes (talk track): Headcount and budget are capacity, and you have to earn them.
       - A hiring plan and a comp plan that tie each dollar to an outcome the CEO cares about.
@@ -391,37 +376,32 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Text: "UM, BAD NEWS SIR..."
     - Notes (talk track): Let it sit for a second. You will get this message on the day you finally have a plan you like. Every manager has had the Slack DM that starts with "hey, got a minute?" at 4:55 on a Friday. It's not a sign the plan was bad. It's what the job actually looks like.
 
-37. **Reality** · Chart (full page, plotted from real numbers)
-    - Chart: 200 days, two axes, red DEADLINE at day 180. Left axis (MoBs): blue TOTAL SCOPE staircase, 9,000 → 13,000 on day 30 (1, scope balloons) → trimmed to 11,000 → 15,000 on day 90 (4, new flag: customer C) → cut to 12,500 (decide: B first) → 11,500 on day 178 (8, last day: furious PM negotiation, scope -1,000). Bold black REMAINING burn-down jumps with each scope change and reaches zero on day 179, one day before the deadline. Right axis (MoB/day): green CAPACITY staircase: 30 → 20 on day 55 (2, tech lead quits) → 35 (delegate) → 50 on day 75 (3, big hire lands, grow) → 5 for 6 days at day 115 (5, P0 outage, rally) → 50 → 120 on day 130 (6, platform API, ally) → 155 on day 150 (7, CI 40 → 8 min, automate). Plotted with tools/chaos_chart.py (matplotlib xkcd mode, Patrick Hand font).
-    - Text: "REALITY"
-    - Notes (talk track): Reality is incredibly messy: unpredictable things happen all the time. Your job, in a nutshell, is to deliver despite the chaos. Try to enjoy it.
-
-38. **Project status (corporate)** · Corporate template + chart
+37. **Project status (corporate)** · Corporate template + chart
     - Same template as slides 1–2. Title: "Project Status: H1 Delivery Burndown". Subtitle: "Board: ENG-CORE · Sprints 1–13 · Estimation: Story Points".
-    - Chart: the exact same project data as slide 37, drawn as a bland Jira burndown: gray straight Guideline, blue stepped Total Scope, red stepped Remaining Values, green stepped Velocity (Story Points / Day) on a right axis, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
-    - Notes (talk track): Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
+    - Chart: the project data from tools/chaos_chart.py, drawn as a bland Jira burndown that burns down on weekdays only (flat on weekends): gray straight Guideline, blue stepped Total Scope, red stepped Remaining Values, green stepped Velocity (Story Points / Day) on a right axis, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
+    - Notes (talk track): Read it in your most monotone voice. Reality is incredibly messy: unpredictable things happen all the time. This is how half a year of it looks in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
-39. **Key Responsibilities: Summary (corporate)** · Corporate template
+38. **Key Responsibilities: Summary (corporate)** · Corporate template
     - Two lists of ten bland corporate bullets, one per bucket, without the bucket verbs.
     - 1. Winning: Ensure alignment of deliverables with key stakeholder objectives · Right-size scope to optimize time-to-value · Conduct proactive risk assessment and discovery · Drive timely decision-making across workstreams · Optimize resource allocation against priority initiatives · Monitor execution and course-correct as needed · Remove impediments and mitigate external dependencies · Foster team engagement and ownership of outcomes · Mobilize cross-functional resources for critical milestones · Contribute directly to delivery as bandwidth permits.
     - 2. Increasing the Capacity to Win: Execute on headcount plan to address capability gaps · Invest in talent development and career pathing · Empower leads through structured delegation frameworks · Implement competitive total rewards and recognition programs · Proactively manage underperformance · Optimize organizational design and operating model · Leverage automation to drive operational efficiencies · Champion a culture aligned with company values · Build strategic cross-functional partnerships · Secure budget and resourcing in line with business case.
     - Notes (talk track): Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
 
-40. **Key Takeaway (corporate)** · Corporate template
+39. **Key Takeaway (corporate)** · Corporate template
     - Text: "Your job is to deliver, regardless of the chaos."
     - Notes (talk track): Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
-41. **So have fun!** · Comic
-    - Built as an exact copy of the Key Takeaway slide (40) with two transparent PNG overlays on top (a speech bubble, and the torn hole with the Manager), so the slide underneath is guaranteed identical. Overlays were generated on chroma-key green and keyed out with tools/chroma_key.py.
+40. **So have fun!** · Comic
+    - Built as an exact copy of the Key Takeaway slide (39) with two transparent PNG overlays on top (a speech bubble, and the torn hole with the Manager), so the slide underneath is guaranteed identical. Overlays were generated on chroma-key green and keyed out with tools/chroma_key.py.
     - Comic: the stick-figure Manager bursts through a jagged hole in the slide like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
     - Text: "SO HAVE FUN!"
     - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
 
-42. **Zoom out** · Comic → Map
+41. **Zoom out** · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-43. **Turn 1 vs Turn 52** · Map 16 (final)
+42. **Turn 1 vs Turn 52** · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 
