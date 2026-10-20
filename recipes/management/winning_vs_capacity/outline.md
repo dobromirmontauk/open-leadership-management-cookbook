@@ -386,21 +386,26 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Text: "OMG, HOW DO I DO ALL THAT?"
     - Notes (talk track): Twenty buckets. Nobody does all twenty every week, and nobody should try. I don't. In any given week, two or three of them matter, and the rest can wait. The hard part isn't knowing the buckets; it's knowing which two or three this week, because the world keeps changing under you.
 
-36. **Reality** · Chart (full page, plotted from real numbers)
-    - Chart: 200 days, two axes, red DEADLINE at day 180. Left axis (MoBs): blue TOTAL SCOPE staircase, 9,000 → 13,000 on day 30 (1, scope balloons) → trimmed to 11,000 → 15,000 on day 90 (4, new flag: customer C) → cut to 12,500 (decide: B first). Bold black REMAINING burn-down jumps with each scope change and reaches zero on day 175. Right axis (MoB/day): green CAPACITY staircase: 30 → 20 on day 55 (2, tech lead quits) → 35 (delegate) → 50 on day 75 (3, big hire lands, grow) → 5 for 6 days at day 115 (5, P0 outage, rally) → 50 → 120 on day 130 (6, platform API, ally) → 220 on day 150 (7, CI 40 → 8 min, automate). Plotted with tools/chaos_chart.py (matplotlib xkcd mode, Patrick Hand font).
+36. **Bad news** · Comic
+    - Comic: The same exhausted seminar room. A door on the left opens a crack, and a nervous engineer peeks in, sweating: UM, BAD NEWS SIR... The audience and the Manager all turn toward the door, wide-eyed.
+    - Text: "UM, BAD NEWS SIR..."
+    - Notes (talk track): Let it sit for a second. You will get this message on the day you finally have a plan you like. Every manager has had the Slack DM that starts with "hey, got a minute?" at 4:55 on a Friday. It's not a sign the plan was bad. It's what the job actually looks like.
+
+37. **Reality** · Chart (full page, plotted from real numbers)
+    - Chart: 200 days, two axes, red DEADLINE at day 180. Left axis (MoBs): blue TOTAL SCOPE staircase, 9,000 → 13,000 on day 30 (1, scope balloons) → trimmed to 11,000 → 15,000 on day 90 (4, new flag: customer C) → cut to 12,500 (decide: B first) → 11,500 on day 178 (8, last day: furious PM negotiation, scope -1,000). Bold black REMAINING burn-down jumps with each scope change and reaches zero on day 179, one day before the deadline. Right axis (MoB/day): green CAPACITY staircase: 30 → 20 on day 55 (2, tech lead quits) → 35 (delegate) → 50 on day 75 (3, big hire lands, grow) → 5 for 6 days at day 115 (5, P0 outage, rally) → 50 → 120 on day 130 (6, platform API, ally) → 155 on day 150 (7, CI 40 → 8 min, automate). Plotted with tools/chaos_chart.py (matplotlib xkcd mode, Patrick Hand font).
     - Text: "REALITY"
-    - Notes (talk track): That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two. Notice that capacity went from 30 a day to 220 a day; that, not heroics, is why the burn-down makes it.
+    - Notes (talk track): That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two. Notice that capacity went from 30 a day to 155 a day; that, not heroics, is most of why the burn-down makes it. The rest is event 8: two days out, still 1,000 short, you sit down with the PM and agree what ships Friday and what ships in the next release. That's not failure. It's Trim, done at the last responsible moment.
       - Scope grows: the customer's "small change" turns out to need a migration.
       - Capacity drops: the tech lead resigns, two people are out on parental leave, half the team gets pulled into an outage.
       - The goal moves: a second big customer signs and wants their launch first.
       - And sometimes you get lucky: the senior hire you chased for months accepts, or the platform team ships the API that deletes a quarter of your work.
       - Every one of these is a bucket you already know. The job isn't making the plan. It's noticing the change this week, picking the right bucket, and re-planning, every week, until you're done.
 
-37. **Zoom out** · Comic → Map
+38. **Zoom out** · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-38. **Turn 1 vs Turn 52** · Map 16 (final)
+39. **Turn 1 vs Turn 52** · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 

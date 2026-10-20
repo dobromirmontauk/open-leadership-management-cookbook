@@ -8,9 +8,9 @@ fm.fontManager.addfont(FONT); FN=fm.FontProperties(fname=FONT).get_name()
 
 DEADLINE=180
 # total scope (MoB): day -> new total
-scope_events={30:13000,40:11000,90:15000,100:12500}
+scope_events={30:13000,40:11000,90:15000,100:12500,178:11500}
 # capacity (MoB/day): day -> new rate
-cap_events={0:30,55:20,68:35,75:50,115:5,121:50,130:120,150:220}
+cap_events={0:30,55:20,68:35,75:50,115:5,121:50,130:120,150:155}
 days=list(range(0,201)); total=[];rem=[];cap=[]
 t=9000;c=30;done=0;finish=None
 for d in days:
@@ -43,17 +43,18 @@ ax.axvline(DEADLINE,color=RED,lw=4)
 ax.text(DEADLINE,16700,'DEADLINE',color=RED,ha='center',fontsize=30)
 fig.text(0.08,0.92,'REALITY',fontsize=64)
 # line labels
-ax.text(184,13300,'TOTAL\nSCOPE',color=BLUE,fontsize=26,va='bottom')
+ax.text(184,9700,'TOTAL\nSCOPE',color=BLUE,fontsize=26,va='bottom')
 ax.text(48,9900,'REMAINING',color='black',fontsize=28)
 ax2.text(4,40,'CAPACITY',color=GREEN,fontsize=26)
 def note(axx,n,x,y,tx,ty,l1,l2):
     axx.annotate('(%d) %s\n      → %s'%(n,l1,l2),xy=(x,y),xytext=(tx,ty),fontsize=23,va='center',
                  arrowprops=dict(arrowstyle='-',color='#555555',lw=1.5,shrinkA=4,shrinkB=2))
 note(ax,1,30,13000,4,15300,'SCOPE BALLOONS +4,000','TRIM: -2,000')
-note(ax,4,90,15000,98,15500,'NEW FLAG: CUSTOMER C +4,000','DECIDE: B FIRST, -2,500')
+note(ax,4,90,15000,93,15600,'NEW FLAG: CUSTOMER C +4,000','DECIDE: B FIRST, -2,500')
 note(ax2,2,55,20,14,160,'TECH LEAD QUITS: 30 → 20/DAY','DELEGATE: 35/DAY')
 note(ax2,3,75,50,58,105,'BIG HIRE LANDS: 50/DAY','GROW')
 note(ax2,5,118,5,82,160,'P0 OUTAGE: 6 DAYS AT 5/DAY','RALLY')
 note(ax2,6,130,120,103,285,'PLATFORM API: 120/DAY','ALLY')
-note(ax2,7,150,220,131,245,'CI 40 → 8 MIN: 220/DAY','AUTOMATE')
+note(ax2,7,150,155,131,245,'CI 40 → 8 MIN: 155/DAY','AUTOMATE')
+ax.annotate('(8) LAST DAY: FURIOUS\n      PM NEGOTIATION\n      → SCOPE -1,000',xy=(178,12000),xytext=(144,13650),fontsize=23,va='center',arrowprops=dict(arrowstyle='-',color='#555555',lw=1.5,shrinkA=4,shrinkB=2))
 fig.savefig(OUT,facecolor='white')
