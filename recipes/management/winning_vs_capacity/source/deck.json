@@ -49,6 +49,7 @@
     "cap-cultivate",
     "cap-ally",
     "cap-fund",
+    "omg",
     "reality"
   ],
   "sections": {
@@ -70,7 +71,7 @@
     },
     "s5": {
       "description": "Closing",
-      "start": "reality"
+      "start": "omg"
     }
   },
   "title": "Winning, and Increasing the Capacity to Win"

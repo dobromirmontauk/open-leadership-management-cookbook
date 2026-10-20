@@ -381,21 +381,26 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Close
 
-35. **Reality** · Chart (full page)
-    - Chart: remaining MoBs over weeks, red DEADLINE line. Dotted THE PLAN glides smoothly to zero. Bold REALITY zigzags through seven numbered events, each with its fix: (1) scope balloons → Trim; (2) tech lead quits → Delegate; (3) big hire lands → Grow; (4) new flag, customer C → Decide: B first; (5) P0 outage → Rally; (6) new highway, platform API → Ally; (7) CI 40 → 8 min → Automate. It plunges to zero just before the deadline.
+35. **OMG, how do I do all that?** · Comic (callback to slide 3)
+    - Comic: The same seminar room as slide 3, at the end of a long day. The screen reads OMG, HOW DO I DO ALL THAT? above a long scribbled list. The three audience members are slumped in their chairs, exhausted and sweating. The Manager is exhausted too: hair disheveled, tie loosened and askew, pointer drooping.
+    - Text: "OMG, HOW DO I DO ALL THAT?"
+    - Notes (talk track): Twenty buckets. Nobody does all twenty every week, and nobody should try. I don't. In any given week, two or three of them matter, and the rest can wait. The hard part isn't knowing the buckets; it's knowing which two or three this week, because the world keeps changing under you.
+
+36. **Reality** · Chart (full page, plotted from real numbers)
+    - Chart: 200 days, two axes, red DEADLINE at day 180. Left axis (MoBs): blue TOTAL SCOPE staircase, 9,000 → 13,000 on day 30 (1, scope balloons) → trimmed to 11,000 → 15,000 on day 90 (4, new flag: customer C) → cut to 12,500 (decide: B first). Bold black REMAINING burn-down jumps with each scope change and reaches zero on day 175. Right axis (MoB/day): green CAPACITY staircase: 30 → 20 on day 55 (2, tech lead quits) → 35 (delegate) → 50 on day 75 (3, big hire lands, grow) → 5 for 6 days at day 115 (5, P0 outage, rally) → 50 → 120 on day 130 (6, platform API, ally) → 220 on day 150 (7, CI 40 → 8 min, automate). Plotted with tools/chaos_chart.py (matplotlib xkcd mode, Patrick Hand font).
     - Text: "REALITY"
-    - Notes (talk track): That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two.
+    - Notes (talk track): That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two. Notice that capacity went from 30 a day to 220 a day; that, not heroics, is why the burn-down makes it.
       - Scope grows: the customer's "small change" turns out to need a migration.
       - Capacity drops: the tech lead resigns, two people are out on parental leave, half the team gets pulled into an outage.
       - The goal moves: a second big customer signs and wants their launch first.
       - And sometimes you get lucky: the senior hire you chased for months accepts, or the platform team ships the API that deletes a quarter of your work.
       - Every one of these is a bucket you already know. The job isn't making the plan. It's noticing the change this week, picking the right bucket, and re-planning, every week, until you're done.
 
-36. **Zoom out** · Comic → Map
+37. **Zoom out** · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-37. **Turn 1 vs Turn 52** · Map 16 (final)
+38. **Turn 1 vs Turn 52** · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 

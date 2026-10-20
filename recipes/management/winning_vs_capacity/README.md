@@ -260,9 +260,13 @@ Copyright Dobromir Montauk 2026.
 > - Start small and earn more: a two-day draft, reviewed together, then sharpen the numbers.
 > Every yes from the CEO is spent from trust you built earlier.
 
-![Slide 35: Reality. A full-page hand-drawn chart of remaining MoBs over weeks, with a red DEADLINE line near the right. A smooth dotted line, THE PLAN, glides down to zero before the deadline. The bold REALITY line starts at the same point but zigzags: seven numbered events, each with its fix. 1, scope balloons, fix: trim. 2, tech lead quits, fix: delegate. 3, big hire lands, fix: grow. 4, new flag, customer C, fix: decide, B first. 5, P0 outage, fix: rally. 6, new highway, platform API, fix: ally. 7, CI from 40 to 8 minutes, fix: automate. The bold line finally plunges to zero just before the deadline.](slides/35.jpg)
+![Slide 35: Back in the seminar room from slide 3, at the end of a long day. The screen reads OMG, HOW DO I DO ALL THAT? above a long scribbled list. The three audience members are slumped in their chairs, exhausted and sweating. The Manager is exhausted too: hair disheveled, tie loosened and askew, pointer drooping.](slides/35.jpg)
 
-> That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two.
+> Twenty buckets. Nobody does all twenty every week, and nobody should try. I don't. In any given week, two or three of them matter, and the rest can wait. The hard part isn't knowing the buckets; it's knowing which two or three this week, because the world keeps changing under you.
+
+![Slide 36: Reality. A full-page hand-drawn chart over 200 days with two axes and a red DEADLINE line at day 180. Left axis, MoBs: a blue TOTAL SCOPE staircase starts at 9,000, jumps to 13,000 on day 30 and is trimmed to 11,000, jumps to 15,000 on day 90 and is cut to 12,500. A bold black REMAINING burn-down jumps with each scope change and slopes down, slowly at first, then steeply, reaching zero on day 175. Right axis, MoB per day: a green CAPACITY staircase. Seven numbered notes: 1, scope balloons +4,000, trim -2,000. 2, tech lead quits, 30 to 20 per day, delegate, 35 per day. 3, big hire lands, 50 per day, grow. 4, new flag customer C +4,000, decide B first, -2,500. 5, P0 outage, 6 days at 5 per day, rally. 6, platform API, 120 per day, ally. 7, CI from 40 to 8 minutes, 220 per day, automate.](slides/36.jpg)
+
+> That earlier chart was a lie. It assumed the world holds still: same pile, same team, same flag. It never does. The plan is the first thing that breaks, usually in week two. Notice that capacity went from 30 a day to 220 a day; that, not heroics, is why the burn-down makes it.
 > - Scope grows: the customer's "small change" turns out to need a migration.
 > - Capacity drops: the tech lead resigns, two people are out on parental leave, half the team gets pulled into an outage.
 > - The goal moves: a second big customer signs and wants their launch first.
