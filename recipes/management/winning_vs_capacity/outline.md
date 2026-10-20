@@ -358,14 +358,13 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 ### Ally
 
 33. **Ally** · Comic
-    - Comic: At a crossroads between our brick yard and a neighboring town, the Manager shakes hands with the town's leader, who wears a hat. The neighbor's truck, loaded with our bricks, drives along their highway toward flag B.
+    - Comic: Side view of one road from the brick factory to the customer site at flag B. The Manager appears three times, shaking hands each time: at the factory with Sales (trucker cap) next to a truck loaded with bricks; in the middle with the CFO in a suit, who hands him a money bag marked $ beside a BUDGET chart; at the customer site with Product, who holds a rolled-up plan.
     - Text: "ALLY"
-    - Notes (talk track): Other people's capacity can become yours.
-      - The platform team that adds the one API you need, if they know about it a quarter ahead.
-      - The head of Product as a partner, not a requester: you plan the roadmap together.
-      - HR and your recruiter, who can move faster on your hires if they trust you.
-      - Your boss: make their job easier, and they'll spend their capital on your team.
-      - Vendors and open source: don't build what you can buy.
+    - Notes (talk track): Other functions' capacity can become yours. Engineering can't win alone, and the partners who trust you will spend their capacity on your goals.
+      - Product: a partner, not a requester. You plan the roadmap together, they cut scope with you instead of around you, and they bring you to the customer.
+      - Sales: they tell you which deals need what, months before the contract is signed, and they don't sell the feature you haven't built. In return, you give them dates you actually hit.
+      - Finance: the CFO who understands your plan funds it. Show what each dollar buys, stay on budget, and share bad news early.
+      - Also: the platform team that adds the API you need if they hear about it a quarter ahead, and the recruiter who moves faster on your hires.
       - Alliances are built before you need them, not during the crisis.
 
 ### Fund
