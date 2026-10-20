@@ -288,6 +288,6 @@ Copyright Dobromir Montauk 2026.
 
 > Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
-![Slide 41: The Manager bursts through a giant paper corporate slide like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up: SO HAVE FUN!](slides/41.jpg)
+![Slide 41: The Key Takeaway slide from a moment ago, Your job is to deliver, regardless of the chaos., is ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up: SO HAVE FUN!](slides/41.jpg)
 
 > Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.

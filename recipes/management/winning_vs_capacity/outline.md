@@ -412,7 +412,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Notes (talk track): Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
 41. **So have fun!** · Comic
-    - Comic: The Manager bursts through a giant paper corporate slide (Q4 STRATEGIC ALIGNMENT & SYNERGY INITIATIVES) like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
+    - Comic: The real Key Takeaway slide (40), rendered and then ripped open: the stick-figure Manager bursts through a jagged hole in it like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
     - Text: "SO HAVE FUN!"
     - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
 
