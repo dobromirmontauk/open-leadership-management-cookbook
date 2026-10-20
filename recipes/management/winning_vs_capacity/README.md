@@ -271,3 +271,23 @@ Copyright Dobromir Montauk 2026.
 ![Slide 37: Reality. A full-page hand-drawn chart over 200 days with two axes and a red DEADLINE line at day 180. Left axis, MoBs: a blue TOTAL SCOPE staircase starts at 9,000, jumps to 13,000 on day 30 and is trimmed to 11,000, jumps to 15,000 on day 90 and is cut to 12,500, then drops to 11,500 on day 178. A bold black REMAINING burn-down jumps with each scope change and slopes down, slowly at first, then steeply, reaching zero on day 179, one day before the deadline. Right axis, MoB per day: a green CAPACITY staircase. Seven numbered notes: 1, scope balloons +4,000, trim -2,000. 2, tech lead quits, 30 to 20 per day, delegate, 35 per day. 3, big hire lands, 50 per day, grow. 4, new flag customer C +4,000, decide B first, -2,500. 5, P0 outage, 6 days at 5 per day, rally. 6, platform API, 120 per day, ally. 7, CI from 40 to 8 minutes, 155 per day, automate. 8, last day: furious PM negotiation, scope -1,000.](slides/37.jpg)
 
 > Reality is incredibly messy: unpredictable things happen all the time. Your job, in a nutshell, is to deliver despite the chaos. Try to enjoy it.
+
+![Slide 38: A bland Jira-style burndown chart: story points from 05 Jan to early July. A thin gray Guideline runs straight from 9,000 to zero. A red stepped Remaining Values line jumps up twice, in February and April, then falls and reaches zero at the end. Pale gray bars mark non-working days. Legend at the bottom: Guideline, Remaining Values.](slides/38.jpg)
+
+> Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
+
+### Slide 39
+
+**Key Responsibilities: Summary.** Back in the boring corporate template: the twenty buckets as two lists of ten bland corporate bullets, under 1. Winning and 2. Increasing the Capacity to Win.
+
+> Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
+
+### Slide 40
+
+**Key Takeaway:** Your job is to deliver, regardless of the chaos. (Corporate template.)
+
+> Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
+
+![Slide 41: The Manager bursts through a giant paper corporate slide like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up: SO HAVE FUN!](slides/41.jpg)
+
+> Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.

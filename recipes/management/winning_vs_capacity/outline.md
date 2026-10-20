@@ -396,11 +396,31 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
     - Text: "REALITY"
     - Notes (talk track): Reality is incredibly messy: unpredictable things happen all the time. Your job, in a nutshell, is to deliver despite the chaos. Try to enjoy it.
 
-38. **Zoom out** · Comic → Map
+38. **Project status (corporate)** · Corporate template + chart
+    - Same template as slides 1–2. Title: "Project Status: H1 Delivery Burndown". Subtitle: "Board: ENG-CORE · Sprints 1–13 · Estimation: Story Points".
+    - Chart: the exact same project data as slide 37, drawn as a bland Jira burndown: gray straight Guideline, red stepped Remaining Values, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
+    - Notes (talk track): Read it in your most monotone voice. This is the exact same project as the last slide. This is how it'll look in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
+
+39. **Key Responsibilities: Summary (corporate)** · Corporate template
+    - Two lists of ten bland corporate bullets, one per bucket, without the bucket verbs.
+    - 1. Winning: Ensure alignment of deliverables with key stakeholder objectives · Right-size scope to optimize time-to-value · Conduct proactive risk assessment and discovery · Drive timely decision-making across workstreams · Optimize resource allocation against priority initiatives · Monitor execution and course-correct as needed · Remove impediments and mitigate external dependencies · Foster team engagement and ownership of outcomes · Mobilize cross-functional resources for critical milestones · Contribute directly to delivery as bandwidth permits.
+    - 2. Increasing the Capacity to Win: Execute on headcount plan to address capability gaps · Invest in talent development and career pathing · Empower leads through structured delegation frameworks · Implement competitive total rewards and recognition programs · Proactively manage underperformance · Optimize organizational design and operating model · Leverage automation to drive operational efficiencies · Champion a culture aligned with company values · Build strategic cross-functional partnerships · Secure budget and resourcing in line with business case.
+    - Notes (talk track): Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
+
+40. **Key Takeaway (corporate)** · Corporate template
+    - Text: "Your job is to deliver, regardless of the chaos."
+    - Notes (talk track): Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
+
+41. **So have fun!** · Comic
+    - Comic: The Manager bursts through a giant paper corporate slide (Q4 STRATEGIC ALIGNMENT & SYNERGY INITIATIVES) like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
+    - Text: "SO HAVE FUN!"
+    - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
+
+42. **Zoom out** · Comic → Map
     - Comic: Manager staring at one cracked brick. Pull back: the whole map.
     - Text: "Don't lose the forest for the bricks."
 
-39. **Turn 1 vs Turn 52** · Map 16 (final)
+43. **Turn 1 vs Turn 52** · Map 16 (final)
     - Map: split view. Left: Turn 1's dotted footpath with a tally of 37. Right: Turn 52's road network, bridges, convoys and several flags reached, with fog still at the edges.
     - Text: "Win this turn. Win bigger every turn."
 
