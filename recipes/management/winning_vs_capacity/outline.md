@@ -149,9 +149,17 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
       7. Product scope. The plan included a full admin UI for config, roles and audit logs. The only users were three internal engineers. A documented script and a config file in the repo did the job and saved six weeks.
       - Caveat: a trimmed feature still has to be usable. Call phase 1 a partial feature, not GA.
 
+### Trim (alternate)
+
+16. **Trim (alternate)** · Comic (one panel, split down the middle; pick one of the two Trim slides)
+    - Comic, left half: same as slide 15: two engineers assemble a wheelbarrow next to an untouched brick pile; the Manager: "JUST CARRY THE DAMN BRICKS".
+    - Comic, right half: a dirt road runs from a brick pile toward a tiny flag B far away, with a small stake and flag at the halfway point. The customer (knit beanie) points eagerly at B: "ALL OF THEM, ALL THE WAY TO B!" The calm Manager points at the halfway stake: "HOW ABOUT HALFWAY FIRST?"
+    - Text: "TRIM" / "JUST CARRY THE DAMN BRICKS" / "ALL OF THEM, ALL THE WAY TO B!" / "HOW ABOUT HALFWAY FIRST?"
+    - Notes (talk track): same as slide 15, except the product-scope line: the customer wants every brick, all the way to B; halfway, delivered first, is usually what they actually need this quarter, and it's worth something on its own.
+
 ### Decide
 
-16. **Decide** · Comic
+17. **Decide** · Comic
     - Comic: at a fork, two engineers holding bricks argue, one pointing left into a dark forest ("FOREST!"), the other right up the mountains ("MOUNTAINS!"). Between them the Manager calmly points up the mountain road: "MOUNTAINS. GO." Nearby, a big untouched brick pile and four engineers sitting with popcorn, watching instead of working.
     - Text: "DECIDE" / "FOREST!" / "MOUNTAINS!" / "MOUNTAINS. GO." / "POPCORN"
     - Notes (talk track): Often you have to make the call before you have enough data. Teams lose days, sometimes weeks, waiting on decisions nobody owns. The cost isn't the two people arguing; it's everyone blocked behind them.
@@ -163,7 +171,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Scout
 
-17. **Scout** · Comic (top-down map)
+18. **Scout** · Comic (top-down map)
     - Comic: a hand-drawn top-down map of a forest. Three roads start at the bottom middle: the left one winds into the mountains and ends at an X; the middle one goes straight up and ends at an X; the right one loops around, crosses the river on a bridge and reaches flag B at the top middle. At the fork the Manager points up the right road; a line of engineers carries bricks along it.
     - Text: "SCOUT" / "THIS WAY!" / "B"
     - Notes (talk track): On the last slide we picked the mountains with no data. A scout would have found that dead end in two days. Scouting ahead is more work up front, but it's cheaper than committing the whole team to the wrong road for a month.
@@ -175,7 +183,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Assign
 
-18. **Assign** · Comic
+19. **Assign** · Comic
     - Comic: four specialists stand before the Manager: a truck driver (steering wheel, keys), a strong guy (flexing, tall brick stack on his shoulder), a lumberjack (beard, axe) and a scout (hat, backpack, walking stick). The Manager, hand on chin, has a big thought bubble of all four working one road at once: the scout leads, the lumberjack clears, the truck hauls, the strong guy carries. "10x!" in the bubble.
     - Text: "ASSIGN" / "10x!"
     - Notes (talk track): Engineers aren't fungible. The person who knows the payment stack fixes the payment bug in a day; someone new to it takes a week.
@@ -187,7 +195,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Steer
 
-19. **Steer** · Comic
+20. **Steer** · Comic
     - Comic: Three flags in the distance, B, C and D, each with a customer in a cap yelling: 100 MONDAY! at B, 50 FRIDAY! at C, 10 TUESDAY! at D. In front, the calm Manager stands where three paths fan out, arms spread: one hand points an engineer pushing a wheelbarrow full of bricks toward B, the other points an engineer carrying a small stack of bricks toward D. The path to C is empty for now.
     - Text: "STEER" / "B" "C" "D" / "100 MONDAY!" "50 FRIDAY!" "10 TUESDAY!"
     - Notes (talk track): Three customers, three deadlines, and each one is sure they're the priority. Your job is to turn the noise into an order: value, deadline, size.
@@ -198,7 +206,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Clear & Protect
 
-20. **Clear & Protect** · Comic
+21. **Clear & Protect** · Comic
     - Comic: foreground, the Manager, sweating, chops through a fallen trunk across the road ("THWACK!"), back turned to the forest; two engineers with bricks wait behind him. Background, at the edge of the forest: two masked bandits ("QUICK FAVOR?", "JUST 5 MIN!") drag a third engineer ("HELP!", dropping bricks) into the trees. Nobody on the road notices.
     - Text: "CLEAR & PROTECT" / "THWACK!" / "QUICK FAVOR?" / "JUST 5 MIN!" / "HELP!"
     - Notes (talk track): Two kinds of obstacles.
@@ -208,7 +216,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Motivate
 
-21. **Motivate** · Comic
+22. **Motivate** · Comic
     - Comic: On the right, flag B stands next to a small rickety wooden shack, and the customer, in a knit beanie, looks at it sadly; a dreamy thought bubble above the customer shows a fairy-tale castle. On the left, the Manager, smiling, points toward the customer; his speech bubble holds no words, only a drawing of a solid two-storey brick house with a chimney. Four engineers holding bricks grin, excited; one is already walking toward the shack with a stack of bricks.
     - Text: "MOTIVATE" / "$" / "B"
     - Notes (talk track): People work harder on things they understand and care about.
@@ -221,7 +229,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Rally
 
-22. **Rally** · Comic (red is used only for the alarm)
+23. **Rally** · Comic (red is used only for the alarm)
     - Comic: A red alarm bell rings on a small brick building with a chimney and a BRICKS sign at the far left: RING! RING! The sweating Manager shouts and waves everyone forward. A single-file line walks left to right toward a big flag B at the far right: a woman with a headset and glasses, a dog with a brick in its mouth, the CEO in his general&#x27;s uniform and cape, an accountant holding a calculator, a salesperson in a suit and an engineer in a hard hat. All but the accountant carry a brick.
     - Text: "RALLY" / "RING! RING!" / "BRICKS" / "B"
     - Notes (talk track): sometimes the deadline is real and immovable, and the only way to make it is to pull in everyone who can help, not just engineering.
@@ -232,7 +240,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Carry
 
-23. **Carry** · Comic (two panels, side by side)
+24. **Carry** · Comic (two panels, side by side)
     - Comic, left "BEFORE": the Manager trudges along the road with four bricks, two in each hand, sweating but determined.
     - Comic, right "AFTER": a big boxy robot with "CLAUDE" written on it walks the same road carrying towering stacks of hundreds of bricks; the Manager sits on top, smiling and pointing ahead.
     - Text: "CARRY" / "BEFORE" / "AFTER" / "CLAUDE"
@@ -252,14 +260,14 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Part 2 — Capacity (future turns)
 
-24. **How to increase capacity** · Grid of thumbnails cropped from the ten slides (tools/grid.py), in slide order
+25. **How to increase capacity** · Grid of thumbnails cropped from the ten slides (tools/grid.py), in slide order
     - Comic: Ten square tiles, each a close-up teaser cropped from its slide. Top row: Hire, Grow, Delegate, Reward, Prune. Bottom row: Organize, Automate, Cultivate, Ally, Fund.
     - Text: "HOW TO INCREASE CAPACITY" / "HIRE" "GROW" "DELEGATE" "REWARD" "PRUNE" "ORGANIZE" "AUTOMATE" "CULTIVATE" "ALLY" "FUND"
     - Notes (talk track): everything here pays off in months or years, not this week, which is why it always loses to this week's fire. Nobody asks on Friday why you skipped the skip-level or didn't fix the on-call rotation; six months later, everyone asks why the team is still slow. Block time for these the way you block time for a launch.
 
 ### Hire
 
-25. **Hire** · Comic
+26. **Hire** · Comic
     - Comic: the Manager sits at a folding table with a NOW HIRING sign and hands a set of truck keys across it to a smiling new hire with a ponytail. Behind her, candidates wait in line, one holding a rolled-up bridge plan and one an axe. A huge brick pile waits on the right.
     - Text: "HIRE" / "NOW HIRING" / "BRIDGE"
     - Notes (talk track): Hiring is the second thing your CEO judges you on, after delivery, because it's where everything else becomes visible: candidates can smell your culture, your strategy and whether you grow people.
@@ -271,7 +279,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Grow
 
-26. **Grow** · Comic
+27. **Grow** · Comic
     - Comic: The same engineer, four times along a road, getting bigger and happier each time: carrying one brick, pushing a wheelbarrow, driving a truck, then drawing a bridge at a drafting table. The Manager walks alongside, smiling, handing over the next tool each time (the wheelbarrow, truck keys, a pencil), and at the end watches, hand on chin.
     - Text: "GROW"
     - Notes (talk track): this could be a whole set of talks. Three parts:
@@ -281,7 +289,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Delegate
 
-27. **Delegate** · Comic
+28. **Delegate** · Comic
     - Comic: a huge field of brick carriers in tight rows, like a Roman legion, stretches to the horizon. On a small wooden stage in front, the Manager faces the legion, hands cupped, yelling at them as hard as he can; nobody can hear him. Below the stage, one engineer jumps up and down waving a sign: "DELEGATE!!"
     - Text: "DELEGATE" / "DELEGATE!!"
     - Notes (talk track): At some point your own hours are the bottleneck. Delegating is how one manager's capacity becomes several.
@@ -293,7 +301,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Reward
 
-28. **Reward** · Comic
+29. **Reward** · Comic
     - Comic: in front, the Manager pins a medal with a ribbon on a smiling engineer, who holds up cash marked with a "$". Coworkers around them in the foreground clap and cheer. Behind them stands a finished brick shack with a banner on two lines: "CONGRATS ON / YOUR PROMOTION!"
     - Text: "REWARD" / "CONGRATS ON YOUR PROMOTION!" / "$"
     - Notes (talk track): "My job is to leave money in your pocket and memories in your head."
@@ -305,7 +313,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Prune
 
-29. **Prune** · Comic
+30. **Prune** · Comic
     - Comic: at a brick yard, one engineer shrugs, hands in pockets, after dropping a brick on a coworker's foot; the coworker hops in pain ("OUCH!"). The Manager, disappointed, points firmly at a door under an "EXIT" sign. In the background, others keep carrying bricks.
     - Text: "PRUNE" / "OUCH!" / "EXIT"
     - Notes (talk track): Sometimes capacity goes up when someone leaves.
@@ -317,7 +325,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Organize
 
-30. **Organize** · Comic
+31. **Organize** · Comic
     - Comic: a brick operation running on its own. At a loading dock with a duty board, the nerdy guy loads a truck with a forklift. A signpost points to "B ROUTE" and "C ROUTE"; a truck drives each road, and at each flag a strong man unloads at his own station. Nobody is looking at the Manager, who stands at an easel in the foreground sketching a new dashed road toward a faraway flag D, next to a sign reading "D ROUTE?".
     - Text: "ORGANIZE" / "LOADING DOCK" / "DUTY BOARD" / "B ROUTE" "C ROUTE" "D ROUTE?" / "NEW" / "B" "C" "D"
     - Notes (talk track): Assign is who carries which brick this week. Organize is the structure that makes that call for you every week, so you can work on the next route. The shape of the team decides how much it can do.
@@ -329,7 +337,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Automate
 
-31. **Automate** · Comic
+32. **Automate** · Comic
     - Comic: side view of one straight road from the brick factory (left) to the customer site and flag B (right). Each builder works at the front edge of its road, with the vehicle that uses it behind on the finished part. Left to right: the Manager and two engineers building a conveyor belt at the factory; a heavy truck full of bricks on the pavement; a steamroller at the end of the pavement; a light truck with about 100 bricks on leveled dirt; a bulldozer at the end of the dirt; a wheelbarrow of about 10 bricks on a rough path; a person rolling a rock off the end of the path; one person carrying a single brick over the rocks to the customer.
     - Text: "AUTOMATE" / "BRICKS" / "B"
     - Notes (talk track): Every hour of toil you remove pays back every week after. Each level of technology is roughly 10x the last, and you build the next level while the current one keeps delivering.
@@ -342,7 +350,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Cultivate
 
-32. **Cultivate** · Comic
+33. **Cultivate** · Comic
     - Comic: Side view, three repairs in a row, each bigger than the last. The Manager fits a new wheel on a broken wheelbarrow; an engineer changes a light truck's flat tire while watching him; a second engineer fixes a heavy truck's engine while watching the first engineer. Dashed sight lines show who is copying whom.
     - Text: "CULTIVATE"
     - Notes (talk track): Culture is what people copy. Your team copies what you do, not what you say, and the next hire copies them, long after they've stopped watching you.
@@ -355,7 +363,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Ally
 
-33. **Ally** · Comic
+34. **Ally** · Comic
     - Comic: Side view of one road from the brick factory to the customer site, a house frame under construction next to flag B. The Manager appears twice, shaking hands each time: at the factory with Sales, a man in a cap and suit jacket, next to a truck loaded with bricks; and at the customer site with Product, a woman with a ponytail holding a rolled-up plan.
     - Text: "ALLY"
     - Notes (talk track): Other functions' capacity can become yours. Engineering can't win alone, and the partners who trust you will spend their capacity on your goals.
@@ -366,7 +374,7 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ### Fund
 
-34. **Fund** · Comic
+35. **Fund** · Comic
     - Comic: In an office, the Manager points at a rising bar chart on an easel and holds out an empty hand; behind a desk, the CEO in his general's uniform, aviator sunglasses and stubble hands him a money bag marked $. Through the window, a pickup truck waits next to a pile of bricks.
     - Text: "FUND"
     - Notes (talk track): Headcount and budget are capacity, and you have to earn them.
@@ -378,33 +386,33 @@ Running analogy: move a ton of bricks from Point A to Point B. Build the team, a
 
 ## Close
 
-35. **OMG, how do I do all that?** · Comic (callback to slide 3)
+36. **OMG, how do I do all that?** · Comic (callback to slide 3)
     - Comic: The same seminar room as slide 3, at the end of a long day. The screen reads OMG, HOW DO I DO ALL THAT? above a long scribbled list. The three audience members are slumped in their chairs, exhausted and sweating. The Manager is exhausted too: hair disheveled, tie loosened and askew, pointer drooping.
     - Text: "OMG, HOW DO I DO ALL THAT?"
     - Notes (talk track): Twenty buckets. Nobody does all twenty every week, and nobody should try. I don't. In any given week, two or three of them matter, and the rest can wait. The hard part isn't knowing the buckets; it's knowing which two or three this week, because the world keeps changing under you.
 
-36. **Bad news** · Comic
+37. **Bad news** · Comic
     - Comic: The same exhausted seminar room. A door on the left opens a crack, and a nervous engineer peeks in, sweating: UM, BAD NEWS SIR... The audience and the Manager all turn toward the door, wide-eyed.
     - Text: "UM, BAD NEWS SIR..."
     - Notes (talk track): Let it sit for a second. You will get this message on the day you finally have a plan you like. Every manager has had the Slack DM that starts with "hey, got a minute?" at 4:55 on a Friday. It's not a sign the plan was bad. It's what the job actually looks like.
 
-37. **Project status (corporate)** · Corporate template + chart
+38. **Project status (corporate)** · Corporate template + chart
     - Same template as slides 1–2. Title: "Project Status: H1 Delivery Burndown". Subtitle: "Board: ENG-CORE · Sprints 1–13 · Estimation: Story Points".
     - Chart: the project data from tools/chaos_chart.py, drawn as a bland Jira burndown that burns down on weekdays only (flat on weekends): gray straight Guideline, blue stepped Total Scope, red stepped Remaining Values, green stepped Velocity (Story Points / Day) on a right axis, pale gray non-working-day bars, dates on the x-axis, legend at the bottom. Plotted with tools/jira_burndown.py.
     - Notes (talk track): Read it in your most monotone voice. Reality is incredibly messy: unpredictable things happen all the time. This is how half a year of it looks in the status meeting: two bumps and a line that hits zero. All the chaos is in there; you just can't see it anymore.
 
-38. **Key Responsibilities: Summary (corporate)** · Corporate template
+39. **Key Responsibilities: Summary (corporate)** · Corporate template
     - Two lists of ten bland corporate bullets, one per bucket, without the bucket verbs.
     - 1. Winning: Ensure alignment of deliverables with key stakeholder objectives · Right-size scope to optimize time-to-value · Conduct proactive risk assessment and discovery · Drive timely decision-making across workstreams · Optimize resource allocation against priority initiatives · Monitor execution and course-correct as needed · Remove impediments and mitigate external dependencies · Foster team engagement and ownership of outcomes · Mobilize cross-functional resources for critical milestones · Contribute directly to delivery as bandwidth permits.
     - 2. Increasing the Capacity to Win: Execute on headcount plan to address capability gaps · Invest in talent development and career pathing · Empower leads through structured delegation frameworks · Implement competitive total rewards and recognition programs · Proactively manage underperformance · Optimize organizational design and operating model · Leverage automation to drive operational efficiencies · Champion a culture aligned with company values · Build strategic cross-functional partnerships · Secure budget and resourcing in line with business case.
     - Notes (talk track): Don't read it. Let the room scan it for a few seconds. Every one of these is a slide we just did, with all the life squeezed out. This is what the job description says.
 
-39. **Key Takeaway (corporate)** · Corporate template
+40. **Key Takeaway (corporate)** · Corporate template
     - Text: "Your job is to deliver, regardless of the chaos."
     - Notes (talk track): Flat, like the cover. Pause. It's true, and it sounds like nothing. Then click.
 
-40. **So have fun!** · Comic
-    - Built as an exact copy of the Key Takeaway slide (39) with two transparent PNG overlays on top (a speech bubble, and the torn hole with the Manager), so the slide underneath is guaranteed identical. Overlays were generated on chroma-key green and keyed out with tools/chroma_key.py.
+41. **So have fun!** · Comic
+    - Built as an exact copy of the Key Takeaway slide (40) with two transparent PNG overlays on top (a speech bubble, and the torn hole with the Manager), so the slide underneath is guaranteed identical. Overlays were generated on chroma-key green and keyed out with tools/chroma_key.py.
     - Comic: the stick-figure Manager bursts through a jagged hole in the slide like a football player through a banner, scraps flying, grinning and winking, fist forward and thumb up.
     - Text: "SO HAVE FUN!"
     - Notes (talk track): Drop the corporate voice. It's the hardest job I know and the most fun I've had. Thank you.
