@@ -276,7 +276,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 66](slides/66.jpg)
 
-> Find where knowledge is stuck. Know where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
+> Cross-training to remove siloes. Know where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
 
 ![Slide 67](slides/67.jpg)
 
