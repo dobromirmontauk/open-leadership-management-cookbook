@@ -264,7 +264,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 63](slides/63.jpg)
 
-> Heartbeats and batching. Distributed systems use heartbeats and batching instead of chattering constantly. Teams can too: a short predictable standup, office hours for questions, and long uninterrupted blocks for actual work. Real emergencies still page on-call; everything else waits for the next heartbeat.
+> Fixing meeting creep. First, need-to-know: not everyone needs to know everything. Invite the two people who own the decision, write it down, and let everyone else read the notes when they need them. Second, batching: collect the “quick syncs” and the questions into one slot a week, and protect the rest as focus time. An interruption costs far more than the five minutes it takes; it costs the hour it took to get into the problem.
 
 ![Slide 64](slides/64.jpg)
 
