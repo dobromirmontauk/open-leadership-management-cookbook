@@ -188,7 +188,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 44](slides/44.jpg)
 
-> Part 3: Warning Lights: Signs the Engine Needs Tuning. We can’t get rid of the trade-off, but we can manage it. Each of these is a warning light: a sign the system is out of balance and needs adjusting. Each one is made of steps that seemed sensible at the time.
+> Part 3: Avoiding Complete Chaos. We can’t get rid of the trade-off, but we can manage it. Every hurricane starts as a little storm: a small, sensible-looking step that nobody breaks up, until it organizes into chaos. Here are the little storms to watch for.
 
 ![Slide 45](slides/45.jpg)
 
