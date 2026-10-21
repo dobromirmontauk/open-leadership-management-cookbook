@@ -272,60 +272,68 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 65](slides/65.jpg)
 
-> The hero dependency. One engineer built the whole integration for our biggest new customer, so every question, from the CEO to Support, goes to their head. Then they go on PTO exactly as we launch. Nobody else knows how it works, and the launch catches fire. When knowledge lives in one head, that person is a single point of failure.
+> Merge conflicts in our heads. Two smart people, both talking to customers, both sure they know what the next feature is. One has heard “we lose hours counting cash”; the other has heard “we can’t trust the loss numbers.” Neither is wrong. But each has been building on their own version for weeks, and by the time it surfaces in a planning meeting it isn’t a question anymore, it’s a fight about who’s right.
 
 ![Slide 66](slides/66.jpg)
 
-> Cross-training to remove siloes. Know where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
+> Continuous conflict resolution. Go looking for disagreements early, while they’re still small. When two people describe the same feature differently in a one-on-one, that’s the moment: put them in a room the same week, and start with the facts, not the solution. What did the customer actually say? What does the data show? Once they see the same reality, the answer is usually obvious, and often it’s both. A disagreement found in week one is a coffee; found in month three, it’s a reorg.
 
 ![Slide 67](slides/67.jpg)
 
-> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: blue, not red. The new team’s engineer has a head just as full of the red system, and it can only come out one thin strand at a time, through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
+> The hero dependency. One engineer built the whole integration for our biggest new customer, so every question, from the CEO to Support, goes to their head. Then they go on PTO exactly as we launch. Nobody else knows how it works, and the launch catches fire. When knowledge lives in one head, that person is a single point of failure.
 
 ![Slide 68](slides/68.jpg)
 
-> Budget the ramp-up. Moving an engineer isn’t free. Put the ramp-up on the plan: a few weeks pairing with someone who knows the system, with no deadline attached. It’s slower at first, and much faster than pretending.
+> Cross-training to remove siloes. Know where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
 
 ![Slide 69](slides/69.jpg)
 
-> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: blue, not red. The new team’s engineer has a head just as full of the red system, and it can only come out one thin strand at a time, through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
 
 ![Slide 70](slides/70.jpg)
 
-> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+> Budget the ramp-up. Moving an engineer isn’t free. Put the ramp-up on the plan: a few weeks pairing with someone who knows the system, with no deadline attached. It’s slower at first, and much faster than pretending.
 
 ![Slide 71](slides/71.jpg)
 
-> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
 
 ![Slide 72](slides/72.jpg)
 
-> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
 
 ![Slide 73](slides/73.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
 
 ![Slide 74](slides/74.jpg)
 
-> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 75](slides/75.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 76](slides/76.jpg)
 
-> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
+> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
 
 ![Slide 77](slides/77.jpg)
 
-> Appendix. Backup slides, kept for questions. Not part of the normal talk.
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
 
 ![Slide 78](slides/78.jpg)
 
-> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
 
 ![Slide 79](slides/79.jpg)
+
+> Appendix. Backup slides, kept for questions. Not part of the normal talk.
+
+![Slide 80](slides/80.jpg)
+
+> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+
+![Slide 81](slides/81.jpg)
 
 > Change the wiring slowly. Relationships and shared knowledge take months to grow. Before the next reorg, ask whether the last one has had time to take root. Change the wiring when the goals change, not every quarter.
