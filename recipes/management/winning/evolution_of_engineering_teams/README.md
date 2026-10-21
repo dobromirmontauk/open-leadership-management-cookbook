@@ -236,7 +236,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 56](slides/56.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> Sometimes, shortcut through the structure. We shipped engineers to a big customer’s kitchens to discover the problems directly. No layers, no summaries, no “let me find out”: just the people who build it, standing next to the people who use it. You don’t do this every day, but when the signal keeps getting lost on the way, sometimes the fastest path is straight through the structure.
 
 ![Slide 57](slides/57.jpg)
 
@@ -244,7 +244,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 58](slides/58.jpg)
 
-> One incident commander. The fix for the war room is ownership. One incident commander owns it, a handful of people who can actually fix it join, and everyone else follows the status page. Five people for twenty minutes beats forty-eight people for three hours.
+> Every team owns its own piece. The fix is ownership. Split the system into pieces, give every piece a team and every team a DRI. When something breaks, it’s obvious whose it is: one team gets paged, three people join the call, and everyone else keeps working.
 
 ![Slide 59](slides/59.jpg)
 
@@ -320,12 +320,16 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 77](slides/77.jpg)
 
-> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 78](slides/78.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
 
 ![Slide 79](slides/79.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 80](slides/80.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
