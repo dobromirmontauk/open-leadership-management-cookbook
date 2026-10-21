@@ -212,124 +212,120 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 50](slides/50.jpg)
 
-> Budget the ramp-up. Moving an engineer isn’t free. Put the ramp-up on the plan: a few weeks pairing with someone who knows the system, with no deadline attached. It’s slower at first, and much faster than pretending.
+> Storm 2 of 4: Direction. The second: nobody agrees on what matters. Without a shared answer, every request looks equally important, and the engineers end up refereeing.
 
 ![Slide 51](slides/51.jpg)
 
-> Storm 2 of 4: Direction. The second: nobody agrees on what matters. Without a shared answer, every request looks equally important, and the engineers end up refereeing.
+> Strategy nobody understands. The strategy gets presented in the boardroom as a list of buzzwords. Every engineer walks away with a different guess about what it means, so they all build something different, and the customers walk out to the competition.
 
 ![Slide 52](slides/52.jpg)
 
-> Strategy nobody understands. The strategy gets presented in the boardroom as a list of buzzwords. Every engineer walks away with a different guess about what it means, so they all build something different, and the customers walk out to the competition.
+> Strategy is a filter. Without a strategy, all opinions could be valid, and the engineer has to referee. With a strategy, like “Full POS for C-stores”, individuals can filter out the requests that don’t match the overall goals. An AWS outage always gets through. Cash refunds are core POS, so they’re in. A self-order tablet or a Square integration might be good ideas, but they’re not this strategy: not yet. No meeting, no escalation.
 
 ![Slide 53](slides/53.jpg)
 
-> Strategy is a filter. Without a strategy, all opinions could be valid, and the engineer has to referee. With a strategy, like “Full POS for C-stores”, individuals can filter out the requests that don’t match the overall goals. An AWS outage always gets through. Cash refunds are core POS, so they’re in. A self-order tablet or a Square integration might be good ideas, but they’re not this strategy: not yet. No meeting, no escalation.
+> What’s the top priority? The Architect, PM, Support and Sales each have a different “top priority”, and they fight it out. Until they agree, the engineer has nothing to do but watch.
 
 ![Slide 54](slides/54.jpg)
 
-> What’s the top priority? The Architect, PM, Support and Sales each have a different “top priority”, and they fight it out. Until they agree, the engineer has nothing to do but watch.
+> One prioritized list, out in the open. One prioritized list, communicated publicly. Everyone can still argue for their item, once, in the room, and then the order is the order. It’s posted where everyone can see it and updated on a schedule, so nobody has to ask the engineers what they’re working on, and the engineers don’t have to referee.
 
 ![Slide 55](slides/55.jpg)
 
-> One prioritized list, out in the open. One prioritized list, communicated publicly. Everyone can still argue for their item, once, in the room, and then the order is the order. It’s posted where everyone can see it and updated on a schedule, so nobody has to ask the engineers what they’re working on, and the engineers don’t have to referee.
+> The CEO side door. The CEO grabs one engineer directly, and the engineer happily starts. Meanwhile, the PM and tech lead promise a customer a feature from the very same engineer. Nobody knows about the other promise until the engineer is stuck between them.
 
 ![Slide 56](slides/56.jpg)
 
-> The CEO side door. The CEO grabs one engineer directly, and the engineer happily starts. Meanwhile, the PM and tech lead promise a customer a feature from the very same engineer. Nobody knows about the other promise until the engineer is stuck between them.
+> Cross-functional goal meetings. Weekly or bi-weekly, with everyone in the company who can affect a major goal: Customer Weekly, Store Health, and so on. No excuses for the business not to be aligned.
 
 ![Slide 57](slides/57.jpg)
 
-> Cross-functional goal meetings. Weekly or bi-weekly, with everyone in the company who can affect a major goal: Customer Weekly, Store Health, and so on. No excuses for the business not to be aligned.
+> Storm 3 of 4: Structure. The third: the wiring. Who talks to whom, how many lines run through each person, and who owns what.
 
 ![Slide 58](slides/58.jpg)
 
-> Storm 3 of 4: Structure. The third: the wiring. Who talks to whom, how many lines run through each person, and who owns what.
+> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
 
 ![Slide 59](slides/59.jpg)
 
-> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
+> One front desk. Give the crowd one front door. Each day one engineer takes the front desk: every question, every ticket, every “quick thing” goes to them. They answer what they can, put the rest on the list, and everyone else gets to stay heads-down. It rotates, so nobody is stuck at the desk forever, and everybody learns the whole system.
 
 ![Slide 60](slides/60.jpg)
 
-> One front desk. Give the crowd one front door. Each day one engineer takes the front desk: every question, every ticket, every “quick thing” goes to them. They answer what they can, put the rest on the list, and everyone else gets to stay heads-down. It rotates, so nobody is stuck at the desk forever, and everybody learns the whole system.
+> Let me find out… The opposite failure. So many layers sit between the engineers and the customers that nothing gets through: every layer says “let me find out…”, frustration builds the closer you get to the customer, and the engineers think there’s nothing important to do.
 
 ![Slide 61](slides/61.jpg)
 
-> Let me find out… The opposite failure. So many layers sit between the engineers and the customers that nothing gets through: every layer says “let me find out…”, frustration builds the closer you get to the customer, and the engineers think there’s nothing important to do.
+> Sometimes, shortcut through the structure. We shipped engineers to a big customer’s kitchens to discover the problems directly. No layers, no summaries, no “let me find out”: just the people who build it, standing next to the people who use it. You don’t do this every day, but when the signal keeps getting lost on the way, sometimes the fastest path is straight through the structure.
 
 ![Slide 62](slides/62.jpg)
 
-> Sometimes, shortcut through the structure. We shipped engineers to a big customer’s kitchens to discover the problems directly. No layers, no summaries, no “let me find out”: just the people who build it, standing next to the people who use it. You don’t do this every day, but when the signal keeps getting lost on the way, sometimes the fastest path is straight through the structure.
+> If the system gets too complicated, it becomes very hard to figure WHAT and WHO is responsible for fixing it. Nobody understand the whole system anymore. A common clue that this is a problem are huge war rooms where everyone gets pulled in to help, because nobody knows who actually can.
 
 ![Slide 63](slides/63.jpg)
 
-> If the system gets too complicated, it becomes very hard to figure WHAT and WHO is responsible for fixing it. Nobody understand the whole system anymore. A common clue that this is a problem are huge war rooms where everyone gets pulled in to help, because nobody knows who actually can.
+> Every team owns its own piece. The fix is ownership. Split the system into pieces, give every piece a team and every team a DRI. When something breaks, it’s obvious whose it is: one team gets paged, three people join the call, and everyone else keeps working.
 
 ![Slide 64](slides/64.jpg)
 
-> Every team owns its own piece. The fix is ownership. Split the system into pieces, give every piece a team and every team a DRI. When something breaks, it’s obvious whose it is: one team gets paged, three people join the call, and everyone else keeps working.
+> Storm 4 of 4: Communication. The fourth: how information travels. Even with the right wiring, a lossy or expensive way of talking eats the team’s time.
 
 ![Slide 65](slides/65.jpg)
 
-> Storm 4 of 4: Communication. The fourth: how information travels. Even with the right wiring, a lossy or expensive way of talking eats the team’s time.
+> The promise that got lost. Sales promises a customer something specific. By the time it’s passed through PM and tech lead, the engineer hears something else entirely, and builds that. The fire comes months later, when the customer finds out.
 
 ![Slide 66](slides/66.jpg)
 
-> The promise that got lost. Sales promises a customer something specific. By the time it’s passed through PM and tech lead, the engineer hears something else entirely, and builds that. The fire comes months later, when the customer finds out.
+> Beating the telephone game. Every hop between the customer and the engineer loses something, so cut the hops. Say the big things once, to everyone, at the all hands. Write the request down in a PRD, so the engineer reads what the customer actually asked for instead of a retelling. Use standups to catch drift early, while it’s still cheap to fix. And keep the conversation in a shared channel, not DMs: a DM is a private copy of the truth that nobody else can check.
 
 ![Slide 67](slides/67.jpg)
 
-> Beating the telephone game. Every hop between the customer and the engineer loses something, so cut the hops. Say the big things once, to everyone, at the all hands. Write the request down in a PRD, so the engineer reads what the customer actually asked for instead of a retelling. Use standups to catch drift early, while it’s still cheap to fix. And keep the conversation in a shared channel, not DMs: a DM is a private copy of the truth that nobody else can check.
+> Meeting creep. Every coordination problem gets “solved” with another recurring meeting: a sync, a standup, a planning session, a retro. Each one makes sense on its own. Together they leave engineers a sliver of Friday to actually build anything, and even that gets a “quick sync”.
 
 ![Slide 68](slides/68.jpg)
 
-> Meeting creep. Every coordination problem gets “solved” with another recurring meeting: a sync, a standup, a planning session, a retro. Each one makes sense on its own. Together they leave engineers a sliver of Friday to actually build anything, and even that gets a “quick sync”.
+> Fixing meeting creep. First, need-to-know: not everyone needs to know everything. Invite the two people who own the decision, write it down, and let everyone else read the notes when they need them. Second, batching: collect the “quick syncs” and the questions into one slot a week, and protect the rest as focus time. An interruption costs far more than the five minutes it takes; it costs the hour it took to get into the problem.
 
 ![Slide 69](slides/69.jpg)
 
-> Fixing meeting creep. First, need-to-know: not everyone needs to know everything. Invite the two people who own the decision, write it down, and let everyone else read the notes when they need them. Second, batching: collect the “quick syncs” and the questions into one slot a week, and protect the rest as focus time. An interruption costs far more than the five minutes it takes; it costs the hour it took to get into the problem.
+> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
 
 ![Slide 70](slides/70.jpg)
 
-> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
 
 ![Slide 71](slides/71.jpg)
 
-> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
 
 ![Slide 72](slides/72.jpg)
 
-> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 73](slides/73.jpg)
 
-> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 74](slides/74.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
 
 ![Slide 75](slides/75.jpg)
 
-> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
 
 ![Slide 76](slides/76.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
 
 ![Slide 77](slides/77.jpg)
 
-> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
+> Appendix. Backup slides, kept for questions. Not part of the normal talk.
 
 ![Slide 78](slides/78.jpg)
 
-> Appendix. Backup slides, kept for questions. Not part of the normal talk.
-
-![Slide 79](slides/79.jpg)
-
 > Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
 
-![Slide 80](slides/80.jpg)
+![Slide 79](slides/79.jpg)
 
 > Change the wiring slowly. Relationships and shared knowledge take months to grow. Before the next reorg, ask whether the last one has had time to take root. Change the wiring when the goals change, not every quarter.
