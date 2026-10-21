@@ -256,7 +256,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 61](slides/61.jpg)
 
-> Write it down: broadcast, don’t RPC. Telling people one at a time is an RPC per person: it’s slow, it costs the sender every time, and every retelling drifts. Writing it down is a broadcast: one write, many reads, async, and it’s still there for the person who was on PTO. Decision logs, weekly notes, a short doc.
+> Beating the telephone game. Every hop between the customer and the engineer loses something, so cut the hops. Say the big things once, to everyone, at the all hands. Write the request down in a PRD, so the engineer reads what the customer actually asked for instead of a retelling. Use standups to catch drift early, while it’s still cheap to fix. And keep the conversation in a shared channel, not DMs: a DM is a private copy of the truth that nobody else can check.
 
 ![Slide 62](slides/62.jpg)
 
