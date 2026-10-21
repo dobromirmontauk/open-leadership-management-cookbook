@@ -148,7 +148,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 34](slides/34.jpg)
 
-> The CAP theorem: pick any two. There’s a famous result in computer science for any system spread across many places. You want three things: everyone has the same information, work never stops, and it keeps working when parts can’t reach each other. Every CEO wants all three. Let’s look at what each one costs.
+> The CAP theorem. There’s a famous result in computer science for any system spread across many places. You want three things: everyone has the same information, work never stops, and it keeps working when parts can’t reach each other. Every CEO wants all three. Let’s look at what each one costs.
 
 ![Slide 35](slides/35.jpg)
 
