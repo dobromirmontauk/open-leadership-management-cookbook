@@ -148,152 +148,156 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 34](slides/34.jpg)
 
-> Everyone has a different “right thing”. Everyone has a different view of what is important, and what should be built when. None of them are wrong: each one is looking at a real problem from where they sit. The engineer is the one who has to turn all of it into a single thing to build.
+> The CAP theorem: pick any two. There’s a famous result in computer science for any system spread across many places. You want three things: everyone has the same information, work never stops, and it keeps working when parts can’t reach each other. Every CEO wants all three. Let’s look at what each one costs.
 
 ![Slide 35](slides/35.jpg)
 
-> …and every signal arrives differently. And each of those signals reaches each engineer at a different level of clarity. Sometimes the feedback loop doesn’t exist at all. Sometimes it goes to the wrong people. Sometimes the data coming in is wrong and can’t be trusted.
+> Consistency: everyone knows the same thing. For everyone to know the same thing, every pair of people has to stay in sync. Eight people is 28 conversations, fifty is over twelve hundred, and every one of these people wants something different. Keeping everyone consistent gets more expensive with every person you add, and it’s never finished.
 
 ![Slide 36](slides/36.jpg)
 
-> …and that’s why. Whatever ships, somebody’s signal got lost on the way. That’s the title of this talk. And it’s not because anyone is bad at their job. Next: why this is unavoidable.
+> Partition: on vacation. A partition is when people can’t reach each other. The simplest one: someone is on vacation, and what they know is on the beach with them. And they should be: we want people to take PTO.
 
 ![Slide 37](slides/37.jpg)
 
-> Every head holds its own copy. Every person carries their own copy of the plan in their head. When the plan changes, the update has to reach every one of those copies, and it never reaches them all at once. At any moment, some people are working from an old version, and they don’t know it.
+> Partition: gone for good. Sometimes the partition is permanent. Someone quits, and everything they knew that wasn’t written down leaves with them.
 
 ![Slide 38](slides/38.jpg)
 
-> News travels slowly. Information takes time to travel, and the world doesn’t wait. By the time a request reaches the engineer, it may already be out of date. Nobody did anything wrong: the customer changed their mind, and the correction is still on its way.
+> Partition: just busy. Most of the time it’s not vacation or quitting. People are just busy. The PM needs an answer from Sales, Sales is with a customer, and the engineer needs to pick A or B today. In an org, partitions aren’t the exception. They’re the normal state.
 
 ![Slide 39](slides/39.jpg)
 
-> The handshake problem. Every pair of people is a possible conversation. Double the team and you roughly quadruple the lines. At 50 people nobody can keep up with all of them, so most of what is known never reaches most of the people who need it.
+> Availability: work never stops… right? Availability means work never stops. But if you insist on consistency, everyone in sync before anything moves, then every partition stops the work. Somebody is always out, so nothing ever ships.
 
 ![Slide 40](slides/40.jpg)
 
-> People come and go. People go on vacation, change teams, and leave. Everything they knew that wasn’t written down walks out with them. New people arrive with empty heads and need months to fill them, and filling them costs the time of the people who already know.
+> The CAP theorem. Turns out, there is a famous computer science proof showing this is unavoidable. You can’t just hire better people. It’s called the CAP theorem, and it says you can only have 2 out of these 3 things. AND: organizations MUST have partitions, so our choice is between Availability and Consistency. Obviously, we choose availability. So we can never have consistency. Dammit.
 
 ![Slide 41](slides/41.jpg)
 
-> You can’t have it all. When people can’t reach each other, you get two choices. Wait until everyone can sync up, and nothing moves. Or keep going, and accept that people will make conflicting decisions. Half the team is on PTO or in another time zone: do you block, or decide and risk stepping on each other?
+> Everyone has a different “right thing”. Everyone has a different view of what is important, and what should be built when. None of them are wrong: each one is looking at a real problem from where they sit. The engineer is the one who has to turn all of it into a single thing to build.
 
 ![Slide 42](slides/42.jpg)
 
-> The CAP theorem. Turns out, there is a famous computer science proof showing this is unavoidable. You can’t just hire better people. It’s called the CAP theorem, and it says you can only have 2 out of these 3 things. AND: organizations MUST have partitions, so our choice is between Availability and Consistency. Obviously, we choose availability. So we can never have consistency. Dammit.
+> …and every signal arrives differently. And each of those signals reaches each engineer at a different level of clarity. Sometimes the feedback loop doesn’t exist at all. Sometimes it goes to the wrong people. Sometimes the data coming in is wrong and can’t be trusted.
 
 ![Slide 43](slides/43.jpg)
 
-> Part 3: Common Org Failure Modes. We built the org up one sensible step at a time. Now some of the ways it goes wrong, each one made of steps that seemed sensible at the time.
+> …and that’s why. Whatever ships, somebody’s signal got lost on the way. That’s the title of this talk. And it’s not because anyone is bad at their job. Questions before we look at how it goes wrong?
 
 ![Slide 44](slides/44.jpg)
 
-> Guess there’s nothing to do… Everything is humming, so the strategy folks retreat to the boardroom to present a new vision, and the engineers, cut off from the customers, stand around the coffee machine wondering what any of it means. Meanwhile the customers walk out the door, straight to the competition, where a single engineer is happy to help.
+> Part 3: Common Org Failure Modes. We built the org up one sensible step at a time. Now some of the ways it goes wrong, each one made of steps that seemed sensible at the time.
 
 ![Slide 45](slides/45.jpg)
 
-> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
+> Guess there’s nothing to do… Everything is humming, so the strategy folks retreat to the boardroom to present a new vision, and the engineers, cut off from the customers, stand around the coffee machine wondering what any of it means. Meanwhile the customers walk out the door, straight to the competition, where a single engineer is happy to help.
 
 ![Slide 46](slides/46.jpg)
 
-> Let me find out… The opposite failure. So many layers sit between the engineers and the customers that nothing gets through: every layer says “let me find out…”, frustration builds the closer you get to the customer, and the engineers think there’s nothing important to do.
+> Everyone wants something. Without the structure, every role goes straight to the engineer, and they all want something different, right now. The engineer has no idea what to do first.
 
 ![Slide 47](slides/47.jpg)
 
-> The CEO side door. The CEO grabs one engineer directly, and the engineer happily starts. Meanwhile, the PM and tech lead promise a customer a feature from the very same engineer. Nobody knows about the other promise until the engineer is stuck between them.
+> Let me find out… The opposite failure. So many layers sit between the engineers and the customers that nothing gets through: every layer says “let me find out…”, frustration builds the closer you get to the customer, and the engineers think there’s nothing important to do.
 
 ![Slide 48](slides/48.jpg)
 
-> The promise that got lost. Sales promises a customer something specific. By the time it’s passed through PM and tech lead, the engineer hears something else entirely, and builds that. The fire comes months later, when the customer finds out.
+> The CEO side door. The CEO grabs one engineer directly, and the engineer happily starts. Meanwhile, the PM and tech lead promise a customer a feature from the very same engineer. Nobody knows about the other promise until the engineer is stuck between them.
 
 ![Slide 49](slides/49.jpg)
 
-> What’s the top priority? The Architect, PM, Support and Sales each have a different “top priority”, and they fight it out. Until they agree, the engineer has nothing to do but watch.
+> The promise that got lost. Sales promises a customer something specific. By the time it’s passed through PM and tech lead, the engineer hears something else entirely, and builds that. The fire comes months later, when the customer finds out.
 
 ![Slide 50](slides/50.jpg)
 
-> If the system gets too complicated, it becomes very hard to figure WHAT and WHO is responsible for fixing it. Nobody understand the whole system anymore. A common clue that this is a problem are huge war rooms where everyone gets pulled in to help, because nobody knows who actually can.
+> What’s the top priority? The Architect, PM, Support and Sales each have a different “top priority”, and they fight it out. Until they agree, the engineer has nothing to do but watch.
 
 ![Slide 51](slides/51.jpg)
 
-> The hero dependency. One engineer built the whole integration for our biggest new customer, so every question, from the CEO to Support, goes to their head. Then they go on PTO exactly as we launch. Nobody else knows how it works, and the launch catches fire. When knowledge lives in one head, that person is a single point of failure.
+> If the system gets too complicated, it becomes very hard to figure WHAT and WHO is responsible for fixing it. Nobody understand the whole system anymore. A common clue that this is a problem are huge war rooms where everyone gets pulled in to help, because nobody knows who actually can.
 
 ![Slide 52](slides/52.jpg)
 
-> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+> The hero dependency. One engineer built the whole integration for our biggest new customer, so every question, from the CEO to Support, goes to their head. Then they go on PTO exactly as we launch. Nobody else knows how it works, and the launch catches fire. When knowledge lives in one head, that person is a single point of failure.
 
 ![Slide 53](slides/53.jpg)
 
-> Meeting creep. Every coordination problem gets “solved” with another recurring meeting: a sync, a standup, a planning session, a retro. Each one makes sense on its own. Together they leave engineers a sliver of Friday to actually build anything, and even that gets a “quick sync”.
+> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
 
 ![Slide 54](slides/54.jpg)
 
-> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: blue, not red. The new team’s engineer has a head just as full of the red system, and it can only come out one thin strand at a time, through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
+> Meeting creep. Every coordination problem gets “solved” with another recurring meeting: a sync, a standup, a planning session, a retro. Each one makes sense on its own. Together they leave engineers a sliver of Friday to actually build anything, and even that gets a “quick sync”.
 
 ![Slide 55](slides/55.jpg)
 
-> Part 4: Techniques for Solving This. We’ve seen how it goes wrong. Now: what actually helps.
+> Engineers aren’t fungible. “We can put Boris on it.” Boris is great, and his head is full, but it’s full of his old team’s system: blue, not red. The new team’s engineer has a head just as full of the red system, and it can only come out one thin strand at a time, through a tiny mouth into tiny ears. Two weeks later, very little has made it across. Moving a strong engineer to a new team doesn’t move their knowledge with them.
 
 ![Slide 56](slides/56.jpg)
 
-> Your org is a distributed system. N nodes means N² communication possibilities. Every person holds state. Nodes disappear. You get consistency problems. Every conversation is an RPC. This is a distributed systems problem, and the CAP theorem applies. The job is to balance “eventual consistency” against the CPU burned on achieving it, versus doing useful work.
+> Part 4: Techniques for Solving This. We’ve seen how it goes wrong. Now: what actually helps.
 
 ![Slide 57](slides/57.jpg)
 
-> Shard it: small teams, clear owners. The first fix is the one the Architect found: cut N down. Small teams that each own their own piece of the system (their own dragon) talk mostly inside the team, and across teams through one interface. Nine people in one team is 36 phone lines; three teams of three is 12.
+> Your org is a distributed system. N nodes means N² communication possibilities. Every person holds state. Nodes disappear. You get consistency problems. Every conversation is an RPC. This is a distributed systems problem, and the CAP theorem applies. The job is to balance “eventual consistency” against the CPU burned on achieving it, versus doing useful work.
 
 ![Slide 58](slides/58.jpg)
 
-> Write it down: broadcast, don’t RPC. Telling people one at a time is an RPC per person: it’s slow, it costs the sender every time, and every retelling drifts. Writing it down is a broadcast: one write, many reads, async, and it’s still there for the person who was on PTO. Decision logs, weekly notes, a short doc.
+> Shard it: small teams, clear owners. The first fix is the one the Architect found: cut N down. Small teams that each own their own piece of the system (their own dragon) talk mostly inside the team, and across teams through one interface. Nine people in one team is 36 phone lines; three teams of three is 12.
 
 ![Slide 59](slides/59.jpg)
 
-> One owner per decision. Consensus is the most expensive protocol there is: every node has to talk to every other node, and it never quite converges. Give each decision a leader, a DRI. They gather input, decide, and tell everyone why. Everyone else only has to hear the answer.
+> Write it down: broadcast, don’t RPC. Telling people one at a time is an RPC per person: it’s slow, it costs the sender every time, and every retelling drifts. Writing it down is a broadcast: one write, many reads, async, and it’s still there for the person who was on PTO. Decision logs, weekly notes, a short doc.
 
 ![Slide 60](slides/60.jpg)
 
-> Heartbeats and batching. Distributed systems use heartbeats and batching instead of chattering constantly. Teams can too: a short predictable standup, office hours for questions, and long uninterrupted blocks for actual work. Real emergencies still page on-call; everything else waits for the next heartbeat.
+> One owner per decision. Consensus is the most expensive protocol there is: every node has to talk to every other node, and it never quite converges. Give each decision a leader, a DRI. They gather input, decide, and tell everyone why. Everyone else only has to hear the answer.
 
 ![Slide 61](slides/61.jpg)
 
-> Part 5: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+> Heartbeats and batching. Distributed systems use heartbeats and batching instead of chattering constantly. Teams can too: a short predictable standup, office hours for questions, and long uninterrupted blocks for actual work. Real emergencies still page on-call; everything else waits for the next heartbeat.
 
 ![Slide 62](slides/62.jpg)
 
-> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+> Part 5: The EM’s Responsibility. So what does this mean for you, the engineering manager?
 
 ![Slide 63](slides/63.jpg)
 
-> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
 
 ![Slide 64](slides/64.jpg)
 
-> Find where knowledge is stuck. Part of the router job is knowing where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
 
 ![Slide 65](slides/65.jpg)
 
-> Protect the CPU. The other half of the job: protect the CPU. Every “quick sync?” is a context switch for an engineer. Take the questions yourself, batch them, answer them in writing, and send one person to the meeting instead of five, so the team can spend its cycles on useful work.
+> Find where knowledge is stuck. Part of the router job is knowing where knowledge is stuck: the one person who understands billing, the deploy script only one person can run. A bus factor of one is a bug. Fix it on purpose: pairing, rotation, writing it down, before that person goes on PTO.
 
 ![Slide 66](slides/66.jpg)
 
-> Pick the consistency level. Not everything needs strong consistency. A few things need everyone to know right now; most things only need the right people to know eventually; a lot only needs to be findable by whoever touches it. And that includes you: you don’t need to know everything. Don’t burn too many cycles on info acquisition.
+> Protect the CPU. The other half of the job: protect the CPU. Every “quick sync?” is a context switch for an engineer. Take the questions yourself, batch them, answer them in writing, and send one person to the meeting instead of five, so the team can spend its cycles on useful work.
 
 ![Slide 67](slides/67.jpg)
 
-> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
+> Pick the consistency level. Not everything needs strong consistency. A few things need everyone to know right now; most things only need the right people to know eventually; a lot only needs to be findable by whoever touches it. And that includes you: you don’t need to know everything. Don’t burn too many cycles on info acquisition.
 
 ![Slide 68](slides/68.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 69](slides/69.jpg)
 
-> Cross-functional goal meetings. Weekly or bi-weekly, with everyone in the company who can affect a major goal: Customer Weekly, Store Health, and so on. No excuses for the business not to be aligned.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 70](slides/70.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Cross-functional goal meetings. Weekly or bi-weekly, with everyone in the company who can affect a major goal: Customer Weekly, Store Health, and so on. No excuses for the business not to be aligned.
 
 ![Slide 71](slides/71.jpg)
+
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+
+![Slide 72](slides/72.jpg)
 
 > Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
