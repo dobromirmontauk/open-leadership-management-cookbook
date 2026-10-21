@@ -288,39 +288,39 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 69](slides/69.jpg)
 
-> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
 
 ![Slide 70](slides/70.jpg)
 
-> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
 
 ![Slide 71](slides/71.jpg)
 
-> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+> Appendix. Backup slides, kept for questions. Not part of the normal talk.
 
 ![Slide 72](slides/72.jpg)
 
-> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
+> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
 
 ![Slide 73](slides/73.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
 
 ![Slide 74](slides/74.jpg)
 
-> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
 
 ![Slide 75](slides/75.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 76](slides/76.jpg)
 
-> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 77](slides/77.jpg)
 
-> Appendix. Backup slides, kept for questions. Not part of the normal talk.
+> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
 
 ![Slide 78](slides/78.jpg)
 
