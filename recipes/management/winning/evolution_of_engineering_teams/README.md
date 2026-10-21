@@ -288,44 +288,48 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 69](slides/69.jpg)
 
-> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
+> Same Rock, Same Direction. Remember the mountain? Nobody on it was lazy or wrong; they were just pushing in different directions. The engineering doesn’t get easier, but the pushing can line up. Resolve disagreements early, while they’re a coffee and not a fight. Keep one ordered list where everyone can see it. Give every piece an owner, so only one team gets paged. And write things down where everyone can read them. The manager’s job isn’t to yell “faster” from on top of the rock; it’s to get up the hill first and pull. Questions?
 
 ![Slide 70](slides/70.jpg)
 
-> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
+> Meet the cast: the team around engineering. The people engineering works with every day. Each one pulls the team in a different direction: the CEO sets the vision, Product decides what to build, Design how it should feel, Sales what was promised, Support what’s broken right now, and QA what’s broken before anyone else finds it.
 
 ![Slide 71](slides/71.jpg)
 
-> Appendix. Backup slides, kept for questions. Not part of the normal talk.
+> Meet the cast: the engineers. “Engineer” isn’t one job. Frontend builds what you see, backend what you don’t, DevOps keeps it running at 3am, Data/ML turns data into decisions, Mobile lives in the app stores, Security assumes everyone is an attacker, and the Architect worries about how it all fits together in two years.
 
 ![Slide 72](slides/72.jpg)
 
-> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
+> Appendix. Backup slides, kept for questions. Not part of the normal talk.
 
 ![Slide 73](slides/73.jpg)
 
-> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
+> Part 4: The EM’s Responsibility. So what does this mean for you, the engineering manager?
 
 ![Slide 74](slides/74.jpg)
 
-> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
+> Isn’t this the VP’s problem? Isn’t this the VP’s problem? Why do I need to think about this? Because the VP sees the org chart, the boxes. You see the lines: most of the N² phone lines in the org run through your team, and through you.
 
 ![Slide 75](slides/75.jpg)
 
-> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
+> Who needs to know what, when, and why? WHO needs to know WHAT, WHEN, and WHY? WHERE are they going to learn it? If you don’t have this mental model, then you can’t help the system become eventually consistent, and knowledge gets stuck. Yes, you’re just a fancy router. Sorry.
 
 ![Slide 76](slides/76.jpg)
 
-> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
+> Shape process to fit goals. Process is plumbing: it exists to get work to the goals. When the goals change, change the process. Be comfortable throwing out last quarter’s pipes.
 
 ![Slide 77](slides/77.jpg)
 
-> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
+> Standups and virtual teams. Standups are expensive, synchronous events, and super high bandwidth. Use them judiciously, and get the right people in the room. Virtual teams are great: bring in, temporarily, the people who unblock you.
 
 ![Slide 78](slides/78.jpg)
 
-> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+> The EM’s checklist. That’s the job, in four questions. Run through them every week. When an answer is “no” or “I don’t know”, that’s a little storm forming, and the time to break it up is now.
 
 ![Slide 79](slides/79.jpg)
+
+> Reorg whiplash. You can’t change things too fast, because people need time to build relationships and transfer knowledge.
+
+![Slide 80](slides/80.jpg)
 
 > Change the wiring slowly. Relationships and shared knowledge take months to grow. Before the next reorg, ask whether the last one has had time to take root. Change the wiring when the goals change, not every quarter.
