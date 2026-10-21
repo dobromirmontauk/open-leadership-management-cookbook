@@ -228,7 +228,7 @@ It follows one product from a single engineer with an idea to four teams, a doze
 
 ![Slide 54](slides/54.jpg)
 
-> Shard it: small teams, clear owners. The first fix is the one the Architect found: cut N down. Small teams that each own their own piece of the system (their own dragon) talk mostly inside the team, and across teams through one interface. Nine people in one team is 36 phone lines; three teams of three is 12.
+> One front desk. Give the crowd one front door. Each day one engineer takes the front desk: every question, every ticket, every “quick thing” goes to them. They answer what they can, put the rest on the list, and everyone else gets to stay heads-down. It rotates, so nobody is stuck at the desk forever, and everybody learns the whole system.
 
 ![Slide 55](slides/55.jpg)
 
