@@ -56,3 +56,9 @@ Doc is [here](https://docs.google.com/document/d/1VAxvBONq6PTyn7WBFwXQmWAc_FKNuH
 * [Patrick Kua's definitions](https://www.patkua.com/blog/the-definition-of-a-tech-lead/). He does training on technical leadership if you are interested.
     * His [circles of responsibility](https://www.thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility/) is also scorecard-like.
     * His [Architect scorecard](https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/)
+
+## Interactive workshop app
+
+The [scorecard workshop app](src/README.md) turns these scorecards into shared class sessions, one behavior per slide, with self-assessment, peer ratings, and personal reports. It accepts existing scorecards or Markdown/JSON imports, stores sessions in D1, and uses unguessable session IDs without logins or a session directory.
+
+See [src/DEPLOYMENT.md](src/DEPLOYMENT.md) for standalone Cloudflare Workers deployment from a fresh checkout.
