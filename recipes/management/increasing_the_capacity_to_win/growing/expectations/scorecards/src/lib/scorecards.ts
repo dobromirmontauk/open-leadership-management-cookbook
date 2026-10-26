@@ -2,7 +2,7 @@ import sources from '../data/sources.json';
 export type Item={id:string;text:string};
 export type Section={id:string;title:string;items:Item[]};
 export type Card={id:string;title:string;description:string;source?:string;sha?:string;scale:string[];sections:Section[]};
-export const defaultScale=['Not yet demonstrated','Significant room to improve','Does this well','Does this amazingly','Exceptional mastery'];
+export const defaultScale=['Unlikely in 6+ months','Not yet, maybe in <6 months','Does this well','Very strong','Role model for everyone'];
 export function clean(s:string){return s.replace(/\[([^\]]+)\]\([^)]*\)/g,'$1').replace(/<[^>]+>/g,'').replace(/[*_]/g,'').replace(/\\([!_#])/g,'$1').trim()}
 export function parseMarkdown(text:string,title='Imported scorecard'):Card{
  let sections:Section[]=[], current:Section|undefined,childIndent=-1;
@@ -18,7 +18,7 @@ export function parseMarkdown(text:string,title='Imported scorecard'):Card{
 const labels:Record<string,[string,string]>={
  'twitter_ad_serving_em.md':['EM · Ad Serving','Grow teams and deliver large, reliable systems.'],
  'twitter_billing_payments_em.md':['EM · Billing & Payments','Build reliable payment platforms and strong teams.'],
- 'doxel_fe_em.md':['Engineering Manager','Execution, product leadership, talent, and technology.'],
+ 'doxel_fe_em.md':['Sr. Engineering Manager, Product','Execution, product leadership, talent, and technology.'],
  'warrior_tl_scorecard.md':['Warrior Technical Lead','Ship ambitious projects through execution and influence.'],
  'gardener_tl_scorecard.md':['Gardener Technical Lead','Grow healthy systems, teams, and engineering practices.'],
  'uber_tl_scorecard.md':['Über Technical Lead','Lead architecture and engineering across teams.'],
