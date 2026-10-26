@@ -1,0 +1,6 @@
+xkcd-style hand-drawn chart, pure black ink line art on plain white, no gray, no shading. Fill the whole square image edge to edge with the chart; no border, no frame, no people.
+At the top, centered, the large hand-lettered title "TIME PRESSURE".
+Below it, a simple line chart: vertical axis labeled "REMAINING MoBs" (written vertically along the axis), horizontal axis labeled "DAYS" with an arrow.
+ONE bold black PERFECTLY STRAIGHT line from the top-left corner of the chart sloping down to the far right end of the horizontal axis, where it touches zero. A small label along the line: "30 MoBs / DAY". At the point where it touches zero, near the far right, a tick mark labeled "300 DAYS".
+A vertical RED line at about 55% of the width, labeled "DEADLINE" in red at its top. Where the straight line crosses the red line it is still about halfway up; a big red "!" right next to that crossing point.
+Red is used ONLY for the DEADLINE line, its label and the "!". All lettering large, clean and legible. No other lines.

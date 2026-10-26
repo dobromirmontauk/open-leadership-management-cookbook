@@ -1,0 +1,10 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. Recurring characters must look exactly like on the attached reference sheet: the MANAGER has two tall pointy black horn-like hair tufts and a tie (no clipboard). Hand-lettered all-caps text only where specified, exactly the words given.
+At the top, large hand-lettered title: "HOW TO WIN"
+Below it, six equal square cartoon tiles in a 3 by 2 grid, each with a thin hand-drawn border, a small drawing, and a one-word or two-word caption underneath. Same simple style in every tile; the Manager appears in each one.
+Tile 1, caption "AIM": the Manager planting a flag marked "B" into the ground, pointing ahead.
+Tile 2, caption "SCOUT": the Manager peering through binoculars at the edge of a puffy cloud of fog.
+Tile 3, caption "ASSIGN": the Manager handing hard hats to two stick-figure engineers.
+Tile 4, caption "CLEAR THE ROAD": the Manager chopping a fallen log off a dirt road with an axe.
+Tile 5, caption "COUNT": the Manager next to a small stack of bricks, with tally marks "IIII" floating beside him.
+Tile 6, caption "CARRY": the Manager carrying a single brick, sleeves rolled up, a small sweat drop.
+No other text.

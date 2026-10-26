@@ -1,0 +1,15 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like the second attached image: round head with two tall, solid black, pointed hair tufts sweeping up and slightly outward (pointy-haired boss hair, NOT devil horns, NOT a mohawk), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given, never in quotation marks. No name labels under characters. No panel border around the whole image.
+One wide comic panel, 16:9. At the top left, the hand-lettered title AUTOMATE.
+FLAT SIDE VIEW, like a side-scrolling game, ONE WIDE PANORAMA ON A SINGLE GROUND LINE: everything stands on the same one ground line across the lower middle of the image, in ONE row only (never two rows, never wrapping). Draw the figures and vehicles small enough to fit in one row. No deep perspective, nothing recedes into the distance. ONE single road runs perfectly HORIZONTALLY straight across the image, left to right, from a brick FACTORY (smokestack, sign BRICKS) at the far LEFT edge to a CUSTOMER SITE (a small house under construction with a flag marked B) at the far RIGHT edge. The road ends at the customer site. Every vehicle and person is drawn in side profile, facing RIGHT and moving RIGHT along the road toward the customer site.
+The road is being built from the factory toward the customer. RULE: each builder works at the FRONT EDGE of its kind of road, and the vehicle that uses that road is BEHIND the builder, on the finished part. Draw exactly these, in this exact order from LEFT to RIGHT, evenly spaced:
+1. the brick FACTORY;
+2. the MANAGER and two engineers with wrenches building a short, partly finished CONVEYOR BELT coming out of the factory;
+3. a big HEAVY TRUCK with a huge load of bricks, on smooth paved road;
+4. a STEAMROLLER at the right end of the paved road, paving it; past the steamroller the road turns to leveled dirt;
+5. a small LIGHT TRUCK with about 100 bricks, on the leveled dirt road;
+6. a BULLDOZER at the right end of the dirt road, pushing dirt forward; past it the ground is a narrow rough path;
+7. a person pushing a WHEELBARROW with about 10 bricks, on the rough path;
+8. a person rolling a rock off the path, at the right end of the path; past him there is no path, only rocks and debris;
+9. a person carrying a single brick by hand, stepping over rocks;
+10. the CUSTOMER SITE: a small house under construction with a flag marked B, at the far right edge.
+No other text anywhere.

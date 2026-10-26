@@ -1,0 +1,7 @@
+xkcd-style hand-drawn chart, pure black ink line art on plain white, no gray, no shading. Fill the whole square image edge to edge with the chart; no border, no frame, no people.
+At the top, centered, the large hand-lettered title "TIME PRESSURE".
+Below it, a simple line chart with a vertical axis labeled "REMAINING MoBs" (written vertically along the axis) and a horizontal axis labeled "TIME" with an arrow.
+A bold black saw-tooth line: it starts high at the top-left and curves down; at about 25% of the width it jumps straight UP (small note with a tiny arrow: "B FLAG MOVED"); it curves down again more steeply; at about 50% of the width it jumps straight UP again (small note with a tiny arrow: "CUSTOMER ASKED FOR MORE BRICKS"); then it curves down steeply again toward the right.
+A thin dashed black line labeled "CAPACITY" starting low at the bottom-left and curving UPWARD to the right.
+A vertical RED line at about 70% of the width, labeled "DEADLINE" in red at its top. Where the bold line crosses it, the bold line is still far above zero; a big red "!" right next to that crossing point.
+Red is used ONLY for the DEADLINE line, its label and the "!". All lettering large, clean and legible.

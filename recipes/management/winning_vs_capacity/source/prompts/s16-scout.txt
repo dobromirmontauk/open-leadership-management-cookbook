@@ -1,0 +1,8 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like on the attached reference sheet: two TALL spiky black hair tufts sticking straight up (hair, not horns), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel, 16:9, drawn as a hand-drawn TOP-DOWN MAP, like a treasure map, of a forest seen from above: many small scribbly tree circles fill the background. At the top center, the hand-lettered title "SCOUT".
+Three dirt roads (drawn as pairs of thin parallel lines) all start from the same point at the BOTTOM MIDDLE of the image.
+ROAD 1 veers off to the LEFT and climbs into a cluster of jagged mountain peaks (drawn as simple zigzag triangles) in the upper left, where it ends in a dead end marked with a big "X".
+ROAD 2 goes STRAIGHT UP the middle and runs into a wide river crossing the map horizontally (wavy lines); the road stops at the riverbank, with no bridge, marked with a big "X".
+ROAD 3 goes off to the RIGHT, curves around the right side of the map in a long loop, crosses the river on a small bridge, and finally reaches a flag marked "B" at the TOP MIDDLE of the map, past the river.
+At the start point, bottom middle: the MANAGER (drawn larger, as a stick figure standing on the map) points up the right road, calling to a line of engineers carrying bricks, with a speech bubble "THIS WAY!". The engineers have started walking bricks up the right road.
+No other text anywhere.

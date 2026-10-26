@@ -1,0 +1,7 @@
+Redraw the attached image EXACTLY (same room, people, poses, title, axes, red DEADLINE line, rising dashed CAPACITY curve). Pure black line art on white; red DEADLINE stays the only color. Fix ONLY the bold "REMAINING MoBs" line so it has TWO clearly SEPARATE upward jumps, like a saw-tooth with three falling segments:
+- Segment 1: from the top-left, curves down to about 25% of the chart width.
+- JUMP 1 at about 25% of the width: a sudden vertical jump UP. Label next to it, with a tiny arrow pointing at this jump: "B FLAG MOVED".
+- Segment 2: curves down again, steeper, until about 50% of the width.
+- JUMP 2 at about 50% of the width: another sudden vertical jump UP. Label next to it, with a tiny arrow pointing at THIS second jump: "CUSTOMER ASKED FOR MORE BRICKS".
+- Segment 3: curves down even more steeply, crosses the red DEADLINE line (at about 70% of the width) still clearly above zero, with the small red "!" there.
+Each label points to its own jump. Keep chart lettering small, clean and legible.

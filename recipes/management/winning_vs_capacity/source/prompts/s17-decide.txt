@@ -1,0 +1,7 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like on the attached reference sheet: two TALL spiky black hair tufts sticking straight up (hair, not horns), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel, 16:9. At the top center, the hand-lettered title "DECIDE".
+A dirt road comes from the bottom center and splits at a fork in the middle of the panel. The LEFT branch leads into a dark, scribbly, spooky forest (dense black-outlined trees, drawn with line hatching only). The RIGHT branch winds up steep zigzag mountains.
+At the fork: two engineers holding bricks argue with each other, angry faces, arms waving. One points left with a speech bubble "FOREST!"; the other points right with a speech bubble "MOUNTAINS!".
+Between them stands the MANAGER, calm and firm, pointing decisively up the right road into the mountains, with a speech bubble "MOUNTAINS. GO."
+Lower left foreground: a big untouched pile of bricks, and next to it four engineers sitting on the ground in a row, relaxed, eating popcorn from popcorn buckets, watching the argument like a movie. They are clearly not working.
+No other text anywhere.

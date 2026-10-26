@@ -1,0 +1,9 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. The MANAGER must look exactly like the second attached image: round head with two tall, solid black, pointed hair tufts sweeping up and slightly outward (pointy-haired boss hair, NOT devil horns, NOT a mohawk), tie, no clipboard. Hand-lettered all-caps text only where specified, exactly the words given, never in quotation marks. No name labels under characters. No panel border around the whole image.
+One wide comic panel, 16:9. At the top left, the hand-lettered title ORGANIZE.
+A running brick operation seen from slightly above, working on its own. No thought bubble.
+LEFT: a big pile of bricks with a LOADING DOCK (a simple wooden platform with a small roof). A nerdy guy with big round glasses drives a FORKLIFT, lifting a pallet of bricks onto a truck. On the dock wall hangs a DUTY BOARD: a simple grid of small boxes with stick-figure icons (no readable words).
+From the dock, TWO roads lead to the right. A signpost at the fork has two arrow signs reading B ROUTE and C ROUTE. On each road a truck with a driver in a trucker cap drives toward its flag.
+Upper right: flag B, with a strong man (huge arms) unloading bricks from a parked truck by hand at a small unloading station. Lower right: flag C, with a second strong man doing the same at its own station.
+Bottom center/right foreground: the MANAGER, NOT directing anyone, kneels or stands at a small easel/table focused on sketching a map of a NEW third road, drawn as a dashed line, toward a faraway new flag marked D on the horizon. A third, empty signpost arrow next to him reads D ROUTE?
+Everyone is busy at their own station; nobody is looking at the Manager.
+No other text anywhere.

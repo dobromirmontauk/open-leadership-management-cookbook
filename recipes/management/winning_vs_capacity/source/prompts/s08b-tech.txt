@@ -1,0 +1,7 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. Use the attached reference sheets for the art style and characters. Hand-lettered all-caps text only where specified, exactly the words given.
+One very wide panel, no border. Along the bottom runs a long hand-drawn horizontal arrow pointing right, labeled "TIME" at its right end, with three tick marks labeled "NEXT WEEK", "NEXT YEAR" and "10 YEARS?".
+Above the first tick (left): an ENGINEER pushing a WHEELBARROW holding about ten bricks. Drawn with bold, solid, confident lines. Label under it: "WHEELBARROW".
+Above the second tick (middle): a delivery TRUCK with a big heap of bricks in the back, a stick-figure driver waving. Drawn with medium, slightly thinner lines. Label under it: "TRUCK".
+Above the third tick (right): a giant tall rocket ship, like a SpaceX Starship, standing on a launch pad, with pallets of bricks visible through a cutaway window in its side. It is the biggest object, but drawn only in faint thin DASHED lines, with a small "?" next to its nose. Label under it: "STARSHIP".
+Under each label, a small impact tag: "2×" under WHEELBARROW, "50×" under TRUCK, "10,000×" under STARSHIP.
+Keep the top 30% of the image completely empty white. No other text.

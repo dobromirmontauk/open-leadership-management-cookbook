@@ -1,0 +1,6 @@
+xkcd-style stick-figure comic, pure black hand-drawn line art on plain white, round heads with dot eyes, no color, no gray fills, no shading, faces always white. Use the first attached image for the landscape style (gentle horizon, grass tufts, brick style) and the second for the characters: the MANAGER has two tall pointy black horn-like hair tufts and a tie (no clipboard). Hand-lettered all-caps text only where specified, exactly the words given.
+One wide comic panel. At the top-left corner, the hand-lettered word "AIM".
+On the left, a line of three stick-figure engineers carry stacks of bricks, marching confidently toward the center, where they have built a neat little brick wall next to an EMPTY hole in the ground with a sign "B (MONDAY)". The Manager walks with them, pointing proudly at the wall.
+From that hole, a long dotted trail of footprints leads away across the landscape to a second empty hole with a sign "B (TUESDAY)", then to a third empty hole with a sign "B (WEDNESDAY)", each farther away and in a different direction (zig-zagging).
+Far away on the right, tiny near the horizon, the CUSTOMER (a stick figure in a baseball cap) is happily carrying the flag marked "B" over their shoulder to yet another spot, whistling (little music notes).
+No other text.

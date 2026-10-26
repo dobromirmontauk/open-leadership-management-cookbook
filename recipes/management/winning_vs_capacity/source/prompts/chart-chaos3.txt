@@ -1,0 +1,16 @@
+xkcd-style hand-drawn chart, hand-drawn ink line art on plain white, no gray, no shading, no fills. Axes, title and notes in black ink. Wide 16:9. Fill the whole image with the chart; no border, no frame, no people.
+At the top left, the large hand-lettered title REALITY.
+A line chart. Horizontal axis labeled WEEKS with an arrow. TWO vertical axes: the LEFT axis labeled MoBs, for TOTAL SCOPE and REMAINING; the RIGHT axis, drawn in GREEN with its label in GREEN, labeled MoB / DAY, for CAPACITY. A vertical RED line at about 85% of the width, labeled DEADLINE in red at its top.
+Exactly THREE lines, each with its label written at its right end:
+A. A BLUE solid line labeled TOTAL SCOPE (label in blue), in the upper part of the chart. It is a STAIRCASE made only of flat horizontal pieces and vertical steps: flat at first; at about 20% of the width it jumps UP a big step, then a little later steps DOWN about half of that jump; at about 50% of the width it jumps UP again, then a little later steps DOWN part of that jump; then flat to the end.
+B. A BOLD BLACK line labeled REMAINING, the burn-down. It starts at the left at the same height as TOTAL SCOPE and slopes DOWN to the right. Every time TOTAL SCOPE jumps up or steps down, REMAINING jumps up or steps down by the same amount at the same moment. Between steps it slopes down; it slopes down gently where capacity is low and steeply where capacity is high. It reaches ZERO just before the red deadline line.
+C. A GREEN solid line labeled CAPACITY (label in green), measured on the right axis, in the LOWER third of the chart, also a staircase of flat pieces: starts low; at about 30% drops lower; at about 38% steps back up; at about 45% steps up higher; at about 60% dips almost to zero for a short moment and recovers; at about 68% steps up much higher; at about 76% steps up higher again.
+Seven small circled numbers, each placed at its event on the right line, each with a short two-line hand-lettered note next to it (first line the event, second line starting with an arrow is the fix). Exactly these words, all caps, legible:
+(1) at the first upward jump of TOTAL SCOPE: SCOPE BALLOONS / → TRIM
+(2) at the first drop of CAPACITY: TECH LEAD QUITS / → DELEGATE
+(3) at the step up of CAPACITY at 45%: BIG HIRE LANDS / → GROW
+(4) at the second upward jump of TOTAL SCOPE: NEW FLAG: CUSTOMER C / → DECIDE: B FIRST
+(5) at the dip of CAPACITY near zero: P0 OUTAGE / → RALLY
+(6) at the big step up of CAPACITY at 68%: PLATFORM API / → ALLY
+(7) at the step up of CAPACITY at 76%: CI 40 → 8 MIN / → AUTOMATE
+Keep every note fully inside the image and not crossing lines. Use exactly four ink colors: black, blue for TOTAL SCOPE, green for CAPACITY and its right axis, and red ONLY for the DEADLINE line and its label. Each circled number and note is in black. All lettering large, clean and legible. No other text.
