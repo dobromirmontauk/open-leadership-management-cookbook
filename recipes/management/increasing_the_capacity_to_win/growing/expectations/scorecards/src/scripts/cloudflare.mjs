@@ -18,6 +18,8 @@ if(!dbId||!/^[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/i.tes
 if(action!=='migrate')run(['scripts/run-framework.mjs','build']);
 const generated=JSON.parse(readFileSync('dist/server/wrangler.json','utf8'));
 const config={name,main:'../dist/server/index.js',no_bundle:true,compatibility_date:generated.compatibility_date,compatibility_flags:generated.compatibility_flags,assets:{directory:'../dist/client'},d1_databases:[{binding:'DB',database_name:dbName,database_id:dbId,migrations_dir:'../drizzle'}],rules:[{type:'ESModule',globs:['**/*.js','**/*.mjs']}],workers_dev:true,observability:{enabled:true}};
+const domain=process.env.CLOUDFLARE_CUSTOM_DOMAIN;
+if(domain){if(!/^(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z]{2,}$/.test(domain))throw Error('Set CLOUDFLARE_CUSTOM_DOMAIN to a hostname without a protocol or path.');config.routes=[{pattern:domain,custom_domain:true}];}
 if(process.env.CLOUDFLARE_ACCOUNT_ID)config.account_id=process.env.CLOUDFLARE_ACCOUNT_ID;
 mkdirSync('.cloudflare',{recursive:true});writeFileSync('.cloudflare/wrangler.json',JSON.stringify(config,null,2)+'\n');
 console.log('Prepared standalone Cloudflare config. No credentials written.');

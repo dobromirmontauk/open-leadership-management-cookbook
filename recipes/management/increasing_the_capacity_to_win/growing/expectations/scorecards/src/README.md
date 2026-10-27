@@ -4,7 +4,7 @@ A reusable scorecard-driven workshop engine: select one of ten scorecards from t
 
 ## Included
 
-- Account-free create/join flow; no session directory or session history.
+- Account-free create/join flow: create an empty room, share its join link, and let participants enter their own names. Optional reserved names; up to 40 people. No session directory or session history.
 - 128-bit random session IDs; separate facilitator and participant capability keys.
 - D1 persistence for sessions, immutable scorecard snapshots, roster, progress, ratings, and private reflection notes.
 - Facilitator-controlled slides with 3-second polling on participant devices.

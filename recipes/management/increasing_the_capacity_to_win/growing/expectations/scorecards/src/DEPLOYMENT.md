@@ -36,7 +36,7 @@ pnpm cloudflare:dry-run
 pnpm cloudflare:deploy
 ```
 
-The dry run builds and validates the Worker without changing remote resources. Deploy builds, prepares `.cloudflare/wrangler.json`, applies pending D1 migrations to the specified remote database, and deploys the Worker and client assets. Wrangler prints the live workers.dev URL. Set a custom domain in Cloudflare when ready.
+The dry run builds and validates the Worker without changing remote resources. Deploy builds, prepares `.cloudflare/wrangler.json`, applies pending D1 migrations to the specified remote database, and deploys the Worker and client assets. Wrangler prints the live workers.dev URL. Set `CLOUDFLARE_CUSTOM_DOMAIN` to a hostname in your Cloudflare zone to provision its DNS and TLS as part of deployment.
 
 If the named D1 database already exists, use its UUID rather than running create-db again. Use different Worker names, database names and database UUIDs for staging and production. Database UUIDs and account IDs are configuration, not API credentials; generated configuration stays ignored anyway.
 
@@ -60,10 +60,19 @@ Edit `db/schema.ts`, then `pnpm db:generate`. Review and commit the generated SQ
 
 Session identifiers contain 128 cryptographically random bits (32 hexadecimal characters). There is no endpoint, UI, or device history listing sessions. Keep a join URL or ID yourself. Session content and roster are visible to anyone possessing that secret ID; do not publish it. Use high entropy as capability-based access, not a claim of identity or a substitute for participant trust.
 
-Facilitator controls require a separate random secret, stored hashed on the server and carried in a private URL fragment. Participants claim a roster seat on first join and get a separate secret remembered on that device. Claiming a name does not verify identity. The facilitator can release a seat to recover access. Personal reports reveal aggregates only; the single-rater case is explicitly labeled. Individual ratings are not returned to other participants or the facilitator. Session records currently persist until an operator removes them; no retention job is configured.
+Facilitator controls require a separate random secret, stored hashed on the server and carried in a private URL fragment. Participants enter their own name (or claim a reserved roster seat) on first join and get a separate secret remembered on that device. Claiming a name does not verify identity. The facilitator can release a seat to recover access. Personal reports reveal aggregates only; the single-rater case is explicitly labeled. Individual ratings are not returned to other participants or the facilitator. Session records currently persist until an operator removes them; no retention job is configured.
 
 ## Reference
 
 - https://developers.cloudflare.com/d1/wrangler-commands/
 - https://developers.cloudflare.com/d1/reference/migrations/
 - https://developers.cloudflare.com/workers/wrangler/commands/
+
+## Current production deployment
+
+- App: https://scorecards.montauk.family
+- Worker: `good-great-manager`
+- Account: `0f11384106c49ca3b9c4260b48ee1348`
+- D1: `good-great-manager` (`d46b6caa-4503-419e-a63b-fce2ec4a14f1`)
+- Set `CLOUDFLARE_CUSTOM_DOMAIN=scorecards.montauk.family` on subsequent deployments to retain the custom domain.
+- The Projects page on https://dobromir.montauk.family links to the app; its source is in `dobromirmontauk/montauk-blog`.
