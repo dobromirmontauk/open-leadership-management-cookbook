@@ -15,7 +15,7 @@ Philosophy, content and process borrow heavily from TellApart, Twitter, Wade Cha
 | Arc 1 — Evaluate | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.pdf) | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201%20%28speaker%20notes%29.pdf) | [PPTX](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.pptx) | [HTML](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%201.html) |
 | Arc 2 — Train | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.pdf) | [PDF](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202%20%28speaker%20notes%29.pdf) | [PPTX](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.pptx) | [HTML](exports/The%20Art%20of%20Hiring%20%E2%80%94%20Arc%202.html) |
 
-When I present this live, each arc ends with case studies about real people. Those slides are left out of this public version.
+Arc 2 includes case studies of people who modeled each level well (first names only). Arc 1's case studies are left out of this public version. The PowerPoint and HTML exports of Arc 2 predate the case studies; the PDFs are current.
 
 ## Arc 1 — Evaluate
 
@@ -70,6 +70,11 @@ When I present this live, each arc ends with case studies about real people. Tho
 ![Arc 2, slide 19](slides/arc2/19.jpg)
 ![Arc 2, slide 20](slides/arc2/20.jpg)
 ![Arc 2, slide 21](slides/arc2/21.jpg)
+![Arc 2, slide 22](slides/arc2/22.jpg)
+![Arc 2, slide 23](slides/arc2/23.jpg)
+![Arc 2, slide 24](slides/arc2/24.jpg)
+![Arc 2, slide 25](slides/arc2/25.jpg)
+![Arc 2, slide 26](slides/arc2/26.jpg)
 
 ## Images
 
