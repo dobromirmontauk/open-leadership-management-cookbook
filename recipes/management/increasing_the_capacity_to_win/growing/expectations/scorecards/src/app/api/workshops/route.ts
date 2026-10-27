@@ -21,7 +21,7 @@ export async function POST(req:Request){try{
  const b:any=await req.json(),d=await db();
  if(b.action==='create'){
  const card=validateCard(b.card),names=(b.names||[]).map((n:any)=>typeof n==='string'?n.trim():'').filter(Boolean);
- if(names.length<2||names.length>40||names.some((n:string)=>n.length>80)||new Set(names.map((n:string)=>n.toLowerCase())).size!==names.length)return json({error:'Add 2–40 participants with distinct names (up to 80 characters each).'},400);
+ if(names.length>40||names.some((n:string)=>n.length>80)||new Set(names.map((n:string)=>n.toLowerCase())).size!==names.length)return json({error:'Use up to 40 distinct participant names (up to 80 characters each), or leave the list empty for people to join themselves.'},400);
  const id=Array.from(crypto.getRandomValues(new Uint8Array(16))).map(v=>v.toString(16).padStart(2,'0')).join('').toUpperCase();const hostKey=token();const people=names.map((name:string,i:number)=>({id:'p'+i,name,hash:null}));
  await d.prepare('INSERT INTO workshops (id,host_hash,title,card,people,slide,revealed,created) VALUES (?,?,?,?,?,0,0,?)').bind(id,await hash(hostKey),String(b.title||card.title+' workshop').slice(0,150),JSON.stringify(card),JSON.stringify(people),new Date().toISOString()).run();return json({id,hostKey});
  }
@@ -29,9 +29,22 @@ export async function POST(req:Request){try{
  const people=JSON.parse(s.people),card=JSON.parse(s.card),key=req.headers.get('Authorization')?.replace(/^Bearer /,'')||'',h=key?await hash(key):'',host=h===s.host_hash,p=people.find((p:any)=>p.hash===h&&p.hash);
  if(b.action==='join'){
  if(s.revealed)return json({error:'This session has ended.'},409);
- const chosen=people.find((p:any)=>p.id===b.person);if(!chosen||chosen.hash)return json({error:'This seat has already been claimed. Use the original device or ask the facilitator to release it.'},409);
+ let chosen;
+ if(b.person){
+ chosen=people.find((p:any)=>p.id===b.person);
+ if(!chosen||chosen.hash)return json({error:'This seat has already been claimed. Use the original device or ask the facilitator to release it.'},409);
+ }else{
+ const name=typeof b.name==='string'?b.name.trim():'';
+ if(!name||name.length>80)return json({error:'Enter your name (up to 80 characters).'},400);
+ chosen=people.find((p:any)=>p.name.toLowerCase()===name.toLowerCase());
+ if(chosen?.hash)return json({error:'That name is already in the room. Use your original device, ask the facilitator to release your seat, or add a last name to distinguish yourself.'},409);
+ if(!chosen){
+ if(people.length>=40)return json({error:'This room is full (40 participants).'},409);
+ chosen={id:crypto.randomUUID(),name,hash:null};people.push(chosen);
+ }
+ }
  const participantKey=token();chosen.hash=await hash(participantKey);
- const update=await d.prepare('UPDATE workshops SET people=? WHERE id=? AND people=?').bind(JSON.stringify(people),id,s.people).run();if(!update.meta.changes)return json({error:'Someone just joined. Please try again.'},409);
+ const update=await d.prepare('UPDATE workshops SET people=? WHERE id=? AND people=? AND revealed=0').bind(JSON.stringify(people),id,s.people).run();if(!update.meta.changes)return json({error:'The room changed. Please try joining again.'},409);
  return json({key:participantKey,person:chosen.id});
  }
  if(b.action==='control'){
