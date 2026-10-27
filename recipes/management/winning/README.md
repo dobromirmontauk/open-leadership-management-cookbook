@@ -54,3 +54,7 @@
     * "Why are you doing this?"
 * Delegating to A players vs B players vs C players
 * 
+
+## Presentations
+
+- [From Slack to Shipped](from_slack_to_shipped/README.md) — Maya and Robo-Maya; includes the deck, outline, artwork and a Python rebuild command.
