@@ -16,6 +16,7 @@ export function parseMarkdown(text:string,title='Imported scorecard'):Card{
  return {id:'custom',title,description:'Your scorecard, the same workshop experience.',scale:defaultScale,sections};
 }
 const labels:Record<string,[string,string]>={
+ 'generic_manager.md':['People Manager','Aim, trim, motivate, grow, build alliances, and delegate.'],
  'twitter_ad_serving_em.md':['EM · Ad Serving','Grow teams and deliver large, reliable systems.'],
  'twitter_billing_payments_em.md':['EM · Billing & Payments','Build reliable payment platforms and strong teams.'],
  'doxel_fe_em.md':['Sr. Engineering Manager, Product','Execution, product leadership, talent, and technology.'],

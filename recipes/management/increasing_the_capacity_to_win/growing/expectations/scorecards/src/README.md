@@ -1,6 +1,6 @@
 # Good Manager / Great Manager
 
-A reusable scorecard-driven workshop engine: select one of nine scorecards from the Open Leadership & Management Cookbook or import Markdown/JSON, create a database-backed session, share a long random ID, teach one behavior per slide, and release personal self-versus-peer reports.
+A reusable scorecard-driven workshop engine: select one of ten scorecards from the Open Leadership & Management Cookbook or import Markdown/JSON, create a database-backed session, share a long random ID, teach one behavior per slide, and release personal self-versus-peer reports.
 
 ## Included
 

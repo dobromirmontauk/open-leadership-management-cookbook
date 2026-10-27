@@ -29,6 +29,7 @@ See my recipe on Technical Leadership Culture [here](link_needed).
 ## Engineering Management
 For engineering management roles I create both generic scorecards to help explain expectations at the different levels, and role-specific scorecards for a given company/role when I'm hiring. For the generic ones the sections are generally not ordered by importance. For a role-specific scorecard I *mostly* reorder the generic ones so the prioritization is correct, but sometimes there are specific criterias for success in that role which is missing from the generic one.
 
+* [People Manager](generic_manager.md): six core areas covering winning and increasing the capacity to win.
 * Twitter Roles
     * [Ad Serving EM](twitter_ad_serving_em.md)
     * [Billing & Payments EM](twitter_billing_payments_em.md)
