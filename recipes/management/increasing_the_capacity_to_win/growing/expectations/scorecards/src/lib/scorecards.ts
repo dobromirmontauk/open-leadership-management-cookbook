@@ -85,3 +85,16 @@ export function inspectMarkdown(text:string,title:string){
  if(nested)warnings.push('Deeper nested bullets were combined with their parent behavior. Review the resulting slides.');
  return {card:{id:'custom',title,description:'Your scorecard, the same workshop experience.',scale:defaultScale,sections},warnings};
 }
+
+// Presence of a saved response counts as complete, including an explicit skip.
+export function workshopCompletion(card:Card,ratings:Rating[],people:{id:string;name:string;claimed:boolean}[],slide:number){
+ const current=flatten(card)[slide],targets=new Set(people.map(p=>p.id)),items=new Set(current.section.items.map(item=>item.id));
+ const participants=people.map(person=>{
+  const responses=ratings.filter(r=>r.rater===person.id&&targets.has(r.target)&&items.has(r.item));
+  const behavior=new Set(responses.filter(r=>r.item===current.item.id).map(r=>r.target)).size;
+  const section=new Set(responses.map(r=>JSON.stringify([r.target,r.item]))).size;
+  return {...person,behavior,section,behaviorDone:person.claimed&&behavior===people.length,sectionDone:person.claimed&&section===people.length*items.size};
+ });
+ const finished=participants.filter(p=>p.behaviorDone).length,sectionFinished=participants.filter(p=>p.sectionDone).length;
+ return {item:current.item.id,section:current.section.id,required:people.length,sectionRequired:people.length*items.size,finished,sectionFinished,ready:people.length>0&&finished===people.length,sectionReady:people.length>0&&sectionFinished===people.length,participants};
+}

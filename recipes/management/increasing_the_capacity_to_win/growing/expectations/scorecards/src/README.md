@@ -8,6 +8,7 @@ A reusable scorecard-driven workshop engine: select one of ten scorecards from t
 - 128-bit random session IDs; separate facilitator and participant capability keys.
 - D1 persistence for sessions, immutable scorecard snapshots, roster, progress, ratings, and private reflection notes.
 - Facilitator-controlled slides with 3-second polling on participant devices.
+- Live facilitator completion status for each behavior and section, with per-person response counts. Scores and explicit skips both count as completed; unjoined reserved seats stay pending.
 - A shared score-review step after each section: moderators see each person’s distribution, Peer Average, Your Average, Peer Highest, and Peer Lowest. Participants see only their own per-behavior self score, peer histogram, minimum, maximum, and average. Completed sections remain available under Section reviews.
 - Section scores average each peer’s numeric feedback across behaviors, then weight each peer equally. Highest and lowest are individual peer section averages. Self-scores and skips are excluded from peer statistics.
 - 1–5 scoring and explicit “not enough evidence”; ratings lock when reports release.

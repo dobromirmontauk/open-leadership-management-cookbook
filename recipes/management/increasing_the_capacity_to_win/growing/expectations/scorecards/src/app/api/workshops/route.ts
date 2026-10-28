@@ -1,5 +1,5 @@
 import {env} from 'cloudflare:workers';
-import {validateCard,flatten,report} from '../../../lib/scorecards';
+import {validateCard,flatten,report,workshopCompletion} from '../../../lib/scorecards';
 export const dynamic='force-dynamic';
 const json=(x:any,status=200)=>Response.json(x,{status,headers:{'Cache-Control':'no-store'}});
 const token=()=>crypto.randomUUID()+crypto.randomUUID();
@@ -13,6 +13,7 @@ export async function GET(req:Request){try{
  const base:any={id:s.id,title:s.title,card,people:people.map((p:any)=>({id:p.id,name:p.name,claimed:!!p.hash})),slide:s.slide,reviewSection:s.review_section??-1,reviewedThrough:s.reviewed_through??-1,revealed:!!s.revealed,host,me:p?.id||null};
  if(host){
  const all:any=await d.prepare('SELECT rater,target,item,value FROM ratings WHERE workshop=?').bind(id).all();
+ base.completion=workshopCompletion(card,all.results,base.people,s.slide);
  base.moderatorReports=base.reviewedThrough>=0?people.map((person:any)=>({person:person.id,name:person.name,sections:report(card,all.results,person.id).slice(0,base.reviewedThrough+1)})):[];
  const rows=await d.prepare('SELECT rater,COUNT(*) as count FROM ratings WHERE workshop=? GROUP BY rater').bind(id).all();base.progress=rows.results;}
  if(p){const r:any=await d.prepare('SELECT rater,target,item,value,note FROM ratings WHERE workshop=? AND rater=?').bind(id,p.id).all();base.ratings=r.results;
