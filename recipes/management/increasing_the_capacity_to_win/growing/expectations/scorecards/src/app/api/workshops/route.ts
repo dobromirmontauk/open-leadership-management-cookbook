@@ -10,10 +10,16 @@ export async function GET(req:Request){try{
  if(!id||!/^[A-F0-9]{32}$/.test(id))return json({error:'Enter the complete 32-character session ID.'},400);
  const d=await db(),s:any=await d.prepare('SELECT * FROM workshops WHERE id=?').bind(id).first();if(!s)return json({error:'Session not found. Check the code.'},404);
  const people=JSON.parse(s.people),card=JSON.parse(s.card),h=key?await hash(key):'',host=h===s.host_hash,p=people.find((p:any)=>p.hash&&p.hash===h);
- const base:any={id:s.id,title:s.title,card,people:people.map((p:any)=>({id:p.id,name:p.name,claimed:!!p.hash})),slide:s.slide,revealed:!!s.revealed,host,me:p?.id||null};
- if(host){const rows=await d.prepare('SELECT rater,COUNT(*) as count FROM ratings WHERE workshop=? GROUP BY rater').bind(id).all();base.progress=rows.results;}
+ const base:any={id:s.id,title:s.title,card,people:people.map((p:any)=>({id:p.id,name:p.name,claimed:!!p.hash})),slide:s.slide,reviewSection:s.review_section??-1,reviewedThrough:s.reviewed_through??-1,revealed:!!s.revealed,host,me:p?.id||null};
+ if(host){
+ const all:any=await d.prepare('SELECT rater,target,item,value FROM ratings WHERE workshop=?').bind(id).all();
+ base.moderatorReports=base.reviewedThrough>=0?people.map((person:any)=>({person:person.id,name:person.name,sections:report(card,all.results,person.id).slice(0,base.reviewedThrough+1)})):[];
+ const rows=await d.prepare('SELECT rater,COUNT(*) as count FROM ratings WHERE workshop=? GROUP BY rater').bind(id).all();base.progress=rows.results;}
  if(p){const r:any=await d.prepare('SELECT rater,target,item,value,note FROM ratings WHERE workshop=? AND rater=?').bind(id,p.id).all();base.ratings=r.results;
- if(s.revealed){const all:any=await d.prepare('SELECT rater,target,item,value FROM ratings WHERE workshop=? AND target=?').bind(id,p.id).all();base.report=report(card,all.results,p.id);}}
+ const all:any=await d.prepare('SELECT rater,target,item,value FROM ratings WHERE workshop=? AND target=?').bind(id,p.id).all();
+ const personal=report(card,all.results,p.id);
+ base.sectionReports=personal.slice(0,base.reviewedThrough+1);
+ if(s.revealed)base.report=personal;}
  return json(base);
  }catch(e:any){return json({error:e.message},500)}}
 export async function POST(req:Request){try{
@@ -49,8 +55,20 @@ export async function POST(req:Request){try{
  }
  if(b.action==='control'){
  if(!host)return json({error:'Facilitator link required.'},403);
+ if(b.reviewSection!==undefined){
+ const sectionIndex=b.reviewSection;
+ if(!Number.isInteger(sectionIndex)||sectionIndex<0||sectionIndex>=card.sections.length)return json({error:'Choose a valid section to review.'},400);
+ const slides=flatten(card),current=slides[s.slide];
+ if(current.sectionIndex!==sectionIndex||current.itemIndex!==current.section.items.length-1)return json({error:'Finish this section before opening its review.'},409);
+ await d.prepare('UPDATE workshops SET review_section=?,reviewed_through=MAX(reviewed_through,?) WHERE id=?').bind(sectionIndex,sectionIndex,id).run();
+ return json({ok:true});
+ }
  if(b.revealed!==undefined)await d.prepare('UPDATE workshops SET revealed=? WHERE id=?').bind(b.revealed?1:0,id).run();
- if(Number.isInteger(b.slide)&&b.slide>=0&&b.slide<flatten(card).length)await d.prepare('UPDATE workshops SET slide=? WHERE id=?').bind(b.slide,id).run();return json({ok:true});
+ if(b.slide!==undefined){
+ if(!Number.isInteger(b.slide)||b.slide<0||b.slide>=flatten(card).length)return json({error:'Choose a valid behavior.'},400);
+ await d.prepare('UPDATE workshops SET slide=?,review_section=-1 WHERE id=?').bind(b.slide,id).run();
+ }
+ return json({ok:true});
  }
  if(b.action==='release'){
  if(!host)return json({error:'Facilitator link required.'},403);

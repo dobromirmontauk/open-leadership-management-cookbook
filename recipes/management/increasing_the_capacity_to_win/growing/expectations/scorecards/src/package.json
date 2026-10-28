@@ -13,7 +13,7 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "typecheck": "tsc --noEmit",
-    "test": "node tests/scorecards.mjs && node tests/api.mjs",
+    "test": "node tests/scorecards.mjs && node tests/api.mjs && node tests/reconnect.mjs",
     "cloudflare:login": "node scripts/cloudflare.mjs login",
     "cloudflare:create-db": "node scripts/cloudflare.mjs create-db",
     "cloudflare:prepare": "node scripts/cloudflare.mjs prepare",

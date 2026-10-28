@@ -43,11 +43,23 @@ export function validateCard(c:any):Card{
 export const flatten=(card:Card)=>card.sections.flatMap((section,sectionIndex)=>section.items.map((item,itemIndex)=>({section,sectionIndex,item,itemIndex})));
 export type Rating={rater:string;target:string;item:string;value:number|null;note?:string};
 export function report(card:Card,ratings:Rating[],person:string){
+ const mean=(values:number[])=>values.length?values.reduce((a,b)=>a+b,0)/values.length:null;
  return card.sections.map(section=>{
- const items=section.items.map(item=>{const self=ratings.find(r=>r.rater===person&&r.target===person&&r.item===item.id)?.value??null;const peer=ratings.filter(r=>r.rater!==person&&r.target===person&&r.item===item.id&&typeof r.value==='number');const avg=peer.length?peer.reduce((a,b)=>a+(b.value as number),0)/peer.length:null;return {...item,self,peer:avg,n:peer.length,range:peer.length?[Math.min(...peer.map(r=>r.value!)),Math.max(...peer.map(r=>r.value!))]:null,gap:self!==null&&avg!==null?self-avg:null};});
- const mean=(a:number[])=>a.length?a.reduce((x,y)=>x+y,0)/a.length:null;
- const paired=items.filter(i=>i.gap!==null);
- return {...section,items,self:mean(items.filter(i=>i.self!==null).map(i=>i.self!)),peer:mean(items.filter(i=>i.peer!==null).map(i=>i.peer!)),gap:mean(paired.map(i=>i.gap!)),selfCount:items.filter(i=>i.self!==null).length,peerCount:items.filter(i=>i.peer!==null).length};
+  const items=section.items.map(item=>{
+   const self=ratings.find(r=>r.rater===person&&r.target===person&&r.item===item.id)?.value??null;
+   const peers=ratings.filter(r=>r.rater!==person&&r.target===person&&r.item===item.id&&typeof r.value==='number').map(r=>r.value as number);
+   const peer=mean(peers),lowest=peers.length?Math.min(...peers):null,highest=peers.length?Math.max(...peers):null;
+   return {...item,self,peer,n:peers.length,lowest,highest,distribution:[1,2,3,4,5].map(n=>peers.filter(v=>v===n).length),range:peers.length?[lowest!,highest!]:null,gap:self!==null&&peer!==null?self-peer:null};
+  });
+  const selfs=items.filter(i=>i.self!==null).map(i=>i.self!),peers=items.filter(i=>i.peer!==null).map(i=>i.peer!);
+  const sectionItems=new Set(section.items.map(item=>item.id));
+  const byPeer=new Map<string,number[]>();
+  for(const rating of ratings){
+   if(rating.target!==person||rating.rater===person||!sectionItems.has(rating.item)||typeof rating.value!=='number')continue;
+   const values=byPeer.get(rating.rater)||[];values.push(rating.value);byPeer.set(rating.rater,values);
+  }
+  const peerAverages=[...byPeer.values()].map(values=>mean(values)!);
+  return {...section,items,self:mean(selfs),peer:mean(peers),peerAverage:mean(peerAverages),peerHighest:peerAverages.length?Math.max(...peerAverages):null,peerLowest:peerAverages.length?Math.min(...peerAverages):null,peerRaters:peerAverages.length,distribution:[0,1,2,3,4].map(n=>items.reduce((sum,item)=>sum+item.distribution[n],0)),gap:mean(items.filter(i=>i.gap!==null).map(i=>i.gap!)),selfCount:selfs.length,peerCount:peers.length};
  });
 }
 export function inspectMarkdown(text:string,title:string){

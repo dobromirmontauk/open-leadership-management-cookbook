@@ -8,11 +8,14 @@ A reusable scorecard-driven workshop engine: select one of ten scorecards from t
 - 128-bit random session IDs; separate facilitator and participant capability keys.
 - D1 persistence for sessions, immutable scorecard snapshots, roster, progress, ratings, and private reflection notes.
 - Facilitator-controlled slides with 3-second polling on participant devices.
+- A shared score-review step after each section: moderators see each person’s distribution, Peer Average, Your Average, Peer Highest, and Peer Lowest. Participants see only their own per-behavior self score, peer histogram, minimum, maximum, and average. Completed sections remain available under Section reviews.
+- Section scores average each peer’s numeric feedback across behaviors, then weight each peer equally. Highest and lowest are individual peer section averages. Self-scores and skips are excluded from peer statistics.
 - 1–5 scoring and explicit “not enough evidence”; ratings lock when reports release.
 - Equal-weight behavior means, matched-behavior self/peer gaps, counts, ranges, strengths, development areas, and possible blind spots.
 - Markdown / JSON validation with a preview and structural warnings.
 - One renderer and report engine for every scorecard; presentation mode and responsive layouts.
 - Fictional sample session, JSON scorecard and report export.
+- Final personal report with an all-section summary plus every behavior’s feedback, and Print / Save PDF support. Print layout omits navigation and starts each section on a fresh page.
 
 ## From a fresh cookbook checkout
 
@@ -35,6 +38,10 @@ pnpm dev
 ```
 
 The development command prints its local address. Managed Sites previews use the platform preview launcher instead. Run `pnpm typecheck` and `pnpm test` for checks.
+
+## Reconnecting as facilitator
+
+Opening a private facilitator link remembers manager access on that browser. Returning through the room link or session code restores those controls. Facilitator access is stored separately from participant access. On another device, choose “Session manager? Reconnect as facilitator” and paste your private facilitator link or key. Keep a copy from Participants & sharing; a room code alone cannot recover manager access.
 
 ## Scorecard format
 
@@ -69,4 +76,4 @@ Scale is optional; defaults to the shared workshop scale. Each session stores a 
 
 ## Deployment
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for Cloudflare credentials, D1 provisioning, dry runs, migrations, and deployment commands. Remote deployment has not been configured with personal Cloudflare credentials.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for Cloudflare credentials, D1 provisioning, dry runs, migrations, and deployment commands. Production runs at https://scorecards.montauk.family; deployment settings are documented there.

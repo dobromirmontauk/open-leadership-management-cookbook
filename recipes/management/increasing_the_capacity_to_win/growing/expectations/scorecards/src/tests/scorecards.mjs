@@ -26,3 +26,23 @@ const generic=templates.find(c=>c.id==='generic_manager');
 assert.deepEqual(generic.sections.map(s=>s.items.length),[5,5,5,5,5,5]);
 assert.match(generic.sections[5].title,/Delegate/);
 assert.match(generic.sections[5].items[0].text,/Delegates missions/);
+
+// Section review statistics exclude self-scores and skips from peer distributions.
+const [review]=report(c,ratings,'a');
+assert.deepEqual(review.items[0].distribution,[0,1,0,1,0]);
+assert.equal(review.items[0].lowest,2);
+assert.equal(review.items[0].highest,4);
+assert.deepEqual(review.distribution,[1,1,0,1,0]);
+assert.equal(review.peerAverage,2.75);
+assert.equal(review.peerHighest,4);
+assert.equal(review.peerLowest,1.5);
+assert.equal(review.peerRaters,2);
+assert.equal(review.self,3);
+assert.equal(review.peerCount,2);
+assert.equal(report(c,[],'a')[0].peerAverage,null);
+const partial=report(c,ratings.filter(x=>x.item==='s0i0'),'a')[0];
+assert.equal(partial.peerAverage,3);
+assert.equal(partial.peerHighest,4);
+assert.equal(partial.peerLowest,2);
+assert.equal(partial.peerCount,1);
+console.log('Section distributions, per-peer section averages, coverage, and missing feedback passed.');
