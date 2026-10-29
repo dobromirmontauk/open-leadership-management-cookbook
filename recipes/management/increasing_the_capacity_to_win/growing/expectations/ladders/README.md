@@ -18,3 +18,4 @@ I split my engineering ladder into the 3 main dimensions of software engineering
 * https://progression.fyi/ -- good collection of 3rd party ladders
 * https://www.engineeringladders.com/ - good framework to re-use for ladders
 * https://roadmap.sh/ -- One of the top projects on Gitlab. Less of a "ladder" and more of a "how to develop these skills" -- should move elsewhere.
+* [Senior Engineer Career Archetypes](senior_engineer_archetypes.md): A guide for engineers exploring different paths to Senior level. Presents a few "character class" archetypes (Leader, Product Engineer, Architect, Specialist, Infrastructure Engineer) to help engineers identify which growth path resonates with their strengths.
