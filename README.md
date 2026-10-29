@@ -118,4 +118,8 @@ There are a ton of inspirations for all the material here, too many to list. We'
     1. Script to auto-pick recipes.
     1. What else would be useful??
 1. IDEA: we should have video recordings of some of this material being taught, as well as written form. It'll be much more engaging.
-1. IDEA: we should use DALL-E to add some funny illustrations to make the content more engaging.
+2. IDEA: we should use DALL-E to add some funny illustrations to make the content more engaging.
+3. How should this be published?
+	1. Book format. https://once.com/writebook? 
+	2. Series of auto-generated presentations?
+	3. LLM-based helpful app?

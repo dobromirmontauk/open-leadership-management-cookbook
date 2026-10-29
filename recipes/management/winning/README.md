@@ -55,7 +55,13 @@
 * Delegating to A players vs B players vs C players
 * 
 
+<<<<<<< Updated upstream
 
 ## Presentations
 
 - [From Slack to Shipped](../../../thought_leadership/from_slack_to_shipped/README.md) — Maya and Robo-Maya; includes the deck, outline, artwork and a Python rebuild command.
+=======
+## Presentations
+
+- [From Slack to Shipped](from_slack_to_shipped/README.md) — Maya and Robo-Maya; includes the deck, outline, artwork and a Python rebuild command.
+>>>>>>> Stashed changes
