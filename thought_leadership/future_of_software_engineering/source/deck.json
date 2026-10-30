@@ -1,0 +1,69 @@
+{
+  "v": 4,
+  "attachments": {},
+  "createdOnFiles": {
+    "at": "2026-10-23T18:30:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "faces": {},
+  "lists": "css",
+  "order": [
+    "f01",
+    "r01",
+    "r02",
+    "r03",
+    "r04",
+    "r05",
+    "r06",
+    "r07",
+    "r08",
+    "w01",
+    "w02",
+    "w03",
+    "w04",
+    "w05",
+    "p09",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "c01",
+    "p14",
+    "h01",
+    "h02",
+    "h03",
+    "p16",
+    "t01",
+    "x01",
+    "x02",
+    "x03"
+  ],
+  "sections": {
+    "appendix": {
+      "description": "Appendix: infra for the future, agent identity and checkpointing.",
+      "start": "x01"
+    },
+    "future": {
+      "description": "Where SWE ends up: the house analogy and layered access.",
+      "start": "p13"
+    },
+    "open": {
+      "description": "Maya the wizard directs an army of robots doing the menial work.",
+      "start": "f01"
+    },
+    "recap": {
+      "description": "Recap of the June talk, From Slack to Shipped: a feedback loop, judge behavior, make verification cheap.",
+      "start": "r01"
+    },
+    "unchanged": {
+      "description": "What hasn't changed: engineering is a bottleneck, users hold context, everyone needs to be safe.",
+      "start": "p09"
+    },
+    "wrong": {
+      "description": "What I got wrong: three things.",
+      "start": "w01"
+    }
+  },
+  "title": "The Future of Software Engineering"
+}

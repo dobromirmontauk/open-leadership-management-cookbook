@@ -3,6 +3,21 @@
 Outline only. Bullets, no prose. Downstream artifacts (deck, notes, images) expand on it.
 `Image:` lines are proposed slide imagery (Maya = adult, wavy dark hair, round glasses, mustard sweater; Robo-Maya = bob-cut metal robot, orange chest panel).
 
+## Status (2026-10-30)
+
+- Given once, 2026-10-29. The deck as presented (29 slides, art + notes) is in [README.md](README.md).
+- The numbered outline below is the original plan; the deck has since diverged:
+  - Part 3 is now: future-of-SWE section → **Conclusions** (tiny teams, clear ownership interfaces, safety levels) → house analogy → Levels 1–3 → layered house ("Software Ownership Tomorrow").
+  - "One app, three layers" and the company-specific layer map were cut after the talk.
+  - The closing "Maya the wizard, again" slide (18) was never built.
+  - New **Appendix: Infra for the future**: (4) agent vs. human identity, (5) checkpoints / auto-restore when agents go rogue.
+
+## TODO
+
+- [ ] **Real examples.** The house analogy didn't land: people missed that *our customers* own the software and can change it. Add specific changes a customer could make, per layer, and what involvement each needs from us (none / a warning + test env / our engineers). Draft rows are on the TODO slide (README slide 26).
+- [ ] Decide whether the house analogy stays, or the examples replace it.
+- [ ] Optional: a timeline slide for a real "idea → shipped" story showing that the decisions, not the code, took months.
+
 ## Outline
 
 1. **Title: The Future of Software Engineering**
